@@ -6,6 +6,7 @@ adventures in ml
 * CSV file is here: https://github.com/thunderbird/rt-support-ml-experiments/blob/main/2024-07-01-2024-07-31-id-created-link-title-content.csv 
 ## 2. 2024-11-03 I tried a few prompts
 * See: https://chatgpt.com/share/e/6728613c-257c-8002-871b-ddea272f94e1 for my session with a JSON file which was weird because it didn't read all 1000 posts?!?
+* JSON file is here: https://github.com/thunderbird/rt-support-ml-experiments/blob/main/2024-07-01-2024-07-31-id-created-link-title-content.json
 ## 1. 2024-11-03 setup
 * Copy the questions file
 ```bash
