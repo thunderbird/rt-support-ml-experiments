@@ -9,6 +9,6 @@ adventures in ml
 ```bash
 mlr --csv --from link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv \
 filter '$created_epoch > 1719817199 && $created_epoch < 1722495600' \
-then cut -f id,created,link,title,content 
+then cut -f id,created,link,title,content \
 > 2024-07-01-2024-07-31-id-created-link-title-content.csv
 ```
