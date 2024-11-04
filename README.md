@@ -1,2 +1,14 @@
 # rt-support-ml-experiments
-adventures in 
+adventures in ml
+## 1. 2024-11-03 setup
+* Copy the questions file
+```bash
+ cp ../rt-tb-regular-expression-scanner/link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv .
+```
+* get essential fields: id, link, title, post, content and july 1-31, 2024
+```bash
+mlr --csv filter '$created_epoch > 1719817199 && $created_epoch < 1722495600'
+then cut -f id,created,link,title,content \
+link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv \
+> 2024-07-01-2024-07-31-id-created-link-title-content.csv
+```
