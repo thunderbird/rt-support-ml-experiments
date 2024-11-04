@@ -1,5 +1,8 @@
 # rt-support-ml-experiments
 adventures in ml
+
+## 2. 2024-11-03 I tried a few prompts
+See: https://chatgpt.com/share/e/6728613c-257c-8002-871b-ddea272f94e1
 ## 1. 2024-11-03 setup
 * Copy the questions file
 ```bash
