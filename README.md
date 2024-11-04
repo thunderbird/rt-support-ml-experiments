@@ -1,8 +1,10 @@
 # rt-support-ml-experiments
 adventures in ml
 
+## 1. 2024-11-04 I tried my CSV file
+* See https://chatgpt.com/share/e/6728f078-f578-8002-b6ea-13be4b63c509
 ## 2. 2024-11-03 I tried a few prompts
-See: https://chatgpt.com/share/e/6728613c-257c-8002-871b-ddea272f94e1
+* See: https://chatgpt.com/share/e/6728613c-257c-8002-871b-ddea272f94e1 for my session with a JSON file which was weird because it didn't read all 1000 posts?!?
 ## 1. 2024-11-03 setup
 * Copy the questions file
 ```bash
