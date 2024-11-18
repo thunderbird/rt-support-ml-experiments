@@ -28,15 +28,16 @@ all_questions = CSV.read(QUESTION_FILENAME, headers: true)
 all_answers = CSV.read(ANSWER_FILENAME, headers: true)
 
 all_questions.each do |q|
-  content = "#{q['title']} #{q['content']}"
+  content = q['content']
   question_creator = q['creator']
   id = q['id']
 
   all_answers.select { |a| a['question_id'] == id }.each do |a|
-    content += " ... #{a['content']}" if a['creator'] == question_creator
+    content += " ...a #{a['content']}" if a['creator'] == question_creator
   end
-  content += " ... #{q['tags']}"
+  content += " ...t #{q['tags']}"
   content.downcase!
+  q['content'] = content
   logger.debug "question id: #{id}"
 end
 
