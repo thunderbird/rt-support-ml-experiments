@@ -5,6 +5,7 @@ adventures in ml :-)
 * Using this file: https://github.com/thunderbird/rt-support-ml-experiments/blob/main/2024-11-04-2024-11-17-yearly-thunderbird-questions-id-link-yyyymmdd-title-content.json
 * 2nd prompt is: `Please provide the links to the specific posts.`
 * ChatGPT session is: https://chatgpt.com/share/e/673b6871-f304-8002-9567-a6620301d77d
+* * 3rd prompt is: `What are the differences between the week of November 4, 2024 to November 10, 2024 and the week of November 11, 2024 to November 17, 2024?`
 
 ## 1. 2024-11-18 Create JSON file just for November 4-17, 2024 i.e. last two weeks
 * Edit the file and delete anything before november 4, 2024, have to figure out how to do this using jq or mlr :-)
