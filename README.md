@@ -4,8 +4,10 @@ adventures in ml
 ## 1. 2024-11-18 try create JSON and then cut id, link, yyyy_mm_dd, title, content
 
 ```bash
-./create-json-from-question-and-original-poster-answer.rb link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv 2023-2024-yearly-thunderbird-answers.csv
-jq '[.[] | {id: .id, link: .link, yyyy_mm_dd: .yyyy_mm_dd, title: .title, content: .content}]' questions-plus-original-poster-answers-and-tags-first_two_thunderbird_april_2023_questions.json
+./create-json-from-question-and-original-poster-answer.rb \
+link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv 2023-2024-yearly-thunderbird-answers.csv
+jq '[.[] | {id: .id, link: .link, yyyy_mm_dd: .yyyy_mm_dd, title: .title, content: .content}]' \
+questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json
 ```
 ## 1. 2024-11-04 I tried my CSV file
 * See https://chatgpt.com/share/e/6728f078-f578-8002-b6ea-13be4b63c509
