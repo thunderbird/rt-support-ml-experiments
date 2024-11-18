@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1409751",
+    "created": "2023-03-31 21:57:41 -0700",
+    "updated": "2023-03-31 22:14:16 -0700",
+    "title": "Thunderbird suddenly stopped working and will no longer load successfully",
+    "content": "<p>Thursday both Thunderbird and Fire fox suddenly stopped working with a message that they were no responding. I closed the windows and tried to bring them back in. The response was </p><p>Thunderbird is already running, but is not responding. The old Thunderbird process must be closed to open a new window. I cancelled and looked at the task manager  which indicated that thunderbird was not there. After another try I did a conputer restart and finally a shutdown , unplug and restart with the same result. </p><p>I I refreshed thunderbird, no luck.  I deleted and reinstalled Thunderbird, still no go. ( I was doing the same thing with Firefox.  I had to go out of town for 2 days and Firefox has healed itself but thunderbird still doesn't work. HELP! </p><p>I'll be looking for emails on my phone, I don't want to use a different email on my desktop. </p>",
+    "tags": "fix-problems;",
+    "product": "thunderbird",
+    "topic": "fix-slowness-crashing-error-messages-and-other-problems",
+    "locale": "en-US",
+    "answers": "1573619;",
+    "creator": "geniec",
+    "created_epoch": "1680325061",
+    "link": "https://support.mozilla.org/questions/1409751",
+    "iso_week": "2023-13",
+    "yyyy_mm_dd": "2023-04-01"
+  },
+  {
+    "id": "1409754",
+    "created": "2023-04-01 01:08:31 -0700",
+    "updated": "2023-04-02 07:31:30 -0700",
+    "title": "Managing Sender Identity from Different SMTP or Standalone Sender Identity without Inbox",
+    "content": "<p>Hello, I want to make an email with two sender identity from different SMTP. Is that possible?  One inbox for mail A, but sent as mail A or mail B with each own SMTP.  </p><p>Case: </p> <ol><li> Mail A has IMAP and SMTP access </li><li> Mail B has SMTP access </li><li> Mail A and mail B has different SMTP </li><li> Mail B has no IMAP/POP access but all email received are forwarded to Mail A </li></ol> <p>Purpose: Send email like normal (choose one click sender, then write the rest of mail) using email with only SMTP access </p><p>It works well if they are on the same SMTP. As each account can only have one SMTP, I have to change SMTP manually to mail B after sending mail as mail A. It works for sending (by changing SMTP details) but not efficient. </p><p>Or maybe, is there a way to create send-only mail without inbox? </p><p>Thinks like Gmail feature...  In Gmail, <a href=\"https://support.google.com/mail/answer/22370?hl=en\" rel=\"nofollow\">Send emails from a different address or alias</a> feature-like is probably what I'm looking for. Its alias can have its own unique SMTP setting, but only have one inbox.  </p><p>It works too, but want to setting this in Thunderbird if possible. </p>",
+    "tags": "customize;",
+    "product": "thunderbird",
+    "topic": "customize-controls-options-and-add-ons",
+    "locale": "en-US",
+    "answers": "1573634;1573637;1573676;1573678;1573683;1573686;1573691;1573693;1573695;1573745;1573805;",
+    "creator": "omiyage",
+    "created_epoch": "1680336511",
+    "link": "https://support.mozilla.org/questions/1409754",
+    "iso_week": "2023-13",
+    "yyyy_mm_dd": "2023-04-01"
+  }
+]
