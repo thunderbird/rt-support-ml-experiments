@@ -5,8 +5,7 @@ adventures in ml :-)
 * Edit the file and delete anything before november 4, 2024, have to figure out how to do this using jq or mlr :-)
 * file 2024-11-04-2024-11-17-yearly-thunderbird-questions-id-link-yyyymmdd-title-content.json
 ```bash
-cp questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json \
-2024-11-04-2024-11-17-yearly-thunderbird-questions-id-link-yyyymmdd-title-content.json
+cp 2023-2024-yearly-thunderbird-questions-id-link-yyyymmdd-title-content.json 2024-11-04-2024-11-17-yearly-thunderbird-questions-id-link-yyyymmdd-title-content.json
 ```
 and then edit to remove prior to november 4, 2024
 ## 1. 2024-11-17 try create JSON and then cut id, link, yyyy_mm_dd, title, content
