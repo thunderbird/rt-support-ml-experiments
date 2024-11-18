@@ -35,7 +35,7 @@ all_questions.each do |q|
   all_answers.select { |a| a['question_id'] == id }.each do |a|
     content += " ... #{a['content']}" if a['creator'] == question_creator
   end
-  content += " #{q['tags']}"
+  content += " ... #{q['tags']}"
   content.downcase!
   logger.debug "question id: #{id}"
 end
