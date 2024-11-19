@@ -1,5 +1,11 @@
 # rt-support-ml-experiments
 adventures in ml :-)
+
+## 3. 2024-11-18 Filter by date e.g. greater than November 3,  23:59:59
+```bash
+cat questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json | \
+jq   '.[] | select(.created_epoch|tostring>"1730678399")'  > /tmp/foo.json
+```
 ## 2. 2024-11-18 Create JSON file just for November 4-17, 2024 i.e. last two weeks ChatGPT
 * 1st prompt is: `This is a JSON file of posts on a support forum. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.  Please link to the posts using the link field in the JSON file.`
 * Using this file: https://github.com/thunderbird/rt-support-ml-experiments/blob/main/2024-11-04-2024-11-17-yearly-thunderbird-questions-id-link-yyyymmdd-title-content.json
