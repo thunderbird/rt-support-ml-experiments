@@ -1,8 +1,8 @@
 # rt-support-ml-experiments
 adventures in ml :-)
 
-## 4. 
-```bash 2024-11-18 Filter by date e.g. greater than November 3, 2024 using yyyy_mm_dd
+## 4. 2024-11-18 Filter by date e.g. greater than November 3, 2024 using yyyy_mm_dd (better than 3.
+```bash 
 cat questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json \
 | jq   '.[] | select(.yyyy_mm_dd|tostring>"2024-11-03")'  > /tmp/foo.json
 ```
