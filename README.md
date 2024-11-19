@@ -1,6 +1,10 @@
 # rt-support-ml-experiments
 adventures in ml :-)
-
+## 6. 2024-11-18 you don't need 'tostring' since it's already a string! You also don't need the brackets around the first conditional
+```bash
+cat questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json \
+| jq   '.[] | select(.yyyy_mm_dd > "2024-11-03" and .yyyy_mm_dd < "2024-11-17")'  > /tmp/foo.json
+```
 ## 5. 2024-11-18 boolean expression to get questions after November 11 and before November 17
 ```bash
  cat questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json \
