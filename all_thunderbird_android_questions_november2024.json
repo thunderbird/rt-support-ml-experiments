@@ -1,0 +1,925 @@
+[{
+  "question_id": "1472287",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472287",
+  "title": "Download my contacts",
+  "question_content": "I haven\u0027t been able to find how to download my contacts. They didn\u0027t come with installation.",
+  "created_date": "2024-11-01 08:39:44.176483 UTC"
+}, {
+  "question_id": "1472299",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472299",
+  "title": "Android Inbox",
+  "question_content": "Hi  I have been using tb for years on pc and today started to use it on android. However I am not receiving the same emails on android as I am on pc - many are not appearing. Any ideas please. Thanks",
+  "created_date": "2024-11-01 11:14:28.824847 UTC"
+}, {
+  "question_id": "1472314",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472314",
+  "title": "gmail configuration",
+  "question_content": "hi\r\nfirst sorry for my bad english.\r\ni just installed TB-A, whith import from TB desktop and i can\u0027t configurate my gmail, always i have the message \" ! Auth0 connection failure Auth0 is currently not supported by this provider\"",
+  "created_date": "2024-11-01 12:43:16.871742 UTC"
+}, {
+  "question_id": "1472318",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472318",
+  "title": "Reading font size",
+  "question_content": "Installed Thunderbird for android, and the reading font is tiny, how do I change the display font size to one I can see. Disclaimer, I\u0027m an old guy and while I see well overall, the font is SO tiny I have to zoom the screen in to read it. \r\n\r\nThanks",
+  "created_date": "2024-11-01 13:08:08.357630 UTC"
+}, {
+  "question_id": "1472320",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472320",
+  "title": "SMTP on Thunderbird for Android",
+  "question_content": "I have installed Thunderbird on a Galaxy Tab S9. Great excitement. It receives POP3 emails OK but refuses to accept the SMTP server. The settings are OK and work on  PC. They also work on Gmail on the same machine. Any suggestions? The server in question is Zen Internet, mailhost.zen.co.uk",
+  "created_date": "2024-11-01 13:22:08.989762 UTC"
+}, {
+  "question_id": "1472321",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472321",
+  "title": "Tunderbird for Android, how to login with Microsoft Exchange",
+  "question_content": "Dear Morzilla Team, Hi,\r\n\r\nHow can I login with my work account (Microsoft 365)",
+  "created_date": "2024-11-01 13:30:32.067472 UTC"
+}, {
+  "question_id": "1472356",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472356",
+  "title": "Thunderbird beta updaten",
+  "question_content": "Ich möchte auf meinem Android Handy die beta Version von thunderbird updaten, wie gehe ich da vor? Mit freundlichem Gruß Karl Scheferling",
+  "created_date": "2024-11-01 17:06:48.181786 UTC"
+}, {
+  "question_id": "1472357",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472357",
+  "title": "Adressbook",
+  "question_content": "I installed Thunderbird from my desktop to my Android smartphone, but the Adressbook is not complete. How can I complete it?\r\nThank you!",
+  "created_date": "2024-11-01 17:12:39.513460 UTC"
+}, {
+  "question_id": "1472391",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472391",
+  "title": "OAuth sign in failed (Gmail)",
+  "question_content": "One Gmail account imported all of the settings, including the Inbox.  The other Gmail account recieves this:\r\n\r\nPlease sign in\r\nWe\u0027ll redirect you to your email provider to sign in. You need to grant the app access to your email account.\r\n\r\nSign in with Google\r\n\r\nThen the following error, as it won\u0027t open to Google to confirm (it did with the other account)\r\n\r\nPlease sign in\r\nOauth sign in failed\r\nOAuth 2.0 is currently not supported with this provider\r\nRetry",
+  "created_date": "2024-11-01 23:57:54.775573 UTC"
+}, {
+  "question_id": "1472422",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472422",
+  "title": "Account list",
+  "question_content": "Hi all\r\n\r\nI recently figured out, that the account list has changed. Instead of showing the accounts with their complete e-mail addresses and names, I now can only see a loooooong list of circles with just 2 characters.\r\n\r\nI could not find a setting to revert back to my complete list.\r\n\r\nThe way it has changed is a complete nonsense with my many accounts and all are identical as I guess it is just taking the first 2 chars of the e-mail domain.\r\n\r\nHow can I get rid of it and again get a list of my accounts as before\r\nthx\r\nP6",
+  "created_date": "2024-11-02 06:29:15.875112 UTC"
+}, {
+  "question_id": "1472428",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472428",
+  "title": "Externe pictures",
+  "question_content": "How can i show external pictures automatically?",
+  "created_date": "2024-11-02 08:29:59.269499 UTC"
+}, {
+  "question_id": "1472431",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472431",
+  "title": "Mails",
+  "question_content": "Hello\r\nWhy my mails disappear or are not recelved in Thubderbird for Android.\r\nI already had this problem with K 9\r\nThanks for answering me",
+  "created_date": "2024-11-02 09:17:29.063815 UTC"
+}, {
+  "question_id": "1472471",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472471",
+  "title": "SPAM option not appearing",
+  "question_content": "When checked in the settings menu for active emails the option to mark an incoming email as SPAM does not appear as a choice in the drop down dialogue.  Is this unavailable currently or is this broken as of this date 11-1-24?",
+  "created_date": "2024-11-02 16:11:46.547966 UTC"
+}, {
+  "question_id": "1472489",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472489",
+  "title": "Number of emails in the inbox",
+  "question_content": "The number of emails in the inbox is very small, just 3,4 days of emails for me.\r\nhow to increase it??\r\nThx",
+  "created_date": "2024-11-02 19:00:29.154667 UTC"
+}, {
+  "question_id": "1472521",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472521",
+  "title": "SPAM filtering?",
+  "question_content": "I just installed the Android mobile version of Thunderbird. I was wondering if it supports any form/method of SPAM filtering? If so, how do I access/use it?\r\n\r\nTIA!",
+  "created_date": "2024-11-03 02:07:35.703228 UTC"
+}, {
+  "question_id": "1472533",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472533",
+  "title": "Mala sent from IMAP account not found",
+  "question_content": "I have K9 and Thunderbird mail clients for Android installed on my Motorola E series phone running Android 10. GMail and another institutional mail account (IMAP) have been configured on both mail clients. When I compose and send a mail from the institutional mail account from either mail clients, the sent mail is not copied to the sent folder (on the client nor the server), though the email gets sent to the recipients. \r\nPlease help resolve this issue. Thank you for designing the wonderful mobile mail clients!",
+  "created_date": "2024-11-03 04:40:49.559830 UTC"
+}, {
+  "question_id": "1472544",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472544",
+  "title": "Syncing deleted emails between Thunderbird Android and desktop versions",
+  "question_content": "I have Thunderbird for Android installed on my phone, and Thunderbird Desktop on my laptop. When I delete an email on my phone, the deletion does not then occur automatically on the desktop version. How can I sync deletions?\r\n\r\nNote:\r\n* I\u0027m using an Outlook account.\r\n* Even if I restart the app on my phone or pull down to refresh my inbox, the deletion does not occur on my phone.\r\n* Conversely, if I delete an email on my laptop, then the deletion will occur on my phone (after refreshing it).",
+  "created_date": "2024-11-03 09:48:48.271515 UTC"
+}, {
+  "question_id": "1472559",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472559",
+  "title": "Low contrast in some emails/CSS inconsistently applied? (screenshots)",
+  "question_content": "Hi :)\r\n\r\nI just wanted to provide info about an issue I\u0027m having using Thunderbird. It\u0027s been present in past iterations since I installed a few months ago (before the rebrand), and I thought I\u0027d mention it.\r\n\r\nI\u0027m finding that in dark theme, some text is unreadable due to low contrast (dark text on dark background). I am imagining the email likely has css/html clashing with my preferences? These emails are the only thing I use outlook for these days, as they render okay in there.\r\n\r\nI have included how the email appears in thunderbird, then outlook by way of comparison.\r\n\r\nI hope this is helpful, I\u0027m happy to provide any information I can. :) Thank you for keeping this email client going, I love using it. :)\r\n\r\nMany thanks,\r\n\r\nAdam",
+  "created_date": "2024-11-03 11:04:05.050532 UTC"
+}, {
+  "question_id": "1472572",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472572",
+  "title": "How to change/sync Google account icons to Thunderbird Android",
+  "question_content": "How can I get my Gmail accounts to sync and retrieve my Google account icons? Or change the icons manually?",
+  "created_date": "2024-11-03 13:21:49.431188 UTC"
+}, {
+  "question_id": "1472579",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472579",
+  "title": "Thunderbird for Android",
+  "question_content": "After following the QR process for my email accounts import into Thunderbird for Android (importing from Thunderbird for Windows) only one account is showing all folders. Gmail and Outlook and Yahoo are only showing Outbox, while my Apple email is showing all folders, immediately after importing, none were showing. A full day later, only Apple shows and all others are still showing only Outbox. Apart from removing the app and trying again, any thoughts on why this is happenning?",
+  "created_date": "2024-11-03 14:24:20.156752 UTC"
+}, {
+  "question_id": "1472580",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472580",
+  "title": "Send Email from Thunderbird for Android to a Gmail Account",
+  "question_content": "I\u0027ve tried to use K9 mail and Thunderbird for Android, and with both have had issues sending an email or replying to one and having my email dropped without any notice.  I\u0027ve found that this happens all the time when I send to my own Gmail account.  I can send from Tbird for Android to another of my own domains on Hostgator.  I can send from my desktop version of Thunderbird to my android version, and to Gmail.  Even if I import the desktop configuration to Android, I can\u0027t send from it to Gmail, and no notice of failure comes back.  Any ideas?",
+  "created_date": "2024-11-03 14:26:51.185631 UTC"
+}, {
+  "question_id": "1472600",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472600",
+  "title": "Unified inbox - ways to identify which account is which?",
+  "question_content": "First off, thank you very much for creating the Android version of your email program. I am thrilled to death! I use the Unified View for all my accounts and right now all I can see is a little vertical color bar on the left side identifying which account the email is coming into. I would like to see a larger icon or some other larger identifier. Is there a setting that I\u0027m missing to fix that, or is that a setting that has yet to be created? Please let me know. Thank you, and thank you for your hard work!",
+  "created_date": "2024-11-03 17:20:35.762119 UTC"
+}, {
+  "question_id": "1472622",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472622",
+  "title": "How can I see the complete message (with images)  by default",
+  "question_content": "How can I see the complete message conents (with images)  by default",
+  "created_date": "2024-11-03 19:35:26.886086 UTC"
+}, {
+  "question_id": "1472633",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472633",
+  "title": "Want the export tool for thunderbird for Android, but having trouble updating to desktop v128.4.x from v115 msix (win11)",
+  "question_content": "Hello,\r\nI\u0027ve got the french version of Thunderbird on my laptop. I want to have it now on my smartphone Android. But impossible to find the function \"move to mobile\" in the parameterss... Please help me !",
+  "created_date": "2024-11-03 20:47:03.388312 UTC"
+}, {
+  "question_id": "1472646",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472646",
+  "title": "Show accounts and folders all the time",
+  "question_content": "I want a column (preferably on the left) that shows all accounts and all folders, just like on the desktop version !",
+  "created_date": "2024-11-03 22:43:36.822985 UTC"
+}, {
+  "question_id": "1472659",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472659",
+  "title": "Android phone sync contacts with Hotmail account via Thunderbird",
+  "question_content": "I can\u0027t find clear information about syncing my Hotmail email account contacts to my Pixel 7a Android phone using Thunderbird email client for Android.\r\n\r\nIs that possible? If not, will it be coming? \r\n\r\nThanks - Doug",
+  "created_date": "2024-11-04 02:09:34.885956 UTC"
+}, {
+  "question_id": "1472666",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472666",
+  "title": "Thunderbird Mobile OAuth login",
+  "question_content": "My alumni email account is hosted on Microsoft 360.  My email address is xxx@alumni.caltech.edu, but the actual login user name is xxx@alumni.caltech.onmicrosoft.com.  When I try to log in with Thunderbird for Android the user name is automatically set to my email address rather than the username specified in the incoming server settings.  This field cannot be changed and it prevents me from logging in.  Please help, and thank you for all of your fine work. \r\n\r\n--\u003eBoB",
+  "created_date": "2024-11-04 03:48:05.802238 UTC"
+}, {
+  "question_id": "1472691",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472691",
+  "title": "Firma sulle email in uscita",
+  "question_content": "Ciao è possibile aggiungere la firma sulle email in uscita con Thunderbird beta per Android?\r\nGrazie",
+  "created_date": "2024-11-04 10:11:32.753677 UTC"
+}, {
+  "question_id": "1472738",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472738",
+  "title": "Hide mail client",
+  "question_content": "Hi,\r\nFirst congrats for the APP for android.\r\nIn Privacy settings, Hide mail Client still refers to K9 User Agente. Is it normal.\r\n\r\nBest regards",
+  "created_date": "2024-11-04 16:22:14.802163 UTC"
+}, {
+  "question_id": "1472769",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472769",
+  "title": "No messages appear in unified inbox",
+  "question_content": "Just added Thunderbird for Android and imported my email addresses. \r\n\r\nI am not seeing any messages in the unified inbox and only see that folder and the outbox folder. I have 4 different gmail accounts and 1 yahoo account where I have no issues on the desktop side. Android is 14, running on unlocked Motorola Edge+ 2023 and T-Mobile network.\r\n\r\nPlease let me know if there is anything additional I can supply to resolve this.\r\n\r\nThank you !!!!!!",
+  "created_date": "2024-11-04 19:06:43.961476 UTC"
+}, {
+  "question_id": "1472858",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472858",
+  "title": "HTML Signature on Mobile",
+  "question_content": "Hey,\r\nI really enjoy your effort for bringing thunderbird to mobile devices, however one thing that I realized since K-9 is that when composing messages HTML is not supported unfortunately..\r\n\r\nAlso I would like to be possible to add my signature that has HTML in it also, however it does not render as an HTML String but renders as a normal text :/\r\n\r\nI believe that this for companies is very important!\r\n\r\nBest regards,\r\nJoão Ribeiro",
+  "created_date": "2024-11-05 10:10:41.534721 UTC"
+}, {
+  "question_id": "1472881",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472881",
+  "title": "Create rules and / or filters for spam",
+  "question_content": "Hello, \r\n Can you create rules or filters in Thunderbird Android to directly delete certain emails such as spam? With a specific email address or move them to a specific folder? \r\n\r\nThx",
+  "created_date": "2024-11-05 13:23:58.011483 UTC"
+}, {
+  "question_id": "1472890",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472890",
+  "title": "TB Mobile for Android not prompting for contacts",
+  "question_content": "In attempting to compose an email, TB does not recognize any contacts when I start typing the first few letters of their email address nor when I try typing their name as it appears in phone contacts.  First installed TB on this new phone just a couple days ago, and my recollection is it was working fine.  But then I went ahead with the Android 14 update, and after that is when TB seemingly forgot all contacts/email addresses.  I tried uninstalling and reinstalling TB, but that made no difference.",
+  "created_date": "2024-11-05 13:56:46.575603 UTC"
+}, {
+  "question_id": "1472894",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472894",
+  "title": "No push notifications",
+  "question_content": "Hi,\r\n\r\nI\u0027ve recently switched from K9 to Thunderbird. Never had any issues with K9, just liked that Thunderbird was basically the same but without the dated look.\r\n\r\nThunderbird however does not send any push notifications.\r\n\r\nWhat I\u0027ve done this far:\r\n-Re-install Thunderbird\r\n-Check if Thunderbird has notification permissions (it does)\r\n-Exclude Thunderbird from any and all power management\r\n\r\nHowever, I still have not received a single push notification this far.\r\n\r\n\r\nDoes anyone know a workaround for this? Or is this maybe some kind of bug?\r\n\r\n\r\nI\u0027m using a Nokia G42 5G with stock Android 14.",
+  "created_date": "2024-11-05 14:14:24.660860 UTC"
+}, {
+  "question_id": "1472914",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472914",
+  "title": "A few things I don\u0027t like about the android app",
+  "question_content": "How come we don\u0027t have a swipe to delete a email like other  apps do also I don\u0027t  like that it doesn\u0027t  show all my previous  emails",
+  "created_date": "2024-11-05 15:31:28.986606 UTC"
+}, {
+  "question_id": "1472939",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472939",
+  "title": "Why i can\u0027t login gmail account",
+  "question_content": "Why i can\u0027t login my gmail account?\r\nEnter gmail id at Thunderbird and sign in with Google.\r\nIt redirected to browser and log in my Google account. And after finished lt just browser login shown in Thunderbird app.\r\nI try to press back button it shown Oauth sign in failed.",
+  "created_date": "2024-11-05 17:24:39.238582 UTC"
+}, {
+  "question_id": "1472973",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472973",
+  "title": "push notification not working",
+  "question_content": "Thunderbird do not receive any email unless you open the app. I gave any kind of permission, enabled notification for this app but emails are never cheched and no notifiacton is showed.",
+  "created_date": "2024-11-05 20:58:30.700165 UTC"
+}, {
+  "question_id": "1472986",
+  "question_link": "https://support.mozilla.org/en-US/questions/1472986",
+  "title": "Autocrypt setup message",
+  "question_content": "Hi,\r\ni want to export my openPGP key from Android openKeychain to Desktop Thunderbird via the Autocrypt setup message.\r\nBut the autocrypt file isn\u0027t recognized when i click on it on Thunderbird Desktop. I can just download it.\r\nHow do i open it so that i can write the passphrase and import my openPGP key?\r\nThanks.",
+  "created_date": "2024-11-05 22:34:58.596881 UTC"
+}, {
+  "question_id": "1473013",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473013",
+  "title": "Thunderbird for Android",
+  "question_content": "Since now the first stable release of Thunderbird for Android is available, will I need to move from the beta version to it or will this be done with an update?",
+  "created_date": "2024-11-06 06:47:00.503226 UTC"
+}, {
+  "question_id": "1473015",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473015",
+  "title": "Mail for android",
+  "question_content": "It is only possible to download mails every 15 minutes. Why not in shorter time or instantly?",
+  "created_date": "2024-11-06 07:41:48.047792 UTC"
+}, {
+  "question_id": "1473019",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473019",
+  "title": "Swipe left to archive",
+  "question_content": "Installed android version. Changed swipe so left to archive, right to delete. Left swipe doesn\u0027t work. Nothing happens if I swipe left.",
+  "created_date": "2024-11-06 08:34:20.943580 UTC"
+}, {
+  "question_id": "1473023",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473023",
+  "title": "Can receive mail, but can\u0027t send",
+  "question_content": "Hi,, I\u0027ve just installed the Android version and imported my accounts and can receive messages, but can\u0027t send them. The outgoing server settings look OK Any ideas?",
+  "created_date": "2024-11-06 09:27:55.249949 UTC"
+}, {
+  "question_id": "1473039",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473039",
+  "title": "email from address used when replying, Thunderbird for android",
+  "question_content": "Is the Account setting \"Reply from this identity when delivery headers match\" available in the Android version (I could not see it)?\r\nIf not is it likely to be added?\r\nI am somewhat dependent on this having a number of email addresses handled by a single Thunderbird account.\r\nKim",
+  "created_date": "2024-11-06 11:40:53.083144 UTC"
+}, {
+  "question_id": "1473042",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473042",
+  "title": "gmail",
+  "question_content": "Do I need to uninstall gmail before I see emails in thunderbird android? At the moment I can see my accounts but no emails show in unified inbox.",
+  "created_date": "2024-11-06 12:31:16.629960 UTC"
+}, {
+  "question_id": "1473043",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473043",
+  "title": "Email signature",
+  "question_content": "Hello\r\n\r\nIs there a way to set up an email signature for an email account in the Android version like there is in the desktop version?",
+  "created_date": "2024-11-06 12:40:17.475275 UTC"
+}, {
+  "question_id": "1473047",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473047",
+  "title": "joining new mail",
+  "question_content": "Hello. I would really like to combine all my emails into thunderbird. With Google and Yahoo! there were no problems. But when I started to connect my mail accounts kakao.com, protonmail and abv.bg, the system started to give an error! Tell me how I can connect other mails, besides Google and Yahoo? It would be best to send me instructions to my mail lady0panda@google.com. Thank you.",
+  "created_date": "2024-11-06 13:16:12.685299 UTC"
+}, {
+  "question_id": "1473048",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473048",
+  "title": "boîte yahoo",
+  "question_content": "Bonjour\r\nImpossible d\u0027installer ma boîte \"yahoo\". La synchronisation via le QRCode à bien fonctionné pour toutes mes boîtes sauf celle-ci. Remis les paramètres en manuel en vain.\r\nComment régler ce problème ? Merci.\r\nAutre question.  Est-ce synchronisé avec les boîtes mails que j\u0027ai sur mon ordi de bureau ? Car sur le portable, j\u0027ai bien tous les messages reçus mais rien dans les messages \"envoyés\".\r\nJe vous remercie de votre retour.\r\nCordialement\r\nBernard",
+  "created_date": "2024-11-06 13:29:50.266009 UTC"
+}, {
+  "question_id": "1473053",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473053",
+  "title": "Syncing Thunderbird Mobile with Desktop",
+  "question_content": "When I delete a message on Thunderbird Mobile, it still shows on my desktop (does not sync).  Please advise the process where the messages in the mobile app is consistent with desktop.  Thanks!",
+  "created_date": "2024-11-06 13:50:01.294124 UTC"
+}, {
+  "question_id": "1473074",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473074",
+  "title": "Folders",
+  "question_content": "I\u0027m used to file the e-mais into folders for easier reference.\r\nHow can I create, or even better, import the desktop Thunderbird folders.\r\nI\u0027m using pop, not IMAP,.and leave copies on the server.",
+  "created_date": "2024-11-06 16:21:02.348970 UTC"
+}, {
+  "question_id": "1473091",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473091",
+  "title": "Account Passwords on Thunderbird for Android",
+  "question_content": "\u0027I\u0027m attempting to set up Thunderbird on Android.  When I creatd the QR codes, there was no option to include passwords.  But the accounts are all on  the Android device.  However, there is no place that I can find to put the  passwords in.  Where should I find the place for password entry for my Thunderbird accounts on Android?",
+  "created_date": "2024-11-06 17:50:36.271882 UTC"
+}, {
+  "question_id": "1473122",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473122",
+  "title": "Signature question in Thunderbird Android",
+  "question_content": "Is there a way to change font colors and add/remove bold in the signature field?\r\n\r\nI tried adding html tags as in Thunderbird desktop but it didn\u0027t have any effect.",
+  "created_date": "2024-11-06 20:58:58.840175 UTC"
+}, {
+  "question_id": "1473141",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473141",
+  "title": "account name",
+  "question_content": "I have my email account name showing twice in the upper lefthand corner. When I downloaded and set up my account I think I messed up.",
+  "created_date": "2024-11-06 23:31:15.322680 UTC"
+}, {
+  "question_id": "1473142",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473142",
+  "title": "HTML email signatures on Thunderbird for Android",
+  "question_content": "How can I use a HTML based email signature in Thunderbird for Android?",
+  "created_date": "2024-11-06 23:41:40.254834 UTC"
+}, {
+  "question_id": "1473144",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473144",
+  "title": "Thunderbird for Android - POP Account and Creating local subfolders, Undeleting, and Printing Emails",
+  "question_content": "I was very excited to hear about Thunderbird for Android.  I have been using K-9 for years.  My account is a POP account.  I have only 3 gripes with K-9 that I hope are addressed in Thunderbird for Android.\r\n\r\n1)  K-9 does not allow me to create local subfolders to organize my emails.  My inbox is a monster of disorganized emails and so the search option is my only friend.\r\n2)  If I should accidentally delete an email in K-9 I cannot undelete it.\r\n3)  K-9 has never provided a way to directly print emails.  I have to forward the email to my print server.\r\n\r\nPlease, can anyone tell me if these deficiencies have been addressed in Thunderbird for Android?\r\n\r\nMany thanks.\r\n\r\nRichard",
+  "created_date": "2024-11-07 00:00:37.963647 UTC"
+}, {
+  "question_id": "1473156",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473156",
+  "title": "Confirmation of delete in notifications",
+  "question_content": "When you look at the notification page pull down in android \r\n\r\nExpand to see each email\r\nClick on one you have the option to delete it\r\nThis then requests a confirmation \r\n\r\nCan this confirmation be disabled?\r\n\r\nIt looks like the other methods do not require confirmation",
+  "created_date": "2024-11-07 03:42:31.032531 UTC"
+}, {
+  "question_id": "1473163",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473163",
+  "title": "Thunderbird mobile",
+  "question_content": "Bonjour\r\nMalgré l\u0027activation des notifications dans les comptes et sur le mobile cela ne fonctionne pas",
+  "created_date": "2024-11-07 05:35:40.882048 UTC"
+}, {
+  "question_id": "1473168",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473168",
+  "title": "print setting",
+  "question_content": "When I download an attachment, my version wants to print it every time.  I suspect it\u0027s set to default as a hangover from my previous email program. This means if the phone can\u0027t find a printer, it won\u0027t download, not much use if it\u0027s a pdf ticket.\r\nHow do I change the settings please?",
+  "created_date": "2024-11-07 06:55:19.852970 UTC"
+}, {
+  "question_id": "1473169",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473169",
+  "title": "msg move to an other account",
+  "question_content": "Hi, tanks for your super job, do you plan to permit moving message to other account ?\r\nTanks, best regards",
+  "created_date": "2024-11-07 06:57:05.149700 UTC"
+}, {
+  "question_id": "1473185",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473185",
+  "title": "contact mamagement",
+  "question_content": "I\u0027m now using your android version.\r\nI\u0027m a bit disappointed, there\u0027s still no contact management. A contactless email program...how stupid!\r\nAre you planning to do it soon?",
+  "created_date": "2024-11-07 09:14:17.588254 UTC"
+}, {
+  "question_id": "1473186",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473186",
+  "title": "Thunderbird for android is failing to synchronise data with email servers.",
+  "question_content": "Thunderbird for android is failing to synchronise data with email servers. Thunderbird for android is the exciting thing for people who prefer privacy and security as a default. But the transition from Top market email providers to thunderbird is not that smooth even after so much of testing the thunderbird android application still legs the reliability people look for a premium email client. The synchronisation with gmail and outlook servers is failing, it has to be manually synchronisation everyday or we don\u0027t get the latest emails.\r\nThis is a headache for users whose work depends upon email communication and they look forward to Mozilla for a private and secure email client.\r\nPlease I am a big supporter of open source and free internet but we need reliability for professional services.\r\nPlease fix \r\nRegards\r\nA passionate User",
+  "created_date": "2024-11-07 09:21:48.937504 UTC"
+}, {
+  "question_id": "1473244",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473244",
+  "title": "Outlook configuration fails when setting up SMTP/Outgoing Server",
+  "question_content": "Attempts at configuring Outlook account via Thunderbird for Android always result in an \"Authentication Error\" when setting up the outgoing server. \r\n\r\nUsing default settings:\r\n\r\nServer: smtp.office365.com\r\nSecurity: StartTLS\r\nPort: 587\r\nAuthentication: OAuth 2.0\r\nUsername: xxxx@outlook.com\r\nClient Cert: None\r\n\r\nDetailed message says authentication unsuccessful, but I don\u0027t get any errors when I login for the Incoming/IMAP server connection.",
+  "created_date": "2024-11-07 15:15:47.641698 UTC"
+}, {
+  "question_id": "1473274",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473274",
+  "title": "Thunderbird Android",
+  "question_content": "How do I upgrade to Thunderbird stable from Beta?",
+  "created_date": "2024-11-07 17:45:12.216256 UTC"
+}, {
+  "question_id": "1473294",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473294",
+  "title": "Deleting trash",
+  "question_content": "Is there a way to delete messages from unified accounts?  I find I have to go to each of my 4 accounts separately and then to trash to delete messages.",
+  "created_date": "2024-11-07 19:23:27.346705 UTC"
+}, {
+  "question_id": "1473302",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473302",
+  "title": "Thread view",
+  "question_content": "When replying to a message the reply is not attached as a new in a thread. It only show up in Sent folder.This is happening in mobile app despite appropriately working in a desktop version. I don\u0027t see any way to change this in folder settings?",
+  "created_date": "2024-11-07 20:32:42.836919 UTC"
+}, {
+  "question_id": "1473317",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473317",
+  "title": "qr code",
+  "question_content": "can not get thunderbird for android to scan the QR code",
+  "created_date": "2024-11-07 22:44:17.225724 UTC"
+}, {
+  "question_id": "1473328",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473328",
+  "title": "Problem in fetching new messages.",
+  "question_content": "Just installed. Thunderbird doesn\u0027t fetch new messages unless I open the application, anyhow with no notification sound. Couldn\u0027t find the solution into the setting. Android notification enabled. \r\nAny advice? Thanks and regards\r\nSandro",
+  "created_date": "2024-11-08 00:44:52.110905 UTC"
+}, {
+  "question_id": "1473341",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473341",
+  "title": "Delete does not delete",
+  "question_content": "What I delete an email message on my phone, it disappears in my app. But when I check on my computer and in my old email app, the deleted message is still there.\r\n\r\nI\u0027ve checked in multiple email accounts and multiple messages.\r\n\r\nThanks\r\nJim King",
+  "created_date": "2024-11-08 02:49:44.603859 UTC"
+}, {
+  "question_id": "1473349",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473349",
+  "title": "Grand Canyon University",
+  "question_content": "This is precisely the problem but I can\u0027t find any way to get the GCU admistrator to do anything about it\r\n\r\nA screen that indicates IT administrator approval is required for the app\r\n\r\n    You must ask your administrator to authorize Thunderbird – approval must be done, but only once.\r\n    Per Microsoft documentation, administrators should visit https://login.microsoftonline.com/{tenant-id}/adminconsent?client_id\u003d9e5f94bc-e8a4-4e73-b8be-63364c29d753 and grant the following permissions in order to authorize Mozilla Thunderbird: IMAP.AccessAsUser.All, POP.AccessAsUser.Al, SMTP.Send and offline_access",
+  "created_date": "2024-11-08 03:40:47.565376 UTC"
+}, {
+  "question_id": "1473398",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473398",
+  "title": "signature in the letter",
+  "question_content": "How to insert a picture into a signature? I can\u0027t find this option",
+  "created_date": "2024-11-08 11:04:37.092970 UTC"
+}, {
+  "question_id": "1473400",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473400",
+  "title": "Synchronization and notification",
+  "question_content": "At first thank you for Thunderbird for Android!\r\nI have installed this App and have some questions.\r\nEven though I have enabled notifications for the app, I do not receive any notifications when new emails arrive. Is this a mistake or do I need to adjust something else?\r\nI also think there is a problem with synchronization. New emails are not retrieved on time and emails deleted in the app are not synchronized. This means that they are not deleted in the desktop program. Is there a solution to this?\r\nBest regards\r\nJens Gerlach",
+  "created_date": "2024-11-08 11:12:59.404399 UTC"
+}, {
+  "question_id": "1473406",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473406",
+  "title": "Thunderbird Android",
+  "question_content": "Messages don\u0027t disappear from outbox",
+  "created_date": "2024-11-08 12:09:26.420825 UTC"
+}, {
+  "question_id": "1473437",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473437",
+  "title": "How to load images inside a mail",
+  "question_content": "How to load distant images in a e-mail automatically",
+  "created_date": "2024-11-08 15:08:18.637267 UTC"
+}, {
+  "question_id": "1473458",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473458",
+  "title": "Subfolders names all start with \"INBOX.\"",
+  "question_content": "Running version 8.0, Thunderbird App for Android. Noticing all subfolders are labelled \"INBOX.trash, INBOX.Sent Items, INBOX.General\". \r\n\r\nWondering if there\u0027s a way to remove.the \"INBOX\" part?",
+  "created_date": "2024-11-08 16:34:33.341351 UTC"
+}, {
+  "question_id": "1473500",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473500",
+  "title": "No notification",
+  "question_content": "Hello,\r\nI have authorised notifications in the Thunderbird application for Android, but I don\u0027t receive any when I receive emails.\r\nFor your information, in Account Settings \u003e Notifications, I checked the first box \"Notifications of new emails\" and the fifth box \"Synchronisation notifications\". What\u0027s more, in the \"Notification categories\" section (further down), in the screen that opens before \"Emails\", the \"Alert\" and \"Application icon badges\" boxes are ticked, and there\u0027s a sound associated with the \"Sound\" heading.\r\nWith all this, I don\u0027t get any notification of incoming emails.\r\nThank you for your help,\r\nKind regards,\r\nRenaud\r\n\u0027\u0027\u0027*Email removed to protect privacy*\u0027\u0027\u0027",
+  "created_date": "2024-11-09 01:06:18.529501 UTC"
+}, {
+  "question_id": "1473517",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473517",
+  "title": "Dissocier les comptes",
+  "question_content": "J\u0027ai installé thunderbird sur mobile et associés plusieurs comptes ensemble.\r\nJe veux maintenant les dissocier, comment faire ?\r\nMerci",
+  "created_date": "2024-11-09 08:45:09.234026 UTC"
+}, {
+  "question_id": "1473519",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473519",
+  "title": "Change \"To Me\" to an actual email address when reading mails",
+  "question_content": "I am on old Eudora Thunderbird user and just installed Android Thunderbird.\r\n\r\nI have 6 email addresses and view them all in the unified inbox. When scrolling through messages is there a way to configure the headers to show my actual email address as the recipient, rather than just \"To Me\"?\r\n\r\nI realise if I touch To Me it will display the details, but seeing it directly would save a step and avoid mistakes.",
+  "created_date": "2024-11-09 09:14:02.581002 UTC"
+}, {
+  "question_id": "1473528",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473528",
+  "title": "Dark Theme Makes the Mail Body Parts Unreadable",
+  "question_content": "Hi folks, thanks for the amazing Thunderbird on Android.\r\n\r\nI have a couple of observation I\u0027d like to share.\r\n\r\n1. When the device\u0027s theme is set to dark and Thunderbird follows, some parts of the email body becomes unreadable. This is not the case with Gmail (this is a Gmail account). I am attaching screenshots for this (1.jpeg for Gmail, 2.jpeg for Thunderbird). Is this an expected behavior?\r\n\r\n2. The app seems to use green and violet colors for email body by default. And, it misses some of format colors of the email body itself. That is something I do not prefer. Is there a reason why Thunderbird chose this color and formatting? Is there a way to change the colors? Again attaching screenshots for this (please note the arrows I made especially, 3 for Gmail and 4 for Thunderbird and two others I did not number showing the green format (from Udemy)).\r\n\r\n3. There are format problems with the Thunderbird (5 for Gmail and 6 for Thunderbird). Are these expected? It makes reading and seeing the mail problematic.\r\n\r\n4. I think there is a problem with the way notification times are shown on Thunderbird. In the screenshot 7, you see that notification timestamp for Thunderbird is shown as 14:07. However, none of the emails shown just below have that time. Why would that be the case?\r\n\r\n5. Lastly, even though the setting is set for Push, my emails come on average 10-25 minutes later than Gmail app itself. Is this also an expected behavior?\r\n\r\nThank you.",
+  "created_date": "2024-11-09 10:22:33.810095 UTC"
+}, {
+  "question_id": "1473583",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473583",
+  "title": "S/MIME?",
+  "question_content": "Does Thunderbird for Android include S/MIME?",
+  "created_date": "2024-11-09 19:58:24.672504 UTC"
+}, {
+  "question_id": "1473595",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473595",
+  "title": "Notifications of New Emails Showing Twice",
+  "question_content": "I don\u0027t know if I just have something configured wrong or if this is a bug.\r\n\r\nIn case it is relevant, I originally came from the K-9 app and imported my settings to the new Thunderbird app. \u0027\u0027K-9 is now uninstalled\u0027\u0027.\r\n\r\nI have more than one account, and each inbox is set to show in Unified Inbox.\r\n\r\nWhen I get any new email for any account, I actually get 2 of \u0027\u0027\u0027the exact same notification for each email\u0027\u0027\u0027. There \u0027\u0027\u0027isn\u0027t\u0027\u0027\u0027 actually 2 emails with the same sender and subject line, when tapping on either of the notifications the app opens and there is just the one email.\r\n\r\nI thought maybe Unified Inbox had its own notification setting which might explain why I was getting notified twice, but if there is I cannot find it.\r\n\r\nI could always try removing all the accounts and re-adding them, but since I have quite a few I would like to avoid that if I can (and why I chose importing from K-9 rather than manually adding and configuring each one).\r\n\r\nThanks for any assistance.",
+  "created_date": "2024-11-09 22:48:49.486960 UTC"
+}, {
+  "question_id": "1473644",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473644",
+  "title": "Envelope with dot",
+  "question_content": "I expect this is a stupid question, but what is the envelope with a dot icon above a message?",
+  "created_date": "2024-11-10 14:23:21.660430 UTC"
+}, {
+  "question_id": "1473657",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473657",
+  "title": "settings \u0026 Adressbuch",
+  "question_content": "How can I find \"Settings\" in Thunderbird for Android to look like my Thunderbird on the Computer and where is´the adress book",
+  "created_date": "2024-11-10 16:42:20.718545 UTC"
+}, {
+  "question_id": "1473677",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473677",
+  "title": "Some questions",
+  "question_content": "Hi.\r\n\r\nI have installed and set up the new app via the playstore.\r\nInstalled on a Pixel 8a.\r\nI have noticed the following points. Please give me some feedback on where and how I have to change the settings or whether these points can be changed at all.\r\n\r\n1. I have three mailboxes in the app. If you swipe to the right, you can see the overview of the mail accounts with a corresponding abbreviation of 2 letters. All three accounts are named “WE”.\r\nIt is possible to change that ?\r\n\r\n2. I have set the frequency of mail retrieval to 15min. Can I set it somewhere so that I immediately receive a notification when mail arrives (background sync allways) ?\r\n\r\n3. The retrieval of mails and their notifications do not work reliably.\r\nI only see new mails or pushups when I switch from mobile network to wifi (or vice versa) or when I manually trigger the update in the app.\r\nHow can this be optimized?\r\n\r\nThx.\r\n\r\nMero",
+  "created_date": "2024-11-10 19:35:33.598875 UTC"
+}, {
+  "question_id": "1473689",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473689",
+  "title": "Thunderbird for Android. How to add password to open app?",
+  "question_content": "Set up my emails extremely easily, thanks. Can I add a password to open the app so others can\u0027t view my emails without knowing the global log in?\r\nThank you.",
+  "created_date": "2024-11-10 22:06:28.864639 UTC"
+}, {
+  "question_id": "1473699",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473699",
+  "title": "No spam option in ThunderBird for Android?",
+  "question_content": "I\u0027m not seeing a button or menu option to mark an email as Spam or Junk.  Is there not one?",
+  "created_date": "2024-11-11 00:48:26.459921 UTC"
+}, {
+  "question_id": "1473715",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473715",
+  "title": "Cannonsend email abroas",
+  "question_content": "Hi.\r\nI use Thunderbird for Android and I am not.able to send email abroad.\r\nWhen I use email with CZ there is no problem, hit with other EU/COM/PL....all emails return.\r\nSettings are correct, I checked woth my IT...I do not know what to do.\r\nKind regarts Barbara",
+  "created_date": "2024-11-11 05:19:37.437851 UTC"
+}, {
+  "question_id": "1473724",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473724",
+  "title": "Nach der Installation von Thunderbird blinkt meine LED am Handy nicht mehr, wenn ich eine Email bekomme.",
+  "question_content": "\u0027\u0027\u0027bold text\u0027\u0027\u0027",
+  "created_date": "2024-11-11 07:41:48.832760 UTC"
+}, {
+  "question_id": "1473847",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473847",
+  "title": "When will composing/writing, sending and receiving HTML emails be possible in Thunderbird for Android?",
+  "question_content": "When will composing/writing, sending and receiving HTML emails be available, possible in Thunderbird for Android? I know this HTML functionality is not available in K-9 email on Android, but it is available in Thunderbird, Thunderbird Desktop on all other platforms like Windows, Linux and MacOS except Android.",
+  "created_date": "2024-11-11 15:08:28.535297 UTC"
+}, {
+  "question_id": "1473860",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473860",
+  "title": "why my vpn is failed",
+  "question_content": "why dount payments to failed??",
+  "created_date": "2024-11-11 15:41:10.926324 UTC"
+}, {
+  "question_id": "1473933",
+  "question_link": "https://support.mozilla.org/en-US/questions/1473933",
+  "title": "Erstellen von Ordnern",
+  "question_content": "Hallo liebes Thunderbird-Team,\r\n\r\nbesteht die Möglichkeit, Ordner direkt in Thunderbird-Mobile anzulegen oder geht dies nur über den PC mit anschließender Synchronisation?\r\n\r\nVielen herzlichen Dank \r\nLG Jürgen",
+  "created_date": "2024-11-11 20:23:47.434696 UTC"
+}, {
+  "question_id": "1474018",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474018",
+  "title": "Signing an e-mail",
+  "question_content": "As an enthusiastic Thunderbird user, I recently installed Thunderbird for Android and set it up using a QR code. Fantastic!\r\n\r\nI always sign my outgoing emails with an OpenPGP certificate. I have integrated this on my smartphone using OpenKeychain. The question now is: how do I sign the outgoing emails?\r\n\r\nThe key is set up correctly with OpenKeyChain, the menu item ‘Activate encryption’ (German: ‘Verschlüsselung aktivieren’) is displayed, but not the menu item ‘Activate PGP-only signing’ (German: PGP-nur-Signieren aktivieren).",
+  "created_date": "2024-11-12 12:00:50.508513 UTC"
+}, {
+  "question_id": "1474038",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474038",
+  "title": "Android HTML",
+  "question_content": "How can I set up Thunderbird for Android to receive emails in HTML format?",
+  "created_date": "2024-11-12 14:49:29.121067 UTC"
+}, {
+  "question_id": "1474087",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474087",
+  "title": "Moving from Gmail on Android to Thunderbird Mobile on Android",
+  "question_content": "Any tips/information on how to move from Gmail on Android to Thunderbird Mobile on Android? I still also use Thunderbird in Winodws 11. Thanks!",
+  "created_date": "2024-11-12 20:38:32.329908 UTC"
+}, {
+  "question_id": "1474119",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474119",
+  "title": "adding folders",
+  "question_content": "How do I add a new folder?",
+  "created_date": "2024-11-13 01:45:43.523203 UTC"
+}, {
+  "question_id": "1474143",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474143",
+  "title": "Thunderbird blocked by VPNs",
+  "question_content": "Hello, I\u0027m trying VPNs, but have found that sending mail by Thunderbird for Android is blocked by 4 different VPNs on two different devices with 4 different protocols, while email sending by TypeApp is not. Any ideas?",
+  "created_date": "2024-11-13 08:41:18.978346 UTC"
+}, {
+  "question_id": "1474161",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474161",
+  "title": "No address list",
+  "question_content": "Hello,\r\nI just organized Thunderbird mobile on my Samsung tablet.  On the desktop, Thunderbird shows a menu and a address book. When I get an Email I can save the mail address in my address book. But, Thunderbird mobile doesn\u0027t show a menu nor a address book and it does not use the contact saved at the tablet. \r\nCan anyone help me to solve this problem? Thanks a lot!!\r\nRegards, Monika\r\n\r\nHallo,\r\nkürzlich habe ich Thunderbird mobil auf meinem Samsung Tablet installiert. Leider zeigt die App keine Menüleiste und keine Option eines Adressbuches. Dazu greift Thunderbird auch nicht auf gespeicherte Kontakte zu. Bei der Desktopversion wird sowohl die Menüleiste als auch ein Adressbuch angezeigt.  Könnte mir bitte jemand behilflich sein, dieses Problem zu lösen? Vielen Dank!\r\nGrüße, Monika",
+  "created_date": "2024-11-13 11:17:18.790483 UTC"
+}, {
+  "question_id": "1474171",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474171",
+  "title": "Encrypt email",
+  "question_content": "Is there a way to encrypt an email?",
+  "created_date": "2024-11-13 11:54:12.569323 UTC"
+}, {
+  "question_id": "1474224",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474224",
+  "title": "Konto nur manuell abrufen",
+  "question_content": "i set 2 of 6 acconts to \"manually only\" and there are neverthenless messages in the inbox.why? and how may i suppress or hide them? so i like to see them only if i select \"get new mails\" of this 2 accounts.\r\nAll other accounts working fine asthey should.",
+  "created_date": "2024-11-13 18:02:00.206856 UTC"
+}, {
+  "question_id": "1474281",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474281",
+  "title": "deleted emails don\u0027t get moved to trash",
+  "question_content": "Hi, I still use K9mail as my primary email client. I\u0027ve been testing Thunderbird for Android for a little while now. Here\u0027s my issue:\r\n When I delete an email in thunderbird and sync with the server, I go back to K9mail and sync there too. But the deleted emails are still showing up in my inbox. Am I impatient or is this a real bug?",
+  "created_date": "2024-11-13 23:54:32.411821 UTC"
+}, {
+  "question_id": "1474330",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474330",
+  "title": "delete message on server",
+  "question_content": "In the desktop version of TB you can select whether messages are deleted on a POP3 server after their download. What is the default on TB for Andorid and can this be changed?",
+  "created_date": "2024-11-14 10:26:34.242429 UTC"
+}, {
+  "question_id": "1474366",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474366",
+  "title": "Email links not working",
+  "question_content": "I receive \"daily digest\" emails from groups.io. They contain links to individual topics within the digest that provide a quick way to select messages I want to read while skipping the rest. \r\n\r\nThese links do not work in Thunderbird for Android (they do work in other email readers). Links to external sites do work just fine.\r\n\r\nCan this be fixed?",
+  "created_date": "2024-11-14 14:41:39.911529 UTC"
+}, {
+  "question_id": "1474420",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474420",
+  "title": "Ordner lõschen",
+  "question_content": "Wie kann ich Ordner in den jeweiligen Konten lõschen",
+  "created_date": "2024-11-14 20:45:54.216442 UTC"
+}, {
+  "question_id": "1474440",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474440",
+  "title": "Resize images",
+  "question_content": "Is there a way to have Thunderbird for Android resize images when they are attached to an email? So the email stays at a respectable size?",
+  "created_date": "2024-11-15 00:26:07.926101 UTC"
+}, {
+  "question_id": "1474479",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474479",
+  "title": "wie kann ich meinen Thunderbird Kalender auf mein Smartphone übertragen?",
+  "question_content": "Ich habe zwar die Mails auf meinem Smartphone, kann aber die Kalenderfunktionen nicht vom PC bekommen!",
+  "created_date": "2024-11-15 10:13:28.695529 UTC"
+}, {
+  "question_id": "1474486",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474486",
+  "title": "Is there a Reply to All option?",
+  "question_content": "Hi. I can receive and send now from Thunderbird for Android, although I have to bypass the VPN to send.\r\nI have no trouble replying to an individual, but where do I find Reply to All?",
+  "created_date": "2024-11-15 11:21:45.444953 UTC"
+}, {
+  "question_id": "1474734",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474734",
+  "title": "suddenly unable to download email from server in Tunderbird",
+  "question_content": "teaching step by step to resolve the problem",
+  "created_date": "2024-11-17 04:56:49.239498 UTC"
+}, {
+  "question_id": "1474772",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474772",
+  "title": "email empfang",
+  "question_content": "es wird keine e mail geöffnet",
+  "created_date": "2024-11-17 15:46:38.476296 UTC"
+}, {
+  "question_id": "1474780",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474780",
+  "title": "Refile/Move multiple messages (Android)",
+  "question_content": "I checked out multiple Support/forum posts first, but I found no matches, nor could I find this in the interface.\r\n\r\nI just switched to Thunderbird yesterday, due to Microsoft\u0027s continually pushing their awful, new Outlook. I\u0027m generally pleased, although I was stunned this morning to find that (when multiple messages are selected on my Android phone) there\u0027s no option on any of the More/... menus to Move/Refile all of them at once, if they\u0027re going to the same folder. I set one of my swipe actions to Move, but that only works for the individual email I\u0027m swiping on.\r\n\r\nApparently, I have to move every single one separately, which is a pain if you\u0027re moving more than one or two. If there\u0027s no such option that I missed spotting, *PLEASE* add this to your road map ASAP, since it\u0027s a very basic feature to still be missing, for as long as Thunderbird has been around! All essential functions a user can do with one message must be available with multiple ones. Thanks!",
+  "created_date": "2024-11-17 16:48:38.083197 UTC"
+}, {
+  "question_id": "1474783",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474783",
+  "title": "Encryption",
+  "question_content": "Hire do i set end to end encryption",
+  "created_date": "2024-11-17 17:14:46.298409 UTC"
+}, {
+  "question_id": "1474805",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474805",
+  "title": "New version of Thunderbird for S23",
+  "question_content": "After many years I see where Thunderbird, I have been using on my Windows 10 for many years, is now available for my S23 I have been using since April 2023.\r\nI downloaded Thunderbird from S23 Play store using a USB C wire between my Windows 10 and S23 I get a popup saying \"align the QR code provided from Thunderbird Desktop.\"  I have no clue what that means so I called T-Mobile and they have or person I spoke have no clue what I should do.\r\nSomeone from Mozilla should reach out to T Mobile to explain what to tell its users.\r\nWhat should I do to get Thunderbird on my S23, delete K9 and be happy again?\r\nThanks",
+  "created_date": "2024-11-17 20:36:35.261925 UTC"
+}, {
+  "question_id": "1474806",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474806",
+  "title": "open eml attachment",
+  "question_content": "Hi,\r\ni received a mail with an attached eml-file, which afaik is standard hunderbild email format. It\u0027s not possible to open the attached file. Androud suggest a bunch of apps installed on my device but none of them is a mail client.\r\nHow to open eml with K9/TB?\r\nIf not allready possible pls implement an eml-viewer.\r\nThank you!",
+  "created_date": "2024-11-17 20:40:44.023901 UTC"
+}, {
+  "question_id": "1474923",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474923",
+  "title": "Folder sync with Gmail",
+  "question_content": "Hello I\u0027m new to Thunderbird for Android. And I\u0027m not really well versed in using all of the options of Gmail. But what I would like to know is how can I sync my folders such as trash or spam with my Gmail account using Thunderbird for Android? I went in and clicked on the sink button to let them sync but they\u0027re not doing it. For example I deleted an email and put it into trash but I\u0027d like to archive it. When I go to move it it tells me I cannot move anything from a folder that is not synced. I\u0027ve searched all over the internet to try to find an answer and I\u0027ve had no luck. Anybody know what could be the issue?",
+  "created_date": "2024-11-18 16:44:41.140527 UTC"
+}, {
+  "question_id": "1474950",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474950",
+  "title": "Android settings",
+  "question_content": "I installed the app on my new Google phone. It configured itself fine. Iwas able to adjust a few things like delivery intervals.\r\nI want to change some other options but I can\u0027t find the settings page. Can you direct me? TIA\r\nbill",
+  "created_date": "2024-11-18 20:03:55.477024 UTC"
+}, {
+  "question_id": "1474978",
+  "question_link": "https://support.mozilla.org/en-US/questions/1474978",
+  "title": "unread email count AND new message indicator",
+  "question_content": "With Thunderbird for Windows, my system shows total emails unread. \r\nIn Thunderbird for Android, it shows 99+.  Can this be changed to show total?  I have emails I don\u0027t need to read, but need to keep them for records.\r\n\r\nALSO\r\nWindows shows the total emails in a different color when there are new emails.\r\nThis doesn\u0027t happen with Android version, or am I missing something?\r\n\r\nCan other colors be used besides light and dark theme?  Selecting multiple emails to delete and the color change is very slight.",
+  "created_date": "2024-11-18 23:58:44.479643 UTC"
+}, {
+  "question_id": "1475010",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475010",
+  "title": "Mails are not loaded in chronological order",
+  "question_content": "Hi, when loading my mails from Microsoft Outlook account they are not loaded correctly ordered. The first 100 mails are partly from this year and partly from 2004.\r\nIf I want to see this year\u0027s mails I need to load the whole folder which is about 12,000 mails.\r\nThat\u0027s too heavy and slows down everything.\r\nCan I avoid this behaviour? Maybe by copying all mails to a new folder to regain the correct order?\r\nThanks \u0026 regards, Michael",
+  "created_date": "2024-11-19 05:54:10.747974 UTC"
+}, {
+  "question_id": "1475034",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475034",
+  "title": "Como meter o Yandex Mailo no Mozilla Thunderbird para Android?",
+  "question_content": "Bom dia, eu sou usuário do Mozilla Thunderbird para Android, eu testei e funciona automaticamente nas contas do Gmail, Outlook,Yahoo!, Sapo Mailo.\r\nTive de fazer configuração na conta do Mailo.\r\nMas quanto tentei a conta do Yandex Mailo não conseguio iniciar sessão, alguém pode me ajudar.",
+  "created_date": "2024-11-19 10:36:30.889213 UTC"
+}, {
+  "question_id": "1475286",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475286",
+  "title": "Push mails after importing accounts from thunderbird PC",
+  "question_content": "382 / 5 000\r\nHello,\r\nPush mails after importing QR code\r\nof accounts from thunderbird PC do not work despite the configuration:\r\n- deactivation of synchronization\r\n- activation of push\r\nThere is no visual or audio notification.\r\nThese notifications only work by creating the accounts manually.\r\nThunderbird 128.4.3 esr\r\nAndroid 8.1 in Motorola 5\r\nAny idea?\r\nThanks",
+  "created_date": "2024-11-21 06:45:22.992945 UTC"
+}, {
+  "question_id": "1475296",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475296",
+  "title": "Deleting emails on Thunderbird Mobile deletes on device only, but not on server",
+  "question_content": "Thunderbird Mobile was installed 1 hour ago.\r\nDeleting emails on Thunderbird Mobile deletes on device only, but not on server.\r\nAccounts have been imported from desktop version.\r\nServer types are IMAP Mail Server.",
+  "created_date": "2024-11-21 09:31:42.573741 UTC"
+}, {
+  "question_id": "1475322",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475322",
+  "title": "Thunderbird error",
+  "question_content": "Hello, what is the error in the mail, the mail does not connect, what to do, it throws the following note: The time for connecting to the server imap.ivairiosdurys.lt has expired.",
+  "created_date": "2024-11-21 13:58:39.900205 UTC"
+}, {
+  "question_id": "1475364",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475364",
+  "title": "Thunderbird for Android 8 and future Versions - Email Accounts \u0026 Email Backup Function",
+  "question_content": "Hi there,\r\n\r\nI\u0027m a long time Thunderbird for Desktop user and I\u0027m thrilled that you work hard on a nice Mobile version.\r\n\r\nMy plan is to switch completely from Aqua Mail to Thunderbird for Mobile on Android.\r\n\r\nOne of the most important features for me is to make a Backup of my accounts \"with all\" Emails included.\r\nIm not a fan of backup all data to a online cloud; a backup direct on the mobile device will be very fine.\r\nIs this possible already? If yes how??... \u0027 don;t find a solution for that :)\r\nPS: The account transfer from Desktop to Mobile works very well on TB 8 for Android.\r\n \r\nAnd additional a simple function to bring/sync all Data with a safe connection (accounts \u0026 emails) to a new phone.\r\nOr will this be possible in the near future?\r\n\r\nThanks and best regards.\r\nMG",
+  "created_date": "2024-11-21 17:35:01.476387 UTC"
+}, {
+  "question_id": "1475380",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475380",
+  "title": "Não mostra notificação",
+  "question_content": "Boa tarde desde que instalei o app Thunderbird no meu celular ele não aparece notificação quando chega email..\r\nTodos os outros app chegam normal, já até conferi e está permitido o app a enviar notificação mas não envia.",
+  "created_date": "2024-11-21 18:46:45.968030 UTC"
+}, {
+  "question_id": "1475387",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475387",
+  "title": "thunderbird",
+  "question_content": "Is thunderbird only available for android phones or can I use it on my iphone for mail?",
+  "created_date": "2024-11-21 19:45:11.747125 UTC"
+}, {
+  "question_id": "1475447",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475447",
+  "title": "Address book, synchronizing",
+  "question_content": "A few days ago I changed from BlueMail to Thunderbird for Android phones. Everything went smoothly with the QRcode, but when using Thunderbird for Android I found out that the app on my phone was not in sync with Thunderbird in either my desktop or laptop. If i delete a message from my phone app, I`ll still find it in my desktop/laptop.\r\nAnother thing: there`s no addressbook in the phone app at all, no settings. Where were they forgotten?",
+  "created_date": "2024-11-22 09:34:29.231926 UTC"
+}, {
+  "question_id": "1475467",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475467",
+  "title": "Contact on Thunderbird Android",
+  "question_content": "Where are the contacts on Android ?",
+  "created_date": "2024-11-22 12:02:29.989256 UTC"
+}, {
+  "question_id": "1475540",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475540",
+  "title": "Thunderbird for Android",
+  "question_content": "Would it be possible to show attachments at the beginning of a message?\r\n\r\nWhen threads are very long it takes ages to find the attachments at the end.",
+  "created_date": "2024-11-22 21:38:33.223984 UTC"
+}, {
+  "question_id": "1475579",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475579",
+  "title": "Microsoft Exchange emails cannot be added",
+  "question_content": "Certain Office365 accounts like university or company organisations never worked with Thunderbird, even on desktop. However, there was an extension called OWL that allowed us to use our Outlook email with Thunderbird on the Desktop app. \r\n\r\nWhen using the Android app however, those emails are not transferred over when scanning the QR code. Also, I cannot figure out how to add this extension or connect these types of accounts. \r\n\r\nIf this is not currently a feature, is there a GitHub issue for it, and if not how can we create one?",
+  "created_date": "2024-11-23 05:41:39.738514 UTC"
+}, {
+  "question_id": "1475599",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475599",
+  "title": "Create a Gmail account",
+  "question_content": "When creating a gmail account I always get the error message 185833. What should I do?\r\nPlease reply\r\nWalter Alt",
+  "created_date": "2024-11-23 10:57:05.006445 UTC"
+}, {
+  "question_id": "1475644",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475644",
+  "title": "Mail channel is marking outgoing emails as spam",
+  "question_content": "My email hosting provider is is using mailchannels spam filter for outbound email, and after I switched from K9 to Thunderbird (Android) all my outgoing emails are being marked as spam and blocked.\r\nI have a ongoing case logged with them but checking if any one has any advice or has similar issues?\r\n\r\nNote k9 works fine, I\u0027m guessing they are confused with headers from PC vs mobile version",
+  "created_date": "2024-11-23 20:55:06.623518 UTC"
+}, {
+  "question_id": "1475687",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475687",
+  "title": "indésirables",
+  "question_content": "Bonjour, comment fait on pour mettre les messages en indésirable, merci",
+  "created_date": "2024-11-24 09:28:22.653649 UTC"
+}, {
+  "question_id": "1475746",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475746",
+  "title": "OAuth mixup between Yahoo and Rogers",
+  "question_content": "I have an @rogers.com email account and a few @yahoo.ca accounts, and have trouble setting them in Thunderbird for Android.  \r\n\r\nRogers uses Yahoo servers for mail access but has its own servers for authentication.  Ever since I first tried to set up my Rogers email account, Thunderbird has been sending me straight to the Rogers authentication page (rogersmembercentre.com) instead of the Yahoo page, regardless of whether the account that I am trying to set up is a Rrogers email or a Yahoo email (I tried both @yahoo.ca and @yahoo.com, and even @yahoo.pl).  Rogers then asks me to enter my email address again, and rejects it because it\u0027s not an @rogers.com address.\r\n\r\nBefore the first time I added a Rogers account, I\u0027m pretty sure I had seen it work correctly: I entered my Yahoo email, Thunderbird asked me to confirm Yahoo\u0027s servers and port numbers, then sent me to the Yahoo authentication page, where I entered my password and there was no problem.  But it seems that the association of Yahoo mail server with the Rogers OAuth server got stuck somewhere, and I can\u0027t get it unstuck.  Even if I delete Thunderbird\u0027s data and/or uninstall it and reinstall it, it still sends me to the Rogers page when I try to add a Yahoo email account.  I guess this means that it\u0027s cached somewhere outside the Thunderbird app, maybe in some system cache of my phone, and it\u0027s possible that it\u0027s not a Thunderbird bug but an Android bug?",
+  "created_date": "2024-11-24 20:23:33.567287 UTC"
+}, {
+  "question_id": "1475779",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475779",
+  "title": "Unable to edit contacts.",
+  "question_content": "I have the latest version of TB and Windows 11.  I cannot edit contacts in either Cardbook or Address Book. In addressbook there are Edit and Delete tabs, but neither work.  I have checked permisssions, and nont denied.  I have disabled and reenabled Cardbook.  Neither helps.  \r\nEdits made in my gmail contacts are synchronized.  \r\nIt seems I am missing some simple answer, but ----?\r\nYour help will be appreciated.\r\nJohn",
+  "created_date": "2024-11-25 03:23:55.938114 UTC"
+}, {
+  "question_id": "1475813",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475813",
+  "title": "Thunderbird für Android",
+  "question_content": "Bei der Übertragung der Daten von einem Smartphone zu einem neuen samsung S24, wurde das Adressbuch nicht mit kopiert. Oder ich finde es nicht.",
+  "created_date": "2024-11-25 11:10:15.404602 UTC"
+}, {
+  "question_id": "1475814",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475814",
+  "title": "message filters for Thunderbird (android)",
+  "question_content": "Is it possible to use message filters in Thunderbird for Android?",
+  "created_date": "2024-11-25 11:11:43.008590 UTC"
+}, {
+  "question_id": "1475882",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475882",
+  "title": "Spam and deleting",
+  "question_content": "In thunderbird  android  how do you report  a message as spam and when are you going to get where I can just swipe right to delete a message",
+  "created_date": "2024-11-25 18:53:07.448647 UTC"
+}, {
+  "question_id": "1475909",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475909",
+  "title": "Thunderbird Mobile Android (Pixel 9)- Deleted emails do not appear the Trash Folder.",
+  "question_content": "Sporadically, in Thunderbird Mobile Android (Pixel 9), deleted emails do not go into the Trash Folder.  E.g., as of today it shows some emails deleted today, but then there is a gap going back 4 days.  Nor does it (the Trash Folder) appear to sync with the server which shows \"No Messages\" on my Windows 11 computer.   Started about 4-5 days ago (21Nov).",
+  "created_date": "2024-11-25 21:07:30.266624 UTC"
+}, {
+  "question_id": "1475957",
+  "question_link": "https://support.mozilla.org/en-US/questions/1475957",
+  "title": "I\u0027d like to make my own \"global default column view\"",
+  "question_content": "Would be nice to have a kind of \"my own default setup of columns\" function. \r\nIn a topfolder, say Inbox I have arranged the columns I\u0027d like to be present all over all subfolders. But Thunderbird apparantly does not work that way.\r\nMaking a new subfolder somwhere I have to copy the layout from one folder that I prefer as my own general default layout and use the right click function \"Apply columns to ...\" .... every time making a new folder. That\u0027s a bit tiresome.\r\nIt ought to be possible to have a function \"Update default column layout\" to my own liking. If it\u0027s already there please advice as reading forums and searching online does not give me an answer to this.\r\nCheers",
+  "created_date": "2024-11-26 08:07:42.912531 UTC"
+}, {
+  "question_id": "1476036",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476036",
+  "title": "Moving",
+  "question_content": "Ok I found out how to spam a email but I haven\u0027t  figured  out how to move one to another folder yet on android  any ideas",
+  "created_date": "2024-11-26 18:49:37.560953 UTC"
+}, {
+  "question_id": "1476265",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476265",
+  "title": "account photo",
+  "question_content": "I would like to know if there is a way to add a photo to distinguish each account. Thank you",
+  "created_date": "2024-11-28 06:07:17.722434 UTC"
+}, {
+  "question_id": "1476349",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476349",
+  "title": "Thnderbird",
+  "question_content": "Thunderbird Android?",
+  "created_date": "2024-11-28 18:41:14.568319 UTC"
+}, {
+  "question_id": "1476372",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476372",
+  "title": "TBMobile mailboxes on GMX are away",
+  "question_content": "Hello, here’s the problem:\r\nI had / have 3 GMX mailboxes in Thunderbird on my PC.\r\nAfter I installed Thunderbird Mobile and spent several hours with it, I deleted all the mailboxes to import them again.\r\nApparently, this also deleted all the mailboxes on GMX, as they are no longer visible there. I also can’t create new ones there, as the old ones seem to still be somewhere in the Background.\r\nIn Thunderbird Mobile, I restored the mailboxes via import, but they are completely empty!\r\nThunderbird Mobile has no connection to GMX.\r\nWhat can I do?\r\nI go to bed...",
+  "created_date": "2024-11-28 23:19:17.271468 UTC"
+}, {
+  "question_id": "1476381",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476381",
+  "title": "Thunderbird mobile",
+  "question_content": "How can I dent a new message in the Thunderbird mobile and why is there no posibility to import  e-mail Adresse?\r\nThanks Foto helping\r\nWolfgang",
+  "created_date": "2024-11-29 02:42:30.233056 UTC"
+}, {
+  "question_id": "1476416",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476416",
+  "title": "login etz mot de passe",
+  "question_content": "Bonjour,\r\nJ\u0027ai un compte Mozilla via Google pour Thunderbird et Firefox installés sur mon laptop Windoes 11 et mon smartphone Android. Tout cela fonctionne mais les logins ne sont pas toujours acceptés. J\u0027aimerais réinitialiser mon compte et mon mot de passe afin d\u0027en avoir 1 seul et unique pour toutes les applications Mozilla. Lorsque je demande de changer le mot de passe je ne reçois aucun e-mail. Merci de m\u0027indiquer comment procéder.",
+  "created_date": "2024-11-29 10:26:18.814831 UTC"
+}, {
+  "question_id": "1476418",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476418",
+  "title": "Notification incoming mail",
+  "question_content": "I am running Thunderbird Beta on Huawei P30 light and I do not get notificarion for incoming rmails. As far as I can see all notification setting are enabled. Please help.",
+  "created_date": "2024-11-29 10:48:10.074649 UTC"
+}, {
+  "question_id": "1476465",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476465",
+  "title": "Mailing list on Thunderbird",
+  "question_content": "I\u0027m trying to set up a couple of mailing list on my thunderbird Email account. I downloaded the instruction, told to open the Address Book then File then New then Maling List. Unfortunately I cannot find any of these actions from the Address Book. What do do???  thanks",
+  "created_date": "2024-11-29 16:31:07.912376 UTC"
+}, {
+  "question_id": "1476483",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476483",
+  "title": "TB android",
+  "question_content": "How do I Mark a message as spam in the Android version of Thunderbird",
+  "created_date": "2024-11-29 18:13:35.723746 UTC"
+}, {
+  "question_id": "1476484",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476484",
+  "title": "TB Android",
+  "question_content": "In the Android version of Thunderbird if I receive a message from a group of bulletin board for example how do I reply only to the sender and not to the entire group?",
+  "created_date": "2024-11-29 18:15:05.621712 UTC"
+}, {
+  "question_id": "1476492",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476492",
+  "title": "Undo feature",
+  "question_content": "In K9 there is an option to \"undo\" when you delete a mail. That does not appear to be available on TB for Android. Or am I missing a setting?",
+  "created_date": "2024-11-29 18:51:18.081429 UTC"
+}, {
+  "question_id": "1476512",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476512",
+  "title": "Importing my ZIP file to Thunderbird Android from Thunderbird desktop",
+  "question_content": "I want to import my ZIP file backup from Thunderbird Desktop, into my Android app, but it seems like it doesn\u0027t accept the ZIP file?",
+  "created_date": "2024-11-29 20:45:47.089934 UTC"
+}, {
+  "question_id": "1476522",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476522",
+  "title": "Hacker admin",
+  "question_content": "How to block my hacker family from provision",
+  "created_date": "2024-11-29 21:50:19.771455 UTC"
+}, {
+  "question_id": "1476546",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476546",
+  "title": "Thunderbird for Android",
+  "question_content": "Will you be adding Mesage Filters to the android version?",
+  "created_date": "2024-11-30 00:53:53.730823 UTC"
+}, {
+  "question_id": "1476562",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476562",
+  "title": "rename",
+  "question_content": "Hello,\r\n\r\nis it possible to give the thumbnails (see photo) different names or rename them?\r\n\r\nI have many emails on one domain and thunderbird names them all the same\r\n\r\n\r\nBest regards",
+  "created_date": "2024-11-30 06:12:09.446421 UTC"
+}, {
+  "question_id": "1476563",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476563",
+  "title": "folder sync using thunderbird for android",
+  "question_content": "Hello,\r\nVery exited to see thunderbird coming to android but I cannot sync all my mails.\r\n\r\nI am using posteo and I configure several filters from the posteo website itself so my computer and my phone sort the mail the same way. \r\nI don\u0027t have any trouble with thunderbird on my computer but thunderbird on my phone only download the mail which are not filters when I ask to check for new messages.\r\nI have to go to every folders which are present on my phone and drag down to sync each folder one by one.\r\n\r\nDo you have a solution to receive all mails at the same time ?\r\n\r\nThank you,\r\nHave a good day.\r\n\r\nGwenole",
+  "created_date": "2024-11-30 07:25:24.198666 UTC"
+}, {
+  "question_id": "1476579",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476579",
+  "title": "Estensioni Thunderbird",
+  "question_content": "Buongiorno intendo sapere se il Thunderbird da PC ,cosi come configurato con il calendario la posta la chat etcc, sia possibile scaricarlo su mobile ed ottenere le stesse configurazioni(calendario chat ,posta etcc.)\r\nGrazie",
+  "created_date": "2024-11-30 11:45:16.280893 UTC"
+}, {
+  "question_id": "1476583",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476583",
+  "title": "phisbing",
+  "question_content": "phishing",
+  "created_date": "2024-11-30 12:04:28.241490 UTC"
+}, {
+  "question_id": "1476606",
+  "question_link": "https://support.mozilla.org/en-US/questions/1476606",
+  "title": "Mail sending issue through mobile app",
+  "question_content": "I installed the app, and configured the account for pop3 settings. Mails are coming, but when sent, it is not reaching destination. The settings are correct, as same setting works in aqua mail on same mobile (installed for testing purpose).",
+  "created_date": "2024-11-30 14:50:51.179239 UTC"
+}]
