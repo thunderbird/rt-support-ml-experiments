@@ -1,7 +1,7 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 ## 3. 2024-12-02 Some prompts and results
-### Prompt
+### Prompt 1
 `The file uploaded to Knowledge is a JSON file of posts on a support forum for November 2024. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.  Please link to the posts using the "question_link" field in the JSON file.`
 ### Answer 1:
 There are a total of 154 posts in the dataset. Here is the grouping of posts by complaint category along with the number of posts in each group:
@@ -24,6 +24,127 @@ Mentions
 
 If you want to see the specific posts in any category or mentions, let me know! ​
 ​
+### Prompt 2
+Please repeat the above analysis but add a link to the posts using the "question_link" field
+
+### Reply 2
+Here’s the analysis of the posts with links to the relevant discussions included:
+
+### Categories and Links
+- **Authentication Issues (21 posts)**: Issues related to logging in, OAuth, password errors, and connection failures.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472314)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1472321)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1472391)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1472544)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1472666)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1472939)
+  - [Post 7](https://support.mozilla.org/en-US/questions/1473244)
+  - [Post 8](https://support.mozilla.org/en-US/questions/1473328)
+  - [Post 9](https://support.mozilla.org/en-US/questions/1473349)
+  - [Post 10](https://support.mozilla.org/en-US/questions/1473400)
+  - [Post 11](https://support.mozilla.org/en-US/questions/1474328)
+  - [Post 12](https://support.mozilla.org/en-US/questions/1475332)
+  - [Post 13](https://support.mozilla.org/en-US/questions/1475310)
+  - [Post 14](https://support.mozilla.org/en-US/questions/1475399)
+  - [Post 15](https://support.mozilla.org/en-US/questions/1475632)
+  - [Post 16](https://support.mozilla.org/en-US/questions/1475746)
+  - [Post 17](https://support.mozilla.org/en-US/questions/1475644)
+  - [Post 18](https://support.mozilla.org/en-US/questions/1476606)
+  - [Post 19](https://support.mozilla.org/en-US/questions/1475806)
+  - [Post 20](https://support.mozilla.org/en-US/questions/1476406)
+  - [Post 21](https://support.mozilla.org/en-US/questions/1474318)
+
+- **Email Sync Problems (19 posts)**: Issues related to syncing emails across devices, server connection problems, and folder synchronization.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472533)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1472544)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1473035)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1473334)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1473400)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1473500)
+  - [Post 7](https://support.mozilla.org/en-US/questions/1474322)
+  - [Post 8](https://support.mozilla.org/en-US/questions/1475034)
+  - [Post 9](https://support.mozilla.org/en-US/questions/1475644)
+  - [Post 10](https://support.mozilla.org/en-US/questions/1476555)
+  - [Post 11](https://support.mozilla.org/en-US/questions/1476583)
+  - [Post 12](https://support.mozilla.org/en-US/questions/1475600)
+  - [Post 13](https://support.mozilla.org/en-US/questions/1475655)
+  - [Post 14](https://support.mozilla.org/en-US/questions/1476415)
+  - [Post 15](https://support.mozilla.org/en-US/questions/1475322)
+  - [Post 16](https://support.mozilla.org/en-US/questions/1475832)
+  - [Post 17](https://support.mozilla.org/en-US/questions/1475242)
+  - [Post 18](https://support.mozilla.org/en-US/questions/1476494)
+  - [Post 19](https://support.mozilla.org/en-US/questions/1476250)
+
+- **Email Display Issues (8 posts)**: Concerns about font size, themes, or text readability.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472318)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1472559)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1473528)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1476255)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1473035)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1475602)
+  - [Post 7](https://support.mozilla.org/en-US/questions/1473252)
+  - [Post 8](https://support.mozilla.org/en-US/questions/1476345)
+
+- **Notifications Problems (7 posts)**: Problems with missing or unreliable email notifications.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472894)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1473036)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1475632)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1473500)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1475495)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1475612)
+  - [Post 7](https://support.mozilla.org/en-US/questions/1476418)
+
+- **Address Book and Contacts (5 posts)**: Questions about using or syncing contacts.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472560)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1475467)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1473123)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1476406)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1475432)
+
+- **Spam Management (8 posts)**: How to manage or mark spam/junk emails.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472471)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1475823)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1476483)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1473254)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1475765)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1475447)
+  - [Post 7](https://support.mozilla.org/en-US/questions/1475635)
+  - [Post 8](https://support.mozilla.org/en-US/questions/1475784)
+
+- **Message Filters (2 posts)**: Questions about creating or managing filters.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472881)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1475536)
+
+- **General Configuration and Setup (15 posts)**: Issues with settings, importing accounts, or general setup.
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472543)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1473023)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1473295)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1473023)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1476222)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1474334)
+  - [Post 7](https://support.mozilla.org/en-US/questions/1476424)
+  - [Post 8](https://support.mozilla.org/en-US/questions/1476162)
+  - [Post 9](https://support.mozilla.org/en-US/questions/1473282)
+  - [Post 10](https://support.mozilla.org/en-US/questions/1476342)
+
+### Mentions
+- **Posts mentioning Microsoft** (6 posts):
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472321)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1473244)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1473314)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1474291)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1475322)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1475541)
+
+- **Posts mentioning Google** (6 posts):
+  - [Post 1](https://support.mozilla.org/en-US/questions/1472314)
+  - [Post 2](https://support.mozilla.org/en-US/questions/1472939)
+  - [Post 3](https://support.mozilla.org/en-US/questions/1472534)
+  - [Post 4](https://support.mozilla.org/en-US/questions/1476226)
+  - [Post 5](https://support.mozilla.org/en-US/questions/1474546)
+  - [Post 6](https://support.mozilla.org/en-US/questions/1476182)
+
+Let me know if you'd like further details on any of these categories!
 
 ## 2. 2024-12-02 Upload the data to ChatGPT
 * https://github.com/thunderbird/rt-support-ml-experiments/blob/main/all_thunderbird_android_questions_november2024.json
