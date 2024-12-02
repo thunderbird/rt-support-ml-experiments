@@ -1,6 +1,8 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2. 2024-12-02 Upload the data to ChatGPT
+* https://github.com/thunderbird/rt-support-ml-experiments/blob/main/all_thunderbird_android_questions_november2024.json
 ## 1. 2024-12-02 Thunderbird for Android November 2024
 * Big Query to get all the TB Android November 2024 questions. Output in
     * CSV Google Sheet: [PUBLIC DOCUMENT: all_thunderbird_android_questions_november2024-results-20241201-210209](https://docs.google.com/spreadsheets/d/1nD-qQY-5Q-YT6VY4Z8FsLfnvQ5awSHDOdhhO0th1A00/edit?gid=1276710460#gid=1276710460) and
