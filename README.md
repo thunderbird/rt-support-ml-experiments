@@ -1,5 +1,29 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
+## 3. 2024-12-02 Some prompts and results
+### Prompt
+`The file uploaded to Knowledge is a JSON file of posts on a support forum for November 2024. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.  Please link to the posts using the "question_link" field in the JSON file.`
+### Answer 1:
+There are a total of 154 posts in the dataset. Here is the grouping of posts by complaint category along with the number of posts in each group:
+Categories and Counts
+
+    Authentication Issues: 21
+    Email Sync Problems: 19
+    Email Display Issues: 8
+    Notifications Problems: 7
+    Address Book and Contacts: 5
+    Spam Management: 8
+    Message Filters: 2
+    General Configuration and Setup: 15
+    Others: 69
+
+Mentions
+
+    Posts mentioning Microsoft: 6
+    Posts mentioning Google: 6
+
+If you want to see the specific posts in any category or mentions, let me know! ​
+​
 
 ## 2. 2024-12-02 Upload the data to ChatGPT
 * https://github.com/thunderbird/rt-support-ml-experiments/blob/main/all_thunderbird_android_questions_november2024.json
