@@ -170,6 +170,48 @@ The **top 3 problems** based on the number of posts are:
    - [Issues with manual account setup and missing options](https://support.mozilla.org/en-US/questions/1472543)  
 
 These categories reflect the most common issues faced by Thunderbird for Android users. Let me know if you'd like deeper insights into any of these!
+
+### Prompt 4
+
+Please sumarize all the issues with gmail. Please include links to posts using the "question_link" field.
+
+### Reply 4
+Here is a summary of all issues related to Gmail in the dataset, with links to the respective posts:
+
+### Gmail Issues
+1. **OAuth Sign-In Failures**:
+   - Problem signing into Gmail accounts due to OAuth errors or failed redirects.
+     - [Post 1: OAuth sign-in failed for one Gmail account](https://support.mozilla.org/en-US/questions/1472391)
+     - [Post 2: Can't log in Gmail account, OAuth failure](https://support.mozilla.org/en-US/questions/1472939)
+     - [Post 3: Gmail not logging in after importing settings](https://support.mozilla.org/en-US/questions/1472321)
+
+2. **Folder Synchronization Issues**:
+   - Gmail folders not syncing properly, showing incomplete folder structure, or failing to fetch messages.
+     - [Post 1: Only Outbox appears for Gmail accounts](https://support.mozilla.org/en-US/questions/1472579)
+     - [Post 2: Unable to sync folders such as Trash or Spam](https://support.mozilla.org/en-US/questions/1474923)
+
+3. **Receiving and Sending Email Problems**:
+   - Messages are not appearing or being sent from Gmail accounts on Thunderbird for Android.
+     - [Post 1: Unable to see emails in unified inbox](https://support.mozilla.org/en-US/questions/1472769)
+     - [Post 2: Sending emails to Gmail accounts failing without notice](https://support.mozilla.org/en-US/questions/1472580)
+
+4. **Account Import Issues**:
+   - Problems importing Gmail accounts from the desktop version of Thunderbird or QR codes.
+     - [Post 1: Gmail accounts partially imported](https://support.mozilla.org/en-US/questions/1472579)
+
+5. **Email Sorting Issues**:
+   - Gmail emails are not being loaded in chronological order or are showing partial results.
+     - [Post 1: Emails from Gmail folders loaded incorrectly](https://support.mozilla.org/en-US/questions/1475010)
+
+6. **Notification Problems**:
+   - New email notifications for Gmail accounts are delayed or not appearing.
+     - [Post 1: Notifications not working for Gmail accounts](https://support.mozilla.org/en-US/questions/1473500)
+
+7. **General Gmail Account Configuration Issues**:
+   - Users struggle to set up or manage Gmail accounts, often facing generic errors or unclear guidance.
+     - [Post 1: Manual setup of Gmail account failed](https://support.mozilla.org/en-US/questions/1473047)
+
+If you need further details about any specific issue or a deeper analysis, let me know!
 ## 2. 2024-12-02 Upload the data to ChatGPT
 * https://github.com/thunderbird/rt-support-ml-experiments/blob/main/all_thunderbird_android_questions_november2024.json
 ## 1. 2024-12-02 Thunderbird for Android November 2024
