@@ -1,5 +1,31 @@
 # rt-support-ml-experiments
 adventures in ml :-)
+
+## 1. 2024-12-02 Thunderbird for Android November 2024
+* Big Query to get all the TB Android November 2024 questions
+```sql
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird-android'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2024
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 11
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
 ## 6. 2024-11-18 you don't need 'tostring' since it's already a string! You also don't need the brackets around the first conditional
 ```bash
 cat questions-plus-original-poster-answers-and-tags-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.json \
