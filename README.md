@@ -1,5 +1,5 @@
 # rt-support-ml-experiments
-adventures in ml :-)
+adventures in ml :-) All data used in my experiments is publicly available data.
 
 ## 1. 2024-12-02 Thunderbird for Android November 2024
 * Big Query to get all the TB Android November 2024 questions. Output in
