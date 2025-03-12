@@ -1,8 +1,10 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2025-03-11-p3 Prompt 2
 
-## 2024-03-11-p2 Prompt 1
+> Please repeat the above analysis but add a link to the posts using the "question_link" field.
+## 2025-03-11-p2 Prompt 1
 
 >You are a Thunderbird email client expert,  email expert, in particular an expert on gmail and microsoft 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for February 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.  Please link to the posts using the "question_link" field in the JSON file.
 
@@ -30,7 +32,7 @@ Here is the refined breakdown of the support forum posts for February 2025, focu
 If you need links to the posts in a specific category, let me know!
 
 
-## 2024-03-11-p1 Thunderbird for Android February 2025 
+## 2025-03-11-p1 Thunderbird for Android February 2025 
 
 * Query results in Google Sheets: PUBLIC DOCUMENT: [all_thunderbird_android_questions_february-2025-results-20250312-040431-1741752454706](https://docs.google.com/spreadsheets/d/1DsRTuIndlJ9-NPAwvp0p6PCwsmeL4UNtl1-TkSVlf0Q/edit?usp=sharing)
 * Query results in JSON: [all_thunderbird_android_questions_february2025.json](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/all_thunderbird_android_questions_february2025.json)
