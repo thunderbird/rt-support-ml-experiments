@@ -1,0 +1,409 @@
+[{
+  "question_id": "1490289",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490289",
+  "title": "showing folder hierarchy / subfolders?",
+  "question_content": "I have many levels of subfolders, e.g. main-folder \"one\" and \"two\". Below these main-folders I have subfolders \"A\" and \"B\"\r\none\r\n-A\r\n-B\r\ntwo\r\n-A\r\n-B\r\nIn Thunderbird Desktop, these can be collapsed and expanded\r\n\r\nHowever in Thunderbird Android these are shown as\r\none\r\none-A\r\none-B\r\ntwo\r\ntwo-A\r\ntwo-B\r\nin an flat structure, e.g. cannot be collapsed / expanded. \r\n\r\nWhat do I wrong?\r\nBR Andreas",
+  "created_date": "2025-02-02 09:07:13.978470 UTC"
+}, {
+  "question_id": "1490356",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490356",
+  "title": "Message preview",
+  "question_content": "On the android I installed Thunderbird.\r\nwhen I go into the inbox, 1/3 screen shows email list.. 2/3 shows a message preview.\r\nI want to remove that preview.\r\nI only want to see my emails.\r\nI will click on an email if I want to read dit...\r\nIT would be fine if I could adjust the preview size but its set at 2/3 to 3/4 of my screen. leaving a tiny column for the emails.\r\n\r\nEither adjust preview size, or remove it totally?\r\n\r\nPlease advise",
+  "created_date": "2025-02-02 16:35:21.623000 UTC"
+}, {
+  "question_id": "1490633",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490633",
+  "title": "qr code from desktop won\u0027t scan on Thunderbird for Android SOLVED Use zoom out, ctrl+minus to make the QR code smaller.",
+  "question_content": "cannot scan complete qr code only half showing on desktop screen",
+  "created_date": "2025-02-03 21:54:48.429841 UTC"
+}, {
+  "question_id": "1490808",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490808",
+  "title": "unified email box versus i divided email views",
+  "question_content": "I would like to be able to view \"only on\" email inbox at a time (not the unified) inbox.\r\n\r\nThis is in my Thunderbird email.\r\n\r\nDesktop works this way and is great.",
+  "created_date": "2025-02-04 17:27:22.065679 UTC"
+}, {
+  "question_id": "1490849",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490849",
+  "title": "Mobile Thunderbird outgoing mail",
+  "question_content": "On the new Mobile Version, outgoing mail fails.\r\nI get no notification that delivery failed.\r\n\r\nWhy?",
+  "created_date": "2025-02-04 20:51:04.002439 UTC"
+}, {
+  "question_id": "1490850",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490850",
+  "title": "Outgoing mail",
+  "question_content": "New Mobile Thunderbird \r\n\r\nOutgoing mail fails",
+  "created_date": "2025-02-04 20:52:39.891027 UTC"
+}, {
+  "question_id": "1490972",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490972",
+  "title": "Thunderbird, exportieren auf Smartphone",
+  "question_content": "Hallo,ich habe mein Thunderbird -Passwort vergessen/verlegt und möchte gern die Thunderbird -App auf mein neues Smartphone installieren/exportieren. Was kann ich tun? \r\nFreundliche Grüße \r\nLutz Frommann",
+  "created_date": "2025-02-05 09:36:15.471878 UTC"
+}, {
+  "question_id": "1490973",
+  "question_link": "https://support.mozilla.org/en-US/questions/1490973",
+  "title": "change password for smtp",
+  "question_content": "how to change password for smtp",
+  "created_date": "2025-02-05 09:42:58.767569 UTC"
+}, {
+  "question_id": "1491186",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491186",
+  "title": "Sending email from abroad",
+  "question_content": "Hello, my emails had been working fine it seems,  but now that I\u0027ve gone abroad, I\u0027ve found that I can no longer send emails. I can still receive them though. I\u0027ve attached a screenshot of the error message that came up when I checked the settings.\r\nCan anybody explain this and help me to rectify the problem?",
+  "created_date": "2025-02-05 23:30:23.150053 UTC"
+}, {
+  "question_id": "1491257",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491257",
+  "title": "E-mails are no longer received",
+  "question_content": "Hello,\r\n\r\nI have not been receiving e-mails with Thunderbird beta for 2 days. I have not made any changes, memories have been deleted.\r\n\r\nWhat else can I check?\r\n\r\nGreetings Martin",
+  "created_date": "2025-02-06 09:06:54.061734 UTC"
+}, {
+  "question_id": "1491388",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491388",
+  "title": "Incoming mail filters",
+  "question_content": "can you establish filters in the same way that you establish them on the windows app? If so, do the work in conjunction with my windows filters?",
+  "created_date": "2025-02-06 19:31:47.265575 UTC"
+}, {
+  "question_id": "1491514",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491514",
+  "title": "Absence of incoming email folder",
+  "question_content": "Hello I have a problem after in potting Settings for my for accounts of email I do not See any folders Apart from out coming folder Sorry For In convenience In My English badain Training to use Voice recognition so the problem is that I do not See any folders by side of out coming In three of my accounts In My Computer application of Thunderbird there is no problem and I see Everything Bad I need osioł to see my coming emails on my Phone są please let me know If It possible to set This And use the full functionality of the application\r\nthank you",
+  "created_date": "2025-02-07 09:00:40.212366 UTC"
+}, {
+  "question_id": "1491619",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491619",
+  "title": "Not receiving emails for Thunderbird on Android",
+  "question_content": "Running on a Samsung Galaxy S21, Android 14, One UI version 6.1. Android security patch Jan 1, 2025.\r\n\r\nI\u0027ve tried both the most recent stable version of the Android Thunderbird app as well as the beta version, both from the play store. Both successfully import from the desktop app using the QR code. At least the process seems to complete without any glitches and my two mailboxes show up on my phone.\r\n\r\nI\u0027m connecting to servers at Pair networks, which works from the Thunderbird desktop (Max OS, Sequoia 15.3). I have two mailboxes, both routed to the \"unified\" view.\r\n\r\nI\u0027m pretty sure the mail servers are running IMAP, but there\u0027s always room for doubt.\r\n\r\nI\u0027m assuming that the little circle of arrows in the menu for the unified view does a manual sync, although I reconfigured the polling for 15 minutes and waited significantly longer than that and still nothing.\r\n\r\nI can send e-mails from my gmail account and they arrive at the desktop app in short order but don\u0027t get to the Android app. I\u0027m assuming here that both the desktop and Android programs will get all emails...\r\n\r\nI am running BitDefender on my phone, although I\u0027ve tried disabling that and still nothing when doing a manual sync.\r\n\r\nIt doesn\u0027t appear that I can send e-mail from my phone either. Messages just sit there in the outbox, even after clicking \"send messages\" on from the three-dot menu drop-down. I can send e-mail from the desktop client. \r\n\r\nI have the app running on my laptop all this time.\r\n\r\nI\u0027m at my wit\u0027s end, any suggestions?\r\n\r\nThanks,\r\nErick",
+  "created_date": "2025-02-07 17:17:09.279066 UTC"
+}, {
+  "question_id": "1491678",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491678",
+  "title": "Add new folder to Thunderbird email app",
+  "question_content": "How do I add a new folder to Thunderbird android app? Also, not all the folders transferred over from my laptop to my tablet. Thx Tony Nadeau",
+  "created_date": "2025-02-07 21:50:31.703942 UTC"
+}, {
+  "question_id": "1491690",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491690",
+  "title": "Thunderbird for Android: messages appear on Sent folder but are never received",
+  "question_content": "Hello, \r\n\r\nIn Thunderbird for Android, I can receive emails without a problem.  When I send, the email is copied to the Sent folder, and I don\u0027t get any error (no returned email); however, the emails are never received.  The issue doesn\u0027t happen on Thunderbird Desktop.\r\n\r\nMy problem is similar to the one described here: [[https://support.mozilla.org/en-US/questions/1239518|https://support.mozilla.org/en-US/questions/1239518]] \r\nBut I checked the outgoing server\u0027s configuration, and it all appears ok.\r\n\r\nThank you",
+  "created_date": "2025-02-07 22:45:14.756332 UTC"
+}, {
+  "question_id": "1491719",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491719",
+  "title": "Snoozed Folder",
+  "question_content": "I have snoozed a few emails from the Gmail web client. These move into a separate folder called  the snoozed folder. This folder is not visible or synced in the thunderbird client for android. Any way to sync and see this folder or get the mails from this folder? I tried searching under all mails and they did not show up.",
+  "created_date": "2025-02-08 03:38:25.505665 UTC"
+}, {
+  "question_id": "1491721",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491721",
+  "title": "Someone using my username/gmail",
+  "question_content": "When I went to sign up for inbox home screen to my surprise I\u0027m already signed in by someone else. They are using it with my Accounts.",
+  "created_date": "2025-02-08 04:42:43.028469 UTC"
+}, {
+  "question_id": "1491940",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491940",
+  "title": "Thunderbird for Android",
+  "question_content": "The install page for Thunderbird Android recommends using F-Droid . I use the button on the Thunderbird website which takes you to F-Droid. I try to install it but a pop-up message says F-Droid install was designed for an older Android device but my device is not new. I would rather not use Play Store for this install. Any suggestions would be most helpful. Thank you.",
+  "created_date": "2025-02-09 03:08:03.257518 UTC"
+}, {
+  "question_id": "1491976",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491976",
+  "title": "thunderbird android storage location",
+  "question_content": "my internal storage (64GB) is almost full\r\nI would like to use my internal sd-card storage (256GB) as storage location for my email profile folder.\r\n\r\nIs it possible ?\r\n\r\nphone RedmiNote 8 Pro\r\nAndroid 11\r\nMIUI Global 12.5.8",
+  "created_date": "2025-02-09 08:39:57.353851 UTC"
+}, {
+  "question_id": "1491987",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491987",
+  "title": "Sent messages",
+  "question_content": "Hi. I have Thunderbird installed on my Galaxy S25 phone and Galaxy Tab S8 tablet. If I send an email from either of those 2 devices 2 copies of the same message appear in the \u0027Sent Items\u0027 folder. Two messages also appear in the \u0027Sent Items\u0027 folder of Outlook on my PC. If I send a message from Outlook on my PC only 1 message appears (as it should do).\r\nIs there something that can be done to correct this so that the message only appears once?\r\nKind regards,\r\nPaul Goddard",
+  "created_date": "2025-02-09 09:59:07.270003 UTC"
+}, {
+  "question_id": "1491997",
+  "question_link": "https://support.mozilla.org/en-US/questions/1491997",
+  "title": "Thunderbird for Android",
+  "question_content": "Junkfilter in Thunderbird for Android?",
+  "created_date": "2025-02-09 11:39:39.478197 UTC"
+}, {
+  "question_id": "1492116",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492116",
+  "title": "Thunderbird new folder",
+  "question_content": "How to make a new folder in Thunderbird Android",
+  "created_date": "2025-02-09 23:18:33.718438 UTC"
+}, {
+  "question_id": "1492148",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492148",
+  "title": "Images and coloured text in email signature of thunderbird app on android/ samsung",
+  "question_content": "It appears you need to copy and paste the desktop email signature from an email to use on the Thunderbird mobile app rather than the html version in the settings. \r\nI have copied and pasted my email signature from an email and tried using the Samsung flow app to copy it to clipboard.\r\nBoth ways don\u0027t bring across images or coloured text and I can\u0027t see where to add/ edit either.\r\nIs there a way to add images or colour the text on the android mobile version of the Thunderbird email signature?",
+  "created_date": "2025-02-10 05:08:26.204479 UTC"
+}, {
+  "question_id": "1492170",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492170",
+  "title": "Incorrect sorting of letters in the list",
+  "question_content": "An old email with a similar subject line is always first in the list.\r\n\r\nMaybe the time zone is incorrect according to RFC2822? But this is not a reason to make the letter top and a potential way to abuse attention.\r\n\r\nDelivered-To: xxx@xxx.xx\r\nReturn-path: \u003cbounce+d3601c.6eda1-xxx\u003dxxx.xx@media.actioncam.solutions\u003e\r\nAuthentication-Results: mxs.xxx.xx; spf\u003dpass (mx311.i.xxx.xx: domain of media.actioncam.solutions designates 141.193.32.24 as permitted sender) smtp.mailfrom\u003dbounce+d3601c.6eda1-xxx\u003dxxx.xx@media.actioncam.solutions smtp.helo\u003dm32-24.eu.mailgun.net;\t dkim\u003dpass header.d\u003dmedia.actioncam.solutions\r\nReceived-SPF: pass (mx311.i.xxx.xx: domain of media.actioncam.solutions designates 141.193.32.24 as permitted sender) client-ip\u003d141.193.32.24; envelope-from\u003dbounce+d3601c.6eda1-xxx\u003dxxx.xx@media.actioncam.solutions; helo\u003dm32-24.eu.mailgun.net;\r\nReceived: from m32-24.eu.mailgun.net ([141.193.32.24]:49268)\tby mx311.i.xxx.xx with esmtp (envelope-from \u003cbounce+d3601c.xxx\u003dxxx.xx@media.actioncam.solutions\u003e)\tid 1m5mOZ-0001Zl-S5\tfor xxx@xxx.xx; Tue, 20 Jul 2021 12:50:46 +0300\r\nDKIM-Signature: a\u003drsa-sha256; v\u003d1; c\u003drelaxed/relaxed; d\u003dmedia.actioncam.solutions; q\u003ddns/txt; s\u003ds1; t\u003d1626774637; h\u003dTo: From: Subject: Content-Type: Mime-Version: Date: Message-Id: Sender; bh\u003dKRxNR5AdgsZkC9Tec3aBiHUioVJcXN00ifVIai0pXBs\u003d; b\u003diPMAbsb6f09q7Xr6lT++MhNDaTWLtxAxZoTuJHoQ0Fj7RMQHEQIreeLxy6sHH2JRHeCj127O bQlvJBIrrdII4cLf57m32kWdH3kSIE6OKR1adezKOFrzKC+9elt6R/HLTbwfSWvTNKRvj/9O 1Bq8f3Rw4zb/FVfpsQ38i50zP+g\u003d\r\nX-Mailgun-Sending-Ip: 141.193.32.24\r\nX-Mailgun-Sid: WyJjMDE2NyIsICJ2bWFpbGJveEBtYWlsLnJ1IiwgIjZlZGExIl0\u003d\r\nReceived: from \u003cunknown\u003e (\u003cunknown\u003e [82.146.39.20]) by api-n06.prod.eu-central-1.postgun.com with HTTP id 60f69c6a096916436197f9ec; Tue, 20 Jul 2021 09:50:34 GMT\r\nSender: robot\u003dactioncam.solutions@media.actioncam.solutions\r\nMessage-Id: \u003c20210720095034.df6e4d9dce5f427a@media.actioncam.solutions\u003e\r\nDate: Tue, 20 Jul 2021 09:50:34 UTC\r\nMime-Version: 1.0",
+  "created_date": "2025-02-10 06:44:01.096744 UTC"
+}, {
+  "question_id": "1492176",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492176",
+  "title": "Thunderbird Android",
+  "question_content": "How do I get classic/table view on Thunderbird Android?",
+  "created_date": "2025-02-10 07:14:09.719839 UTC"
+}, {
+  "question_id": "1492223",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492223",
+  "title": "Copy mail on a folder sent",
+  "question_content": "Hello,\r\n\r\nI am using Thunderbird on a Huawei P30 Android with EMUI 12.\r\n\r\nEmails sent from my mobile are not being copied to the \"Sent\" folder, neither on the smartphone nor on the server. As a result, I cannot find them on my phone or on my PC running Linux Ubuntu 24.04.\r\n\r\nDid I forget to configure something in the app on my smartphone?\r\n\r\nThank you.\r\n\r\nFabienne",
+  "created_date": "2025-02-10 12:00:06.521246 UTC"
+}, {
+  "question_id": "1492227",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492227",
+  "title": "It is showed only few (and old) email (in Yahoo account) ok other account",
+  "question_content": "I succefully set my other email account (gmail) and add my yahoo email account but for yahoo app show only few and old email. No problem with other account instead. How can I resolve?",
+  "created_date": "2025-02-10 12:57:51.268444 UTC"
+}, {
+  "question_id": "1492252",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492252",
+  "title": "T-Bird on Android",
+  "question_content": "Installation of T-Bird on a Galaxy S10 - Android 12: sent or replied-to emails are not saved on any \"sent\" or \"gesendet\" folder, although email have definitively been sent (have tested that by sending mail to own account).",
+  "created_date": "2025-02-10 14:39:52.428079 UTC"
+}, {
+  "question_id": "1492276",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492276",
+  "title": "Email address and massage",
+  "question_content": "This is WONWEH BENNAH, I want to enter my email account.",
+  "created_date": "2025-02-10 16:02:09.067261 UTC"
+}, {
+  "question_id": "1492311",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492311",
+  "title": "TBmobile doesn\u0027t react to qr code",
+  "question_content": "I tried to activate TB for Android (128 beta) and TB for windows.\r\n\r\nI can create the QR code on my computer. When asked on Android to photograph the code, a window for the cam opens and i can see the code but Android does not react and there is no possibilityto manually take a photo of the code.\r\n\r\nmy phone: realme c55 (RMX3710)\r\nAndroid version: 14 \r\n\r\nCan anybody help??\r\n\r\nThanks\r\n\r\nJoe",
+  "created_date": "2025-02-10 18:40:07.636430 UTC"
+}, {
+  "question_id": "1492410",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492410",
+  "title": "Creating/importing Subfolders",
+  "question_content": "I just switched to K9/Thunderbird pn my Android device\r\nIs there a way to create/import subfolder which i use for my mailbox before?\r\nMy account is using POP/SMTP  and work fine except thr subfolder",
+  "created_date": "2025-02-11 08:29:57.406085 UTC"
+}, {
+  "question_id": "1492417",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492417",
+  "title": "thunderbird for android",
+  "question_content": "8 accounts in desktop thunderbird. On import to android thunderbird 3 remain separate with inboxes, the others combined inappropriately into unified inbox. Clicking off unified inbox in display settings leaves these accounts with no display except an empty outbox folder. Their other folders and any contents are invisible. How to maintain separately managed accounts, each with inbox and all other folders?",
+  "created_date": "2025-02-11 08:51:07.721083 UTC"
+}, {
+  "question_id": "1492438",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492438",
+  "title": "SocketTimeoutException, when responding to mails Thunderbird for Android",
+  "question_content": "When responding to Mails, I often get error messages, that GMX server can\u0027t be reached. These emails remain in outbox forever and are also not processed later. If a fresh mail is created afterwards, it is sent immediately without any flaws. Unfortunately the earlier response mail is not processed also then. \r\n\r\nAny suggestions?",
+  "created_date": "2025-02-11 11:48:01.413225 UTC"
+}, {
+  "question_id": "1492570",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492570",
+  "title": "sent emails stuck in outbox",
+  "question_content": "Sent emails are stuck in outbox with no way to send them, happens on both mobile \u0026 WiFi. The send messages option in the outbox isn\u0027t working\u0027.",
+  "created_date": "2025-02-11 21:35:16.699305 UTC"
+}, {
+  "question_id": "1492609",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492609",
+  "title": "Can\u0027t import from Thinderbird (Linux) dektop to Thunderbird Mobile on Android",
+  "question_content": "I just learned about Thunderbird Mobile for Android and installed it from F-droid. Everything seemed to go okay until I tried to import my settings from the desktop (Thunderbird 128.7.0esr (64-bit) running on SolydK Linux 12 (Debian Bookworm)). I lined up the QR code (I think) and pressed the Done button, but it just dumped me back to the Getting Started screen without accessing my settings at all.",
+  "created_date": "2025-02-12 01:59:08.006640 UTC"
+}, {
+  "question_id": "1492617",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492617",
+  "title": "New email sign up",
+  "question_content": "I am looking to switch from gmail to mozilla thunderbird. I am currently using a chromebook, and can only access the android version. How do I create a mozilla thunderbird email so I can delete my google account?",
+  "created_date": "2025-02-12 02:41:45.911015 UTC"
+}, {
+  "question_id": "1492636",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492636",
+  "title": "all outgoing emails being rejected by ISP",
+  "question_content": "Switched to Android Thunderbird at end of January.\r\nUsed export function from PC for most of my email accounts but had to do some manually.\r\nAll emails from Thunderbird Android are being returned - blocked, that is the exported and manual configurations.\r\nI have cross checked PC configuration with Android Configuration - same.\r\nThunderbird version 8.2\r\nAndroid version 12\r\nHelp please.",
+  "created_date": "2025-02-12 07:22:00.208231 UTC"
+}, {
+  "question_id": "1492640",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492640",
+  "title": "Old Mail search on server",
+  "question_content": "Hello,\r\nTB only searches for Android in the loaded mails.\r\nIf nothing is found there, how can I extend the search to the server?\r\nI don\u0027t want to load all the mails.\r\n\r\nHallo,\r\nbei mir sucht TB Android nur in den geladenen Mails.\r\nWenn dort nichts gefunden wird, wie kann ich dann die Suche auf den Server erweitern? \r\nIch möchte aber nicht alle Mails laden.",
+  "created_date": "2025-02-12 07:59:05.420518 UTC"
+}, {
+  "question_id": "1492873",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492873",
+  "title": "Shortcut keys",
+  "question_content": "Kia ora.  I have just downloaded Thunderbird for Android - I always used it in the past, when I had a \u0027proper\u0027 laptop, so was really pleased to see that it was now available.  I use a Bluetooth keyboard with my tablet, which transforms using the tablet into something like a laptop.  However, my shortcut keys don\u0027t seem to work with Thunderbird, like they used to.  I can\u0027t create bold or italics (there\u0027s nothing like the little icons at the top of this box, for example), or move up and down the screen with keystrokes.  I can find nothing in the help about this topic.  Please can someone help me, or is the Thunderbird for Android of very limited utility?\r\n\r\nThank you in advance.\r\n\r\nAnnie",
+  "created_date": "2025-02-12 22:29:05.937245 UTC"
+}, {
+  "question_id": "1492956",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492956",
+  "title": "The sent emails are nowhere",
+  "question_content": "I am a novice in Thunderbird on Android (version 8.2). \r\nI have uploaded my settings from my desktop, where there is \r\n        \u003cvalue key\u003d\"sentFolderSelection\"\u003eAUTOMATIC\u003c/value\u003e\r\n        \u003cvalue key\u003d\"subscribedFoldersOnly\"\u003efalse\u003c/value\u003e\r\n        \u003cvalue key\u003d\"syncRemoteDeletions\"\u003etrue\u003c/value\u003e\r\n        \u003cvalue key\u003d\"uploadSentMessages\"\u003etrue\u003c/value\u003e\r\nSo, I expect that the emails I send will be stored in the folder where there is the message I reply to.\r\n\r\nBut unfortunately, they are not there. I tried to find them in Sent, Archive... but did not succeed anywhere.",
+  "created_date": "2025-02-13 10:20:56.437268 UTC"
+}, {
+  "question_id": "1492972",
+  "question_link": "https://support.mozilla.org/en-US/questions/1492972",
+  "title": "Shared Outlook Mailboxes",
+  "question_content": "I\u0027ve been trying to add Shared Outlook Office 365 Mailboxes to Thunderbird Mobile, but using the recommended method that is used on other email apps using a backslash \"myaccount@example.com\\sharedmailbox@example.com\" doesn\u0027t seem to work in Thunderbird. Is there a different method that I am missing?",
+  "created_date": "2025-02-13 11:45:33.099540 UTC"
+}, {
+  "question_id": "1493108",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493108",
+  "title": "New folder",
+  "question_content": "How do I make a new folder",
+  "created_date": "2025-02-13 22:21:40.142467 UTC"
+}, {
+  "question_id": "1493113",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493113",
+  "title": "Changing the From: address.",
+  "question_content": "Change request.\r\nHi,\r\nWith Thunderbird for Windows I can free-type a From: address that is different from the account email address, and I would like to do this on the Android version too.\r\nFor the avoidance of doubt, I don\u0027t want to use another account\u0027s email address, I want to free-type whatever I choose.\r\n\r\nFor example \r\nYahoo allows me to create up to 500 email aliases in the form \r\nalias-anyword@yahoo.com\r\n\r\nAs this feature has always been available on the desktop version, is it something you could incorporate on Android?",
+  "created_date": "2025-02-13 22:44:13.531644 UTC"
+}, {
+  "question_id": "1493125",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493125",
+  "title": "Android Thunderbird Account Option Meaning",
+  "question_content": "Hi, \r\n\r\nIn Settings for an IMAP account, Fetching mail, there\u0027s an option \"Erase deleted messages on server\" that has 3 options: Immediately, When polling, and Manually.  I get the first 2, but what happens when I select Manually?  \r\n\r\nThanks,\r\nMike",
+  "created_date": "2025-02-13 23:55:59.534560 UTC"
+}, {
+  "question_id": "1493347",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493347",
+  "title": "Thunderbird for Android - Icloud",
+  "question_content": "I am having problems with Thunderbird not downloading all messages from my icloud account. \r\n\r\nIt has only download back to November 2024 but I have emails back to 2012. (I have 10000+ emails as I keep them all as an effective records database. \r\n\r\nI have adjusted the Thunderbird settings to include all emails of any size and date and set the number of emails to all. My settings are the same as my desktop Thunderbird. \r\n\r\nI am running the latest version 8.2. \r\n\r\nDoes anyone have a solution?",
+  "created_date": "2025-02-14 21:51:45.479589 UTC"
+}, {
+  "question_id": "1493437",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493437",
+  "title": "Archiving emails in thunderbird for android",
+  "question_content": "I have always found being able to archive messages in thunderbird very useful whether by year or to a specifically created folder, eg \" committee business\".\r\n   I am finding this impossible in thunderbird for android. How do I create specific new folders / archives. I am sorry if I am missing something obvious. Thank you for your help\r\n     Ian",
+  "created_date": "2025-02-15 08:00:15.558073 UTC"
+}, {
+  "question_id": "1493465",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493465",
+  "title": "Printing email from android",
+  "question_content": "I have not found a way to print an email from Thunderbird for Android.\r\nThere are several occasions when that is important for me. Now I have to leave Thunderbird and log into a web client to be able to print a copy of an email.",
+  "created_date": "2025-02-15 12:37:02.235171 UTC"
+}, {
+  "question_id": "1493583",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493583",
+  "title": "Signature",
+  "question_content": "How do I create Signatures for the Android version",
+  "created_date": "2025-02-16 00:36:46.089428 UTC"
+}, {
+  "question_id": "1493772",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493772",
+  "title": "Signatures",
+  "question_content": "Can i use a jpg as my signature in Thunderbird mobile?",
+  "created_date": "2025-02-17 00:29:59.537064 UTC"
+}, {
+  "question_id": "1493801",
+  "question_link": "https://support.mozilla.org/en-US/questions/1493801",
+  "title": "Email signature on mobile",
+  "question_content": "I have a custom image for my business email signature on Thunderbird desktop. \r\n\r\nIm trying to get Thunderbird mobile to use the same image, or HTML signature when sending business emails from mobile. All i can find is a simple text input box for mobile signature. It doesn\u0027t accept html or images.\r\n\r\nHelp?\r\nThx",
+  "created_date": "2025-02-17 04:23:59.130490 UTC"
+}, {
+  "question_id": "1494185",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494185",
+  "title": "Thunderbird Android - IMAP Push stops updating",
+  "question_content": "Thunderbird Android v8.2  /  Pixel 6a  /  Android 15 (Feb 2025 security update)\r\n\r\nIMAP Push in use for Inboxes only on 3 mail accounts (2 Comcast; 1 Gmail)\r\n   - Enable Push: \"on\"\r\n   - Enable sync: \"off\" (for Inboxes; on for all other mail folders)\r\n\r\n\r\nInstalled TB in November 2024 and experienced no problems until recently.  Beginning in early February 2025, inbox push/update stops working every ~24 hours.  If I go to Android settings and force stop TB, clear cache, then restart TB, Inboxes immediately sync with servers and again function fine for approximately 24 hours (not exactly).\r\n\r\nUsing TB for 3 e-mail accounts.  Only the 3 Inboxes have push enabled (and sync disabled).  All other mail folders on each account set to sync every 60 minutes.  This configuration was set up on initial installation and worked without issue until recently.  The only system modification made in this timeframe was installing the February 2025 Android security update.\r\n\r\nAnyone else experiencing similar issues?  Any suggestions?\r\n\r\nThank you.",
+  "created_date": "2025-02-18 22:18:56.921574 UTC"
+}, {
+  "question_id": "1494273",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494273",
+  "title": "Archive folders in thunderbird for android",
+  "question_content": "Dear All, \r\n          At its release I set up thunderbird for Android. I am very happy with it apart from the fact I have struggled and been unable to set up archive folders as I have on my desk top version. \r\n   I find this a great boon in keeping my inbox uncluttered and accessing old information easily.\r\n    On my desktop I have folders to archive by year and by specific entities.\r\n   I am sure I am missing something very obvious so any help would be appreciated.\r\n    Kind regards Ian",
+  "created_date": "2025-02-19 09:06:00.827019 UTC"
+}, {
+  "question_id": "1494418",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494418",
+  "title": "Where are the contacts on an Android device?",
+  "question_content": "I imported my profiles to my Android device, but I can\u0027t find my contacts.  Should they have come in?  If so, how do I access them?",
+  "created_date": "2025-02-19 20:15:00.535008 UTC"
+}, {
+  "question_id": "1494522",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494522",
+  "title": "Cannot change the password of one email account",
+  "question_content": "I use Thunderbird on both a Windows PC and an Android smartphone (Thunderbird 8.2) in order to manage several email accounts of mine.\r\n\r\nThe latter has been showing me for a while that the password for one of the accounts is incorrect. However, I see no way to change it. When I click \"Parameters\", I see three groups of parameters (I am translating from the French) \"General parameters\", \"Accounts\", \"Backup\" (exporting/importing parameters), \"Other\". In none there is any mention of passwords.\r\n\r\nHow do I go about doing that?\r\n\r\nThanks,\r\nMichael",
+  "created_date": "2025-02-20 10:19:07.221648 UTC"
+}, {
+  "question_id": "1494569",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494569",
+  "title": "Android Thunderbird app question for font color",
+  "question_content": "Great to see the Android version of Thunderbird.\r\n\r\nIs there a way to set the default color for writing emails to a different color than black?\r\n\r\nThanks.\r\n\r\nJeffrey",
+  "created_date": "2025-02-20 14:22:21.611838 UTC"
+}, {
+  "question_id": "1494759",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494759",
+  "title": "[Feature Request] Only displayed embedded images not sent",
+  "question_content": "If is possibly to send the embedded images in the html quote answer from a email?\r\n\r\nI think not, can Mozilla make this possibility?",
+  "created_date": "2025-02-21 06:44:29.236264 UTC"
+}, {
+  "question_id": "1494886",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494886",
+  "title": "Displaying IMAP folders hierarchically in Thunderbird Mobile",
+  "question_content": "Hello\r\n\r\nHaving used Maildroid for years, alongside Thunderbird on Linux, Mac and Windows desktops, I\u0027m a recent convert to Thunderbird Mobile, and I\u0027m very impressed.\r\n\r\nHowever, I have over 5,000 IMAP folders, and the way that Thunderbird Mobile displays them linearly is not usable/accessible.  I remember trying K-9 years ago and rejecting it for the same reason.\r\n\r\nIs there anywhere I can up-vote some effort to adding hierarchical folders, with expand/collapse, bringing TM in line with Thunderbird Desktop?\r\n\r\nUnfortunately I don\u0027t have the coding skills to volunteer on this.\r\n\r\nThanks\r\nJonathan.",
+  "created_date": "2025-02-21 19:30:08.707475 UTC"
+}, {
+  "question_id": "1494952",
+  "question_link": "https://support.mozilla.org/en-US/questions/1494952",
+  "title": "Essential \"Mark Not Spam\"  is missing or I don\u0027t know how I can do that? \u0026 Possible Bug : cannot move an email from \"deleted\" or \"archive\" folder to inbox : message \"cannot be done before sync with server",
+  "question_content": "Hi Friends,\r\n\r\nV 8.2 Android\r\nMany emails marked spam in the servers such as outlook com, and I cannot mark them as \"Not Spam\" through Thunderbird Mobile Android\r\n\r\nSecondly : possible bug:\r\nI cannot move a message from time to time such as from deleted folder or spam folder to inbox with a message it is not possible to do that without server sync (whereas I believe they sync OK) \r\nin the outlook.com mail account",
+  "created_date": "2025-02-22 03:44:20.270385 UTC"
+}, {
+  "question_id": "1495126",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495126",
+  "title": "Private vpn",
+  "question_content": "I want my phone secure",
+  "created_date": "2025-02-23 04:29:04.886395 UTC"
+}, {
+  "question_id": "1495169",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495169",
+  "title": "Only showing outbox for gmail",
+  "question_content": "Hi,\r\nI have just installed thunderbird for android and have set up 5 accounts including a Gmail account. The other 4 accounts show several folders including inbox,outbox,sent,etc. The Gmail account only shows outbox, what can I do to show the other folders?\r\nKind regards",
+  "created_date": "2025-02-23 12:28:50.047179 UTC"
+}, {
+  "question_id": "1495177",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495177",
+  "title": "app icon badge",
+  "question_content": "Hi support team,\r\ndoes this App have no app icon badge display?\r\n\r\nApp version: 8.2 (installed from Google Play)\r\nDevice \u0026 OS: Oneplus13 \u0026 ColorOS 15",
+  "created_date": "2025-02-23 13:05:20.781529 UTC"
+}, {
+  "question_id": "1495245",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495245",
+  "title": "Sync Email messages between Tbird Windows and Tbird Android...",
+  "question_content": "How do I get my email messages imported to Android Thunderbird? Getting the accounts set up is easy but I cannot find a way to export my Windows Tbird email messages so they can be imported into the Android Tbird program.\r\n\r\nTo me, this is something that should be included in both programs so they can be synchronized. What am I missing????",
+  "created_date": "2025-02-23 19:50:55.660451 UTC"
+}, {
+  "question_id": "1495800",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495800",
+  "title": "were is a address book",
+  "question_content": "were is a address book in thunderbird for Android ?\r\nRegards \r\nHubert Bredel",
+  "created_date": "2025-02-26 09:14:54.467989 UTC"
+}, {
+  "question_id": "1495865",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495865",
+  "title": "Thunderbirds on android tablet",
+  "question_content": "Is there a way to allow my tablet to be used but to request a sign in if I want to access my email?",
+  "created_date": "2025-02-26 16:05:55.748007 UTC"
+}, {
+  "question_id": "1495941",
+  "question_link": "https://support.mozilla.org/en-US/questions/1495941",
+  "title": "Sent folder not syncing for Thunderbird Android",
+  "question_content": "I installed Thunderbird for Android today on my Moto g stylus.  I used the QR code to import the settings from Thunderbird on my Windows 10 laptop.  In general, things seem to be working, but outgoing messages are not being copied to the \"sent\" folder.  I can see older \"sent\" messages that were sent from my Windows 10 Thunderbird, but no sent messages that originated from my phone.  I have an IMAP mail server.",
+  "created_date": "2025-02-26 21:48:44.734991 UTC"
+}, {
+  "question_id": "1496096",
+  "question_link": "https://support.mozilla.org/en-US/questions/1496096",
+  "title": "Trying to transfer Tbird data to Android, but Tbird on Android won\u0027t recognize QR code on desktop",
+  "question_content": "Trying to transfer Tbird data to Android, but Tbird on Android won\u0027t recognize QR code on desktop.",
+  "created_date": "2025-02-27 16:17:44.564089 UTC"
+}, {
+  "question_id": "1496100",
+  "question_link": "https://support.mozilla.org/en-US/questions/1496100",
+  "title": "Remove long folder names under inbox",
+  "question_content": "Would like to remove the long folder names and only show the last sub folder name. For example instead of seeing INBOX.travel.Uk - only UK would be visible as part of the folder tree",
+  "created_date": "2025-02-27 16:45:31.653201 UTC"
+}, {
+  "question_id": "1496101",
+  "question_link": "https://support.mozilla.org/en-US/questions/1496101",
+  "title": "Remove long folder names under inbox",
+  "question_content": "Would like to remove the long folder names and only show the last sub folder name. For example instead of seeing INBOX.travel.Uk - only UK would be visible as part of the folder tree",
+  "created_date": "2025-02-27 16:45:38.782768 UTC"
+}]
