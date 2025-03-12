@@ -4,6 +4,126 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 ## 2025-03-11-p3 Prompt 2
 
 > Please repeat the above analysis but add a link to the posts using the "question_link" field.
+
+### Answer 2
+Here is the refined breakdown of the support forum posts for February 2025, including links to relevant posts:
+
+- **Total number of posts**: **68**
+- **Complaints grouped by issue**:
+
+### **Authentication Issues** (e.g., password issues, login failures, QR code problems) - **10 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1490633)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1490973)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1491619)
+4. [Post 4](https://support.mozilla.org/en-US/questions/1492170)
+5. [Post 5](https://support.mozilla.org/en-US/questions/1492311)
+6. [Post 6](https://support.mozilla.org/en-US/questions/1492609)
+7. [Post 7](https://support.mozilla.org/en-US/questions/1494522)
+8. [Post 8](https://support.mozilla.org/en-US/questions/1495865)
+9. [Post 9](https://support.mozilla.org/en-US/questions/1495941)
+10. [Post 10](https://support.mozilla.org/en-US/questions/1496096)
+
+---
+
+### **Outgoing Email Issues** (e.g., failure to send emails, stuck messages) - **3 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1490849)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1490850)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1492570)
+
+---
+
+### **Incoming Email Issues** (e.g., not receiving emails, IMAP push failures) - **1 post**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1494185)
+
+---
+
+### **Folder and Organization Issues** (e.g., subfolders, missing folders, archive problems) - **11 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1490289)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1491514)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1491678)
+4. [Post 4](https://support.mozilla.org/en-US/questions/1492410)
+5. [Post 5](https://support.mozilla.org/en-US/questions/1492417)
+6. [Post 6](https://support.mozilla.org/en-US/questions/1492956)
+7. [Post 7](https://support.mozilla.org/en-US/questions/1493437)
+8. [Post 8](https://support.mozilla.org/en-US/questions/1494273)
+9. [Post 9](https://support.mozilla.org/en-US/questions/1494886)
+10. [Post 10](https://support.mozilla.org/en-US/questions/1494952)
+11. [Post 11](https://support.mozilla.org/en-US/questions/1495169)
+
+---
+
+### **Interface and Usability** (e.g., layout problems, signature issues, display preferences) - **7 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1490356)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1492148)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1493583)
+4. [Post 4](https://support.mozilla.org/en-US/questions/1493772)
+5. [Post 5](https://support.mozilla.org/en-US/questions/1493801)
+6. [Post 6](https://support.mozilla.org/en-US/questions/1494759)
+7. [Post 7](https://support.mozilla.org/en-US/questions/1495177)
+
+---
+
+### **Sync and Import Issues** (e.g., QR code sync failures, account import problems) - **4 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1491719)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1493465)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1494418)
+4. [Post 4](https://support.mozilla.org/en-US/questions/1495245)
+
+---
+
+### **Server Connection Issues** (e.g., connection errors, timeouts) - **1 post**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1492438)
+
+---
+
+### **Microsoft-Related Issues** (e.g., Outlook, Office 365, Hotmail, Exchange problems) - **2 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1491987)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1492972)
+
+---
+
+### **Google-Related Issues** (e.g., Gmail account access, missing folders) - **3 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1491721)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1492227)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1492617)
+
+---
+
+### **Other Issues** (uncategorized email-related concerns) - **26 posts**
+1. [Post 1](https://support.mozilla.org/en-US/questions/1490808)
+2. [Post 2](https://support.mozilla.org/en-US/questions/1490972)
+3. [Post 3](https://support.mozilla.org/en-US/questions/1491186)
+4. [Post 4](https://support.mozilla.org/en-US/questions/1491257)
+5. [Post 5](https://support.mozilla.org/en-US/questions/1491388)
+6. [Post 6](https://support.mozilla.org/en-US/questions/1491690)
+7. [Post 7](https://support.mozilla.org/en-US/questions/1491940)
+8. [Post 8](https://support.mozilla.org/en-US/questions/1491976)
+9. [Post 9](https://support.mozilla.org/en-US/questions/1491997)
+10. [Post 10](https://support.mozilla.org/en-US/questions/1492116)
+11. [Post 11](https://support.mozilla.org/en-US/questions/1492176)
+12. [Post 12](https://support.mozilla.org/en-US/questions/1492223)
+13. [Post 13](https://support.mozilla.org/en-US/questions/1492252)
+14. [Post 14](https://support.mozilla.org/en-US/questions/1492276)
+15. [Post 15](https://support.mozilla.org/en-US/questions/1492636)
+16. [Post 16](https://support.mozilla.org/en-US/questions/1492640)
+17. [Post 17](https://support.mozilla.org/en-US/questions/1492873)
+18. [Post 18](https://support.mozilla.org/en-US/questions/1493108)
+19. [Post 19](https://support.mozilla.org/en-US/questions/1493113)
+20. [Post 20](https://support.mozilla.org/en-US/questions/1493125)
+21. [Post 21](https://support.mozilla.org/en-US/questions/1493347)
+22. [Post 22](https://support.mozilla.org/en-US/questions/1494569)
+23. [Post 23](https://support.mozilla.org/en-US/questions/1495126)
+24. [Post 24](https://support.mozilla.org/en-US/questions/1495800)
+25. [Post 25](https://support.mozilla.org/en-US/questions/1496100)
+26. [Post 26](https://support.mozilla.org/en-US/questions/1496101)
+
+---
+
+### **Mentions of Specific Companies**:
+- **Microsoft**: **2 posts**
+- **Google**: **3 posts**
+
+Let me know if you need further analysis or another format for the data!
 ## 2025-03-11-p2 Prompt 1
 
 >You are a Thunderbird email client expert,  email expert, in particular an expert on gmail and microsoft 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for February 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.  Please link to the posts using the "question_link" field in the JSON file.
