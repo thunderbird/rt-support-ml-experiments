@@ -3,7 +3,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 ## 2024-03-11-p1 Thunderbird for Android February 2025 
 
 * Query results in Google Sheets: PUBLIC DOCUMENT: [all_thunderbird_android_questions_february-2025-results-20250312-040431-1741752454706](https://docs.google.com/spreadsheets/d/1DsRTuIndlJ9-NPAwvp0p6PCwsmeL4UNtl1-TkSVlf0Q/edit?usp=sharing)
-* Query results in JSON
+* Query results in JSON: [all_thunderbird_android_questions_february2025.json](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/all_thunderbird_android_questions_february2025.json)
 ### Query: 2025-02-thunderbird-android-questions
 ```sql
 SELECT
