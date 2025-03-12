@@ -1,5 +1,31 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
+## 2024-03-11-p1 Thunderbird for Android February 2025 
+
+### Query: 2025-02-thunderbird-android-questions
+```sql
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird-android'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2025
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 2
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
 ## 3. 2024-12-02 Some prompts and results
 ### Prompt 1
 `The file uploaded to Knowledge is a JSON file of posts on a support forum for November 2024. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.  Please link to the posts using the "question_link" field in the JSON file.`
