@@ -1,6 +1,94 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2025-03-18-p4 prompt 3
+> oops repeat above but put the colon after the integer part of "question_link"
+
+### Result
+
+Here is the updated breakdown with the correct formatting.
+
+### **Total number of posts:** 33
+
+---
+
+### **1. Authentication Issues (6 posts)**
+(Problems related to login, password issues, or authentication failures)
+- [1497443: "Authentication failed" again and again ...](https://support.mozilla.org/en-US/questions/1497443)
+- [1497133: How do I manually change/enter the account information in mobile](https://support.mozilla.org/en-US/questions/1497133)
+- [1497893: Shared Microsoft mailbox](https://support.mozilla.org/en-US/questions/1497893)
+- [1499777: CenturyLink email account](https://support.mozilla.org/en-US/questions/1499777)
+- [1498631: piixel 6a cannot read qr code](https://support.mozilla.org/en-US/questions/1498631)
+- [1498363: Thunderbird für Android (duplicate account issue)](https://support.mozilla.org/en-US/questions/1498363)
+
+---
+
+### **2. Email Sending/Receiving Issues (5 posts)**
+(Emails not being sent or received properly)
+- [1497103: Thunderbird Android doesn’t send emails](https://support.mozilla.org/en-US/questions/1497103)
+- [1497024: MailChannels blocking ALL emails sent from Thunderbird for Android](https://support.mozilla.org/en-US/questions/1497024)
+- [1497850: Thunderbird for Android leaves no margin on the left when composing/sending email](https://support.mozilla.org/en-US/questions/1497850)
+- [1497303: Certificate validation on Imaps](https://support.mozilla.org/en-US/questions/1497303)
+- [1499464: Bt email (ensuring emails remain after an account is closed)](https://support.mozilla.org/en-US/questions/1499464)
+
+---
+
+### **3. Folder and Syncing Issues (6 posts)**
+(Problems related to folder management, syncing, and moving emails)
+- [1496739: Sync all folders](https://support.mozilla.org/en-US/questions/1496739)
+- [1497416: Thunderbird mobile (syncing sent messages across devices)](https://support.mozilla.org/en-US/questions/1497416)
+- [1498055: Thunderbird Mobile for Android (moving emails between folders)](https://support.mozilla.org/en-US/questions/1498055)
+- [1499301: Moving emails between folders](https://support.mozilla.org/en-US/questions/1499301)
+- [1499052: Sent messages (finding the sent folder)](https://support.mozilla.org/en-US/questions/1499052)
+- [1498894: thunderbird sous android (folder name translation issue)](https://support.mozilla.org/en-US/questions/1498894)
+
+---
+
+### **4. Notifications Issues (3 posts)**
+(Problems with notifications not appearing or working)
+- [1497309: Notification](https://support.mozilla.org/en-US/questions/1497309)
+- [1497851: Notification on Pixel 8 Pro](https://support.mozilla.org/en-US/questions/1497851)
+- [1499131: swipe options not working on emails on android](https://support.mozilla.org/en-US/questions/1499131)
+
+---
+
+### **5. Address Book & Contacts Issues (3 posts)**
+(Problems with importing or managing contacts)
+- [1497844: Addressbook from Windows Thunderbird](https://support.mozilla.org/en-US/questions/1497844)
+- [1498369: Address book (importing contacts from desktop to Android)](https://support.mozilla.org/en-US/questions/1498369)
+- [1498981: Send to Group of Contacts](https://support.mozilla.org/en-US/questions/1498981)
+
+---
+
+### **6. Feature Requests / General App Issues (7 posts)**
+(Suggestions, missing features, or usability concerns)
+- [1498122: Feature Request - Attaching a pinned image on Samsung Tab S10](https://support.mozilla.org/en-US/questions/1498122)
+- [1499908: Thunderbird android app delayed response moving to each mail account](https://support.mozilla.org/en-US/questions/1499908)
+- [1499103: Thunderbird v. K9 (general criticism)](https://support.mozilla.org/en-US/questions/1499103)
+- [1496894: Quick way to mark a message as read](https://support.mozilla.org/en-US/questions/1496894)
+- [1496840: T amoo (random spam post)](https://support.mozilla.org/en-US/questions/1496840)
+- [1498589: word of word (unclear post)](https://support.mozilla.org/en-US/questions/1498589)
+- [1499224: dossiers (French translation issue)](https://support.mozilla.org/en-US/questions/1499224)
+
+---
+
+### **Mentions of Major Email Providers**
+- **Microsoft:** 3 posts
+  - [1497893: Shared Microsoft mailbox](https://support.mozilla.org/en-US/questions/1497893)
+  - [1497416: Thunderbird mobile (syncing sent messages across devices)](https://support.mozilla.org/en-US/questions/1497416)
+  - [1499103: Thunderbird v. K9 (general criticism)](https://support.mozilla.org/en-US/questions/1499103)
+
+- **Google (Gmail):** 2 posts
+  - [1497850: Thunderbird for Android leaves no margin on the left when composing/sending email](https://support.mozilla.org/en-US/questions/1497850)
+  - [1497133: How do I manually change/enter the account information in mobile](https://support.mozilla.org/en-US/questions/1497133)
+
+Let me know if you need further refinements! 🚀
+
+## 2025-03-18-p4 prompt 2
+>Please repeat the above analysis but prepend a colon and then the integer part of "question_link" to the link text for all links.
+
+## 2025-03-18-p3 prompt 1
+> Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file.
 ## 2025-03-18-p2 Created a custom ChatGPT with the JSON file from March 1-17, 2025
 * custom chatgpt [https://chatgpt.com/g/g-67da56693f2c8191b556e445aa9f932b-march-1-17-2025-sumo-thunderbird-for-android-aaq](https://chatgpt.com/g/g-67da56693f2c8191b556e445aa9f932b-march-1-17-2025-sumo-thunderbird-for-android-aaq)
 ## 2025-03-18-p1 Thunderbird for Android March 1-17, 2025
