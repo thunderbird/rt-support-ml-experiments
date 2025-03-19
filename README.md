@@ -1,7 +1,7 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
-## 2025-03-18-p2 Created a custom ChatGPT
+## 2025-03-18-p2 Created a custom ChatGPT with the JSON file from March 1-17, 2025
 * custom chatgpt [https://chatgpt.com/g/g-67da56693f2c8191b556e445aa9f932b-march-1-17-2025-sumo-thunderbird-for-android-aaq](https://chatgpt.com/g/g-67da56693f2c8191b556e445aa9f932b-march-1-17-2025-sumo-thunderbird-for-android-aaq)
 ## 2025-03-18-p1 Thunderbird for Android March 1-17, 2025
 
