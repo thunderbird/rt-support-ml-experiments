@@ -1,5 +1,33 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
+
+## 2025-03-18-p1 Thunderbird for Android March 1-17, 2025
+
+### Query: 2025-03-01 2025-03-17 Thunderbird android questions
+
+```sql
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird-android'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2025
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 3
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
 ## 2025-03-11-p6 Link to the ChatGPT  with JSON file uploaded for February 2025 SUMO Thunderbird for Android posts
 * https://chatgpt.com/share/e/67d110eb-e74c-8002-ad46-2dbbb7ebc2a9
 ## 2025-03-11-p6 Prompt 5
