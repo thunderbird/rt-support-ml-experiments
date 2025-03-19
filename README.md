@@ -5,6 +5,8 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 ### Query: 2025-03-01 2025-03-17 Thunderbird android questions
 
+query is here: [2025-03-01 2025-03-17 Thunderbird android questions](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3sb05fdc23-c49c-4f66-8d6b-60d92ee98f8d!2e1) 
+
 ```sql
 SELECT
   question_id,
