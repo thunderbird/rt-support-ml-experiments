@@ -1,6 +1,30 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2025-05-16-p1 Thunderbird Desktop March 2025 Query
+```sql
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2025
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 3
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
 ## 2025-05-15-p3 Prompt: Export to a Spreadsheet please 
 * Result: Google Sheet: [thunderbird_march2025_support_posts](https://docs.google.com/spreadsheets/d/1u-HvRjhNYpuCAqcNfr1gsOBdIA9CbTCP/edit?usp=sharing&ouid=110583742438912896269&rtpof=true&sd=true)
 ## 2025-05-15-p2 Create ChatGPT with JSON file and query it
