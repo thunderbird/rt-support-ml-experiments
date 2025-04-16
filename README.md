@@ -1,6 +1,32 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2025-05-15-p1 Thunderbird for Android March 1-31, 2025
+### Query
+```sql
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird-android'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2025
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 3
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
+
 ## 2025-03-18-p4 prompt 3
 > oops repeat above but put the colon after the integer part of "question_link"
 
