@@ -1,7 +1,7 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
-## 1014-05-15-p3 Prompt: Export to a Spreadsheet please 
+## 2025-05-15-p3 Prompt: Export to a Spreadsheet please 
 * Result: Google Sheet: [thunderbird_march2025_support_posts](https://docs.google.com/spreadsheets/d/1u-HvRjhNYpuCAqcNfr1gsOBdIA9CbTCP/edit?usp=sharing&ouid=110583742438912896269&rtpof=true&sd=true)
 ## 2025-05-15-p2 Create ChatGPT with JSON file and query it
 * link to chatpgt: https://chatgpt.com/g/g-p-67ff4807e6dc8191935e737a863ca0d5-2025-03-sumo-aaq-tb-android/project
