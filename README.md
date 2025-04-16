@@ -3,6 +3,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 ## 2025-05-15-p1 Thunderbird for Android March 1-31, 2025
 ### Query Result in Google Drive in JSON
+* 60 questions
 * JSON in google drive: [March 1-31-2025-Android-questions-bquxjob_308841c0_1963d2464c1](https://drive.google.com/file/d/1n6BcgziUWU5_i7rG9IXKsKzuvEWzcwNu/view?usp=sharing)
 ### Query
 * [link to March 1-31, 20225 SUMO Android questions query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s395d1946-2ff1-4e61-93e2-931ae2173c8b!2e1)
