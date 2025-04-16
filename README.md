@@ -9,7 +9,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
  
 > You are a Thunderbird email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for March 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
 
-### Prompt Result
+### March 2025 SUMO Android Prompt Result
 
 There are **71 posts** in the dataset from March 2025. I've grouped them based on the main type of complaint or issue described, with the number of posts in each group:
 
