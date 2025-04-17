@@ -1,11 +1,11 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
-## 2025-05-16-p2 Thunderbird Desktop March 2025 SUMO Forum Questions Query Result
+## 2025-05-16-p2 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query Result
 * [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/all-thunderbird-android-questions-march2025-bquxjob_27a20fe7_195acd4515e.json)
 * [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON in Google Sheets
 ](https://drive.google.com/file/d/1Ur_6u6W6NBnIRium8P-OUtpJQgkMaA4q/view?usp=sharing)
-## 2025-05-16-p1 Thunderbird Desktop March 2025 SUMO Forum Questions Query
+## 2025-05-16-p1 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query
 ```sql
 SELECT
   question_id,
