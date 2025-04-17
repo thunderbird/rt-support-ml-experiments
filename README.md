@@ -1,6 +1,120 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2025-05-16-p4  March 2025 TB Desktop Report from P3's prompt
+
+The uploaded JSON file contains 278 support forum posts from March 2025.
+
+### Grouping by Complaint Categories
+
+Here’s how they break down by general issue type:
+
+---
+
+#### 1. Authentication Issues – 67 posts
+Issues where users are unable to connect to servers, login fails, password is incorrect, or 2FA fails.
+
+Examples:
+- [1496643: Missing smtp line on saved passwords](https://support.mozilla.org/en-US/questions/1496643)
+- [1496807: Cannot add outlook to Thunderbird - incorrect password](https://support.mozilla.org/en-US/questions/1496807)
+- [1496713: SMTP Timeout with Cpanel email](https://support.mozilla.org/en-US/questions/1496713)
+
+---
+
+#### 2. Data Migration, Lost Emails, and Account Setup – 52 posts
+Includes problems with moving Thunderbird to new PCs, missing folders/messages, or confusion about how to import/export.
+
+Examples:
+- [1496654: Files and folders disappeared](https://support.mozilla.org/en-US/questions/1496654)
+- [1496891: No data from local folders](https://support.mozilla.org/en-US/questions/1496891)
+- [1497211: 2 sessions sur windows 11](https://support.mozilla.org/en-US/questions/1497211)
+
+---
+
+#### 3. Message Display Issues – 30 posts
+Issues with viewing messages, empty inboxes, disappearing content, message panes not rendering, or fonts/display being too small.
+
+Examples:
+- [1496895: Thunderbird no longer will send emails using Share in Word](https://support.mozilla.org/en-US/questions/1496895)
+- [1496838: Thunderbird Open Email Tabs Are Blank](https://support.mozilla.org/en-US/questions/1496838)
+- [1497438: Why is TB suddenly moving messages from one folder to another but only when I try opening that folder?](https://support.mozilla.org/en-US/questions/1497438)
+
+---
+
+#### 4. Message Sending Problems – 28 posts
+Can't send email or messages fail to send with SMTP errors or delivery rejections.
+
+Examples:
+- [1497033: Policy  (8C004B67C64907BEB82)](https://support.mozilla.org/en-US/questions/1497033)
+- [1496757: awaria](https://support.mozilla.org/en-US/questions/1496757)
+- [1498057: old log in](https://support.mozilla.org/en-US/questions/1498057)
+
+---
+
+#### 5. Calendar & Tasks Issues – 16 posts
+Problems with calendar integration, reminders, categories, or syncing.
+
+Examples:
+- [1496660: Change calendar week numbering to reflect business/tax year for example?](https://support.mozilla.org/en-US/questions/1496660)
+- [1497131: 128.7.1esr (64-bit) and hotmail.com Calendar](https://support.mozilla.org/en-US/questions/1497131)
+- [1497215: Duplicating Inbox folders in Thunderbird email list](https://support.mozilla.org/en-US/questions/1497215)
+
+---
+
+#### 6. Outlook/Office365/Exchange Setup or Importing – 11 posts
+Users trying to move from Outlook, import PST files, or use Exchange accounts.
+
+Examples:
+- [1496601: trouble importing outlook 2010 files](https://support.mozilla.org/en-US/questions/1496601)
+- [1496634: Trouble importing Outlook data into Thunderbird](https://support.mozilla.org/en-US/questions/1496634)
+
+---
+
+#### 7. UI/Display and Usability Complaints – 12 posts
+Issues with the UI: menu bar missing, new message button not working, too much white space, etc.
+
+Examples:
+- [1497437: thunderbird](https://support.mozilla.org/en-US/questions/1497437)
+- [1497452: Unable to Add Mail Accounts to Thunderbird](https://support.mozilla.org/en-US/questions/1497452)
+
+---
+
+#### 8. Sync Issues Across Devices – 10 posts
+Problems syncing mail/calendar/contacts between devices.
+
+Examples:
+- [1497136: Group email to BCC all of a sudden not sending](https://support.mozilla.org/en-US/questions/1497136)
+- [1498818: unified view of inbox and sent folder for single e-mail account](https://support.mozilla.org/en-US/questions/1498818)
+
+---
+
+#### 9. Add-ons/Extensions/Settings – 7 posts
+Add-ons failing, filters not working, or users wanting to customize behaviors/settings.
+
+Examples:
+- [1497592: archives folders](https://support.mozilla.org/en-US/questions/1497592)
+- [1497357: inkomende mails niet meer te zien](https://support.mozilla.org/nl/questions/1497357)
+
+---
+
+#### 10. Gmail Specific Issues – 10 posts
+Problems unique to Gmail accounts including IMAP, trash behavior, and Google login loops.
+
+Examples:
+- [1496797: All my  gmail is showing up in trash.](https://support.mozilla.org/en-US/questions/1496797)
+- [1498936: restoring account data](https://support.mozilla.org/en-US/questions/1498936)
+
+---
+
+#### Mentions of Microsoft or Google
+
+- Posts mentioning “Microsoft”: 36
+- Posts mentioning “Google” or “Gmail”: 41
+
+---
+
+Let me know if you'd like the post links from any specific category or further summary!
+
 ## 2025-05-16-p4 Get March 2025 TB Desktop Report via the following prompt
 
 > You are a Thunderbird email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for March 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
