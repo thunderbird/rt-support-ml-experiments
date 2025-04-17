@@ -1,5 +1,8 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
+## 2025-05-16-p3 Create a Thunderbird Desktop March 2025 SUMO Forum Question ChatGPT w/the JSON file 
+* https://chatgpt.com/gpts/editor
+* Created Chat GPT: [March 2025 SUMO Forum TB Desktop Questions ](https://chatgpt.com/g/g-680080a6c5ac819180fcf194963c8394-march-2025-sumo-forum-tb-desktop-questions)with [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/all-thunderbird-android-questions-march2025-bquxjob_27a20fe7_195acd4515e.json) uploaded to `Knowledge`
 
 ## 2025-05-16-p2 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query Result
 * [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/all-thunderbird-android-questions-march2025-bquxjob_27a20fe7_195acd4515e.json)
