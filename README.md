@@ -1,6 +1,108 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+## 2025-05-16-p6 March 2025 March 2025 TB Desktop Report  for all google/gmail and exchange/hotmail/office365/microsoft office specific posts
+
+Here are the support forum posts categorized by your two requested groups:
+
+---
+
+## 🟢 **1. All Google or Gmail Specific Posts** (41 total)
+
+These posts mention Gmail, Google, or deal with Gmail-specific behavior.
+
+1. [1496599: Reset mail account](https://support.mozilla.org/en-US/questions/1496599) – Switched from telia.com to @gmail.com and lost email folders.
+2. [1496666: 2FA for Thunderbird app on desktop pc](https://support.mozilla.org/en-US/questions/1496666)
+3. [1496682: Emails With 2-Factor Authentication](https://support.mozilla.org/en-US/questions/1496682)
+4. [1496713: SMTP Timeout with Cpanel email](https://support.mozilla.org/en-US/questions/1496713)
+5. [1496757: awaria](https://support.mozilla.org/en-US/questions/1496757)
+6. [1496779: Emails received in Thunderbird from a known good sender have URLs that are never hyperlinks?](https://support.mozilla.org/en-US/questions/1496779)
+7. [1496797: All my gmail is showing up in trash](https://support.mozilla.org/en-US/questions/1496797)
+8. [1496807: Cannot add outlook to Thunderbird - incorrect password when it isn't](https://support.mozilla.org/en-US/questions/1496807)
+9. [1496812: Messages don't appear in any mailboxes](https://support.mozilla.org/en-US/questions/1496812)
+10. [1496832: Slow message loading and loading same message three times across folders](https://support.mozilla.org/en-US/questions/1496832)
+11. [1496860: copying contacts from blue mail to thunderbird](https://support.mozilla.org/en-US/questions/1496860)
+12. [1496877: problem with searching for emails on Thunderbird](https://support.mozilla.org/en-US/questions/1496877)
+13. [1496897: Trojan-spy at Thunderbird inbox](https://support.mozilla.org/en-US/questions/1496897)
+14. [1496905: Duplicate Emails](https://support.mozilla.org/en-US/questions/1496905)
+15. [1496919: Display actual incoming name and email in the From field](https://support.mozilla.org/en-US/questions/1496919)
+16. [1496932: Thunderbird no longer connects to all my e-mail servers if NordVPN is enabled](https://support.mozilla.org/en-US/questions/1496932)
+17. [1496940: Problem restoring emails](https://support.mozilla.org/en-US/questions/1496940)
+18. [1496951: Failed to find the settings for your email account](https://support.mozilla.org/en-US/questions/1496951)
+19. [1496979: Copy Local Folders to new Computer](https://support.mozilla.org/en-US/questions/1496979)
+20. [1497002: No index on inbox, mails not downladed (ever)](https://support.mozilla.org/en-US/questions/1497002)
+21. [1497034: Pls help a mac user restore T’bird local folders](https://support.mozilla.org/en-US/questions/1497034)
+22. [1497051: Move emails from a POP email account to an IMAP account](https://support.mozilla.org/en-US/questions/1497051)
+23. [1497071: Thunderbird access to yahoo](https://support.mozilla.org/en-US/questions/1497071)
+24. [1497090: TB starts on wrong monitor](https://support.mozilla.org/en-US/questions/1497090)
+25. [1497131: 128.7.1esr (64-bit) and hotmail.com Calendar](https://support.mozilla.org/en-US/questions/1497131)
+26. [1497132: 128.7.1esr (64-bit) and hotmail.com Calendar](https://support.mozilla.org/en-US/questions/1497132)
+27. [1497161: How do I sync Thunderbird between my Android and Windows?](https://support.mozilla.org/en-US/questions/1497161)
+28. [1497192: Gmails not syncing across two thunderbird installations](https://support.mozilla.org/en-US/questions/1497192)
+29. [1497211: 2 sessions sur windows 11](https://support.mozilla.org/en-US/questions/1497211)
+30. [1497275: I want to print all emails in a folder](https://support.mozilla.org/en-US/questions/1497275)
+31. [1497281: Thunderbird Mail-send error message](https://support.mozilla.org/en-US/questions/1497281)
+32. [1497287: send messages](https://support.mozilla.org/en-US/questions/1497287)
+33. [1497320: Stop automatic deletion of emails](https://support.mozilla.org/en-US/questions/1497320)
+34. [1497352: no recibo mails](https://support.mozilla.org/en-US/questions/1497352)
+35. [1497380: password account](https://support.mozilla.org/en-US/questions/1497380)
+36. [1497394: gmail emails not being delivered](https://support.mozilla.org/en-US/questions/1497394)
+37. [1497470: emails not working](https://support.mozilla.org/en-US/questions/1497470)
+38. [1497484: cannot log in to my email](https://support.mozilla.org/en-US/questions/1497484)
+39. [1497923: Thunderbird taking 30 or more seconds to send emails](https://support.mozilla.org/en-US/questions/1497923)
+40. [1498998: My Email](https://support.mozilla.org/en-US/questions/1498998)
+41. [1499003: how to add an additional folder](https://support.mozilla.org/en-US/questions/1499003)
+
+---
+
+## 🔵 **2. All Microsoft / Hotmail / Exchange / Office365 / Microsoft Office Posts** (36 total)
+
+These are related to Outlook, Exchange, or use a Microsoft domain/service.
+
+1. [1496601: trouble importing outlook 2010 files](https://support.mozilla.org/en-US/questions/1496601)
+2. [1496634: Trouble importing Outlook data into Thunderbird](https://support.mozilla.org/en-US/questions/1496634)
+3. [1496643: Missing smtp line on saved passwords](https://support.mozilla.org/en-US/questions/1496643)
+4. [1496795: Thunderbird no longer will send emails using Share in Word](https://support.mozilla.org/en-US/questions/1496795)
+5. [1496807: Cannot add outlook to Thunderbird - incorrect password](https://support.mozilla.org/en-US/questions/1496807)
+6. [1496888: recupero mail](https://support.mozilla.org/it/questions/1496888)
+7. [1496905: Duplicate Emails](https://support.mozilla.org/en-US/questions/1496905)
+8. [1496919: Display actual incoming name and email in the From field](https://support.mozilla.org/en-US/questions/1496919)
+9. [1496932: Thunderbird no longer connects to all my e-mail servers if NordVPN is enabled](https://support.mozilla.org/en-US/questions/1496932)
+10. [1496951: Failed to find the settings for your email account](https://support.mozilla.org/en-US/questions/1496951)
+11. [1497032: Send messages](https://support.mozilla.org/en-US/questions/1497032)
+12. [1497051: Move emails from a POP email account to an IMAP account](https://support.mozilla.org/en-US/questions/1497051)
+13. [1497131: 128.7.1esr (64-bit) and hotmail.com Calendar](https://support.mozilla.org/en-US/questions/1497131)
+14. [1497132: 128.7.1esr (64-bit) and hotmail.com Calendar](https://support.mozilla.org/en-US/questions/1497132)
+15. [1497163: certificati autofirmati](https://support.mozilla.org/it/questions/1497163)
+16. [1497204: update password for comcast email using Thunderbird](https://support.mozilla.org/en-US/questions/1497204)
+17. [1497250: gmail emails not being delivered](https://support.mozilla.org/en-US/questions/1497250)
+18. [1497294: unable to connect to a gmail account](https://support.mozilla.org/en-US/questions/1497294)
+19. [1497352: no recibo mails](https://support.mozilla.org/en-US/questions/1497352)
+20. [1497375: Message dates on Inbox always on same month](https://support.mozilla.org/en-US/questions/1497375)
+21. [1497394: gmail emails not being delivered](https://support.mozilla.org/en-US/questions/1497394)
+22. [1497427: Is it necessary to use Gmail for Thunderbird?](https://support.mozilla.org/en-US/questions/1497427)
+23. [1497451: Failed to find the settings for your email account](https://support.mozilla.org/en-US/questions/1497451)
+24. [1497484: cannot log in to my email](https://support.mozilla.org/en-US/questions/1497484)
+25. [1497592: archives folders](https://support.mozilla.org/en-US/questions/1497592)
+26. [1497641: Sync between iPhone and Thunderbird calendars](https://support.mozilla.org/en-US/questions/1497641)
+27. [1497688: Email History](https://support.mozilla.org/en-US/questions/1497688)
+28. [1497756: Cannot send email with Thunderbird 115.3.1](https://support.mozilla.org/en-US/questions/1497756)
+29. [1497838: I can’t find a way to import Inbox emails from older Thunderbird version](https://support.mozilla.org/en-US/questions/1497838)
+30. [1497981: messagerie](https://support.mozilla.org/en-US/questions/1497981)
+31. [1498028: Sent emails not showing up in Sent file in Thunderbird](https://support.mozilla.org/en-US/questions/1498028)
+32. [1498057: old log in](https://support.mozilla.org/en-US/questions/1498057)
+33. [1498483: Looking to have a "fake" outgoing identity?](https://support.mozilla.org/en-US/questions/1498483)
+34. [1498682: I forgot my password for Thunderbird how do I reset](https://support.mozilla.org/en-US/questions/1498682)
+35. [1498714: thunderbird email login failed](https://support.mozilla.org/en-US/questions/1498714)
+36. [1498948: All email is going to trash instead of Inbox](https://support.mozilla.org/en-US/questions/1498948)
+
+---
+
+Let me know if you'd like these exported into a document or spreadsheet!
+## 2025-05-16-p5  March 2025 TB Desktop Report prompt for all google/gmail and exchange/hotmail/office365/microsoft office specific posts
+>Please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or
+hotmail or exchange or office365 or microsoft office specific posts
+
 ## 2025-05-16-p4  March 2025 TB Desktop Report from P3's prompt
 
 The uploaded JSON file contains 278 support forum posts from March 2025.
