@@ -1,5 +1,9 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
+
+## 2025-05-16-p4 Get March 2025 TB Desktop Report via the following prompt
+
+> You are a Thunderbird email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for March 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
 ## 2025-05-16-p3 Create a Thunderbird Desktop March 2025 SUMO Forum Question ChatGPT w/the JSON file 
 * https://chatgpt.com/gpts/editor
 * Created Chat GPT: [March 2025 SUMO Forum TB Desktop Questions ](https://chatgpt.com/g/g-680080a6c5ac819180fcf194963c8394-march-2025-sumo-forum-tb-desktop-questions)with [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/all-thunderbird-android-questions-march2025-bquxjob_27a20fe7_195acd4515e.json) uploaded to `Knowledge`
