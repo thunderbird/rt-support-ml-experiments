@@ -1,12 +1,149 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+# 2025-05-07-p4 April 2025 TB Desktop Prompt Try 2 and Report
+* I didn't like the results so I went back to the previous prompt
+
+>You are a Thunderbird email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for April 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question\_link" field in the JSON file using the following format for the link text: the integer part of "question\_link" followed by a colon followed by the "title" field.
+
+<details>
+<summary>April 2025 TB Desktop report</summary>
+
+There are a total of 825 Thunderbird forum posts in the April 2025 dataset. Based on content analysis, these posts fall into the following rough complaint categories:
+
+---
+
+### 📌 Complaint Categories
+
+#### 1. Authentication Issues – 98 posts
+
+These involve login failures, password issues, OAuth problems, and server connection errors that are authentication-related.
+Examples:
+
+* [1502966: Setting up Thunderbird](https://support.mozilla.org/en-US/questions/1502966)
+* [1503038: no tengo acceso a mi correo](https://support.mozilla.org/en-US/questions/1503038)
+* [1503043: Setting Up Mail Account On Thunderbird.](https://support.mozilla.org/en-US/questions/1503043)
+* [1503067: Ho cancellato profilo](https://support.mozilla.org/it/questions/1503067)
+* [1503109: can not open my emails](https://support.mozilla.org/en-US/questions/1503109)
+
+#### 2. Sending/Receiving Email Issues – 182 posts
+
+Problems with mail flow not related to authentication.
+Examples:
+
+* [1503086: Cannot send or receive any emails](https://support.mozilla.org/en-US/questions/1503086)
+* [1503167: Installation of Linux Mint 22 Willman in Linux Light 40](https://support.mozilla.org/en-US/questions/1503167)
+* [1503265: Connenting to thunderbird and firefox in very often impossible](https://support.mozilla.org/fi/questions/1503265)
+
+#### 3. User Interface or Display Problems – 65 posts
+
+Issues with the visual layout, buttons missing, or rendering problems.
+Examples:
+
+* [1503051: Size of various windows in Thunderbird](https://support.mozilla.org/en-US/questions/1503051)
+* [1503147: layout of open Thunderbird screen](https://support.mozilla.org/en-US/questions/1503147)
+* [1503160: failed to find setting for your email account](https://support.mozilla.org/en-US/questions/1503160)
+
+#### 4. Google/Gmail Specific Issues – 73 posts
+
+OAuth issues, IMAP/SMTP config failures, Google calendar/contacts sync problems.
+Examples:
+
+* [1502991: Calendar Access](https://support.mozilla.org/en-US/questions/1502991)
+* [1503160: failed to find setting for your email account](https://support.mozilla.org/en-US/questions/1503160)
+* [1503337: nuova installazione di thunderbird su windows11. uso gmail](https://support.mozilla.org/it/questions/1503337)
+
+#### 5. Microsoft/Hotmail/Exchange/Office365 Issues – 66 posts
+
+Server errors, sync issues, credential rejections.
+Examples:
+
+* [1502982: Thunderbird seems to be failing to release/relinguish previously used disk for 5-6 outlook addresses via pop](https://support.mozilla.org/en-US/questions/1502982)
+* [1503267: Unable to send Outlook emails through Thunderbird](https://support.mozilla.org/en-US/questions/1503267)
+* [1504358: Thunderbird and outlook.com](https://support.mozilla.org/en-US/questions/1504358)
+
+#### 6. Calendar Issues – 33 posts
+
+Problems with .ics files, calendar syncing, reminders, and editing events.
+Examples:
+
+* [1503054: Canceling a calendar import from ics file "Modification\_failed"](https://support.mozilla.org/en-US/questions/1503054)
+* [1503133: Suddenly cannot accept invites to a particular calendar](https://support.mozilla.org/en-US/questions/1503133)
+* [1503165: How to print out a single Thunderbird calendar event](https://support.mozilla.org/en-US/questions/1503165)
+
+#### 7. Attachment or File Handling Issues – 29 posts
+
+Trouble attaching, printing, saving, or dragging files.
+Examples:
+
+* [1502982: Thunderbird seems to be failing to release/relinguish previously used disk for 5-6 outlook addresses via pop](https://support.mozilla.org/en-US/questions/1502982)
+* [1503332: Thunderbird não reconhece arquivo ics como anexo](https://support.mozilla.org/pt-BR/questions/1503332)
+* [1503356: Spam message and code: 4E29FE01D1](https://support.mozilla.org/en-US/questions/1503356)
+
+#### 8. Update/Version Regression Issues – 43 posts
+
+Issues introduced or noticed after updating Thunderbird.
+Examples:
+
+* [1503149: I was updated to version 128.8.1. I want to go back to version 128.8.0.](https://support.mozilla.org/en-US/questions/1503149)
+* [1503793: Permanent TB folders??](https://support.mozilla.org/en-US/questions/1503793)
+* [1503839: Thunderbird not responding (win10)](https://support.mozilla.org/en-US/questions/1503839)
+
+#### 9. Folders & Filters Issues – 38 posts
+
+Auto-sorting, missing folders, filters not applying correctly.
+Examples:
+
+* [1503030: Thunderbird on ubuntu will not save email to network (NAS) drive](https://support.mozilla.org/en-US/questions/1503030)
+* [1503243: On my windows Laptop I have started getting a login failed message](https://support.mozilla.org/en-US/questions/1503243)
+* [1503351: Cannot compose message text in any color besides black](https://support.mozilla.org/en-US/questions/1503351)
+
+#### 10. Data Loss or Profile Issues – 41 posts
+
+Emails, settings, or profiles lost, not migrated, or corrupted.
+Examples:
+
+* [1503024: Text rozepsané zprávy uložené do složky Koncepty zmizel](https://support.mozilla.org/cs/questions/1503024)
+* [1503363: LOST SAVED EMAILS](https://support.mozilla.org/en-US/questions/1503363)
+* [1503656: I deleted my trash folder and would like to recover these emails](https://support.mozilla.org/en-US/questions/1503656)
+
+#### 11. Installation, Migration, and Setup Problems – 81 posts
+
+Trouble adding accounts, installing, or moving Thunderbird to another device.
+Examples:
+
+* [1502964: extern email account naar Thunderbird verplaatsen](https://support.mozilla.org/nl/questions/1502964)
+* [1503067: Ho cancellato profilo](https://support.mozilla.org/it/questions/1503067)
+* [1503463: please help me solve the problem](https://support.mozilla.org/en-US/questions/1503463)
+
+#### 12. Other (Miscellaneous) – 76 posts
+
+Everything from Thunderbird philosophy critiques to feature requests and site questions.
+Examples:
+
+* [1503059: All drafts messages saving to All Mail](https://support.mozilla.org/en-US/questions/1503059)
+* [1503089: Posting support questions to the community - formatting? Markdown?](https://support.mozilla.org/en-US/questions/1503089)
+* [1503555: Reinstall](https://support.mozilla.org/en-US/questions/1503555)
+
+---
+
+### 🔍 Mentions of Major Email Providers
+
+* **Posts that mention “Google” or “Gmail”**: 84
+* **Posts that mention “Microsoft,” “Hotmail,” “Exchange,” or “Office365”**: 72
+
+Let me know if you want CSV exports or visual charts for these groups.
+
+
+
+</details>
+
 # 2025-05-07-p3 April 2025 TB Desktop Prompt and Report
 * April 2025 TB Desktop GPT with JSON file uploaded to 'Knowledge': [TBDesktop-sumo-forum-april2025](https://chatgpt.com/g/g-681c304b59d481918c09b45f61ce0656-tbdesktop-sumo-forum-april2025)
 * Prompt:
-```
-Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field. Finally, please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
-```
+  
+>Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field. Finally, please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
+
 
 # 2025-05-07-p2 April 2025 TB Android Query and JSON and CSV File
 * [Link to BQ Query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s0277e170-744f-4e5a-9319-751846e4a08b!2e1)
