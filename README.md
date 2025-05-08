@@ -1,6 +1,12 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+# 2095-05-07-p5 April 2025 Just gmail and microsoft email prompt and report
+
+> Please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
+
+Result in markdown: [REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/april2025-gmail-and-microsoft-provider_specific_posts_links.md](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/april2025-gmail-and-microsoft-provider_specific_posts_links.md)
+
 # 2025-05-07-p4 April 2025 TB Desktop Prompt Try 2 and Report
 * I didn't like the results so I went back to the previous prompt
 
