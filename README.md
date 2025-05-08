@@ -3,7 +3,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 # 2025-05-07-p1 April 2025 TB Android Query and JSON and CSV File
 * [Link to BQ Query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s0277e170-744f-4e5a-9319-751846e4a08b!2e1)
-* Query results in [JSON](), [CSV](https://drive.google.com/file/d/1Cdc12SAnX9l0_-aM--Dgq-5lmab9zIdg/view?usp=sharing)
+* Query results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/april-2025-tb-android-sumo-questions.json), [CSV](https://drive.google.com/file/d/1Cdc12SAnX9l0_-aM--Dgq-5lmab9zIdg/view?usp=sharing)
 
 <details>
 <summary>April 2025 TB Android BQ query:</summary>
