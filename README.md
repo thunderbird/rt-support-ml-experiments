@@ -3,6 +3,10 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 # 2025-05-07-p3 April 2025 TB Desktop Prompt and Report
 * April 2025 TB Desktop GPT with JSON file uploaded to 'Knowledge': [TBDesktop-sumo-forum-april2025](https://chatgpt.com/g/g-681c304b59d481918c09b45f61ce0656-tbdesktop-sumo-forum-april2025)
+* Prompt:
+```
+Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field. Finally, please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
+```
 
 # 2025-05-07-p2 April 2025 TB Android Query and JSON and CSV File
 * [Link to BQ Query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s0277e170-744f-4e5a-9319-751846e4a08b!2e1)
