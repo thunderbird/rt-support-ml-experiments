@@ -1,7 +1,7 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
-# 2095-05-07-p5 April 2025 Just gmail and microsoft email prompt and report
+# 2025-05-07-p5 April 2025 Just gmail and microsoft email prompt and report
 
 > Please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
 
@@ -218,7 +218,7 @@ LIMIT
 </details>
 
 
-## 2025-05-16-p7 March 2025 March 2025 TB Desktop Report for all google/gmail and exchange/hotmail/office365/microsoft office specific posts from the p6 prompt
+## 2025-04-16-p7 March 2025 TB Desktop Report for all google/gmail and exchange/hotmail/office365/microsoft office specific posts from the p6 prompt
 
 Here are the support forum posts categorized by your two requested groups:
 
@@ -317,11 +317,11 @@ These are related to Outlook, Exchange, or use a Microsoft domain/service.
 
 Let me know if you'd like these exported into a document or spreadsheet!
 
-## 2025-05-16-p6  March 2025 TB Desktop Report prompt for all google/gmail and exchange/hotmail/office365/microsoft office specific posts
+## 2025-04-16-p6  March 2025 TB Desktop Report prompt for all google/gmail and exchange/hotmail/office365/microsoft office specific posts
 >Please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or
 hotmail or exchange or office365 or microsoft office specific posts
 
-## 2025-05-16-p5  March 2025 TB Desktop Report from p4's prompt
+## 2025-04-16-p5  March 2025 TB Desktop Report from p4's prompt
 
 The uploaded JSON file contains 278 support forum posts from March 2025.
 
@@ -435,18 +435,18 @@ Examples:
 
 Let me know if you'd like the post links from any specific category or further summary!
 
-## 2025-05-16-p4 Get March 2025 TB Desktop Report via the following prompt
+## 2025-04-16-p4 Get March 2025 TB Desktop Report via the following prompt
 
 > You are a Thunderbird email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for March 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
-## 2025-05-16-p3 Create a Thunderbird Desktop March 2025 SUMO Forum Question ChatGPT w/the JSON file 
+## 2025-04-16-p3 Create a Thunderbird Desktop March 2025 SUMO Forum Question ChatGPT w/the JSON file 
 * https://chatgpt.com/gpts/editor
 * Created Chat GPT: [March 2025 SUMO Forum TB Desktop Questions ](https://chatgpt.com/g/g-680080a6c5ac819180fcf194963c8394-march-2025-sumo-forum-tb-desktop-questions)with [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/all-thunderbird-android-questions-march2025-bquxjob_27a20fe7_195acd4515e.json) uploaded to `Knowledge`
 
-## 2025-05-16-p2 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query Result
+## 2025-04-16-p2 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query Result
 * [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/all-thunderbird-android-questions-march2025-bquxjob_27a20fe7_195acd4515e.json)
 * [Thunderbird Desktop March 2025 SUMO Forum Questions Query Result in JSON in Google Sheets
 ](https://drive.google.com/file/d/1Ur_6u6W6NBnIRium8P-OUtpJQgkMaA4q/view?usp=sharing)
-## 2025-05-16-p1 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query
+## 2025-04-16-p1 Thunderbird Desktop March 2025 SUMO Forum Questions BQ Query
 ```sql
 SELECT
   question_id,
@@ -470,9 +470,9 @@ ORDER BY
 LIMIT
   500000;
 ```
-## 2025-05-15-p3 Prompt: Export to a Spreadsheet please 
+## 2025-04-15-p3 Prompt: Export to a Spreadsheet please 
 * Result: Google Sheet: [thunderbird_march2025_support_posts](https://docs.google.com/spreadsheets/d/1u-HvRjhNYpuCAqcNfr1gsOBdIA9CbTCP/edit?usp=sharing&ouid=110583742438912896269&rtpof=true&sd=true)
-## 2025-05-15-p2 Create ChatGPT with JSON file and query it
+## 2025-04-15-p2 Create ChatGPT with JSON file and query it
 * link to chatpgt: https://chatgpt.com/g/g-p-67ff4807e6dc8191935e737a863ca0d5-2025-03-sumo-aaq-tb-android/project
 * prompt:
  
