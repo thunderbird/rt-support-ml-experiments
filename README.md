@@ -1,8 +1,41 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+# 2025-05-07-p1 April 2025 TB Android Query and JSON and CSV File
+* [Link to BQ Query]()
+* Query results in [JSON]()
+
+<details>
+<summary>April 2025 TB Android BQ query:</summary>
+  
+```sqlite
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird-android'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2025
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 4
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
+
+</details>
+
 # 2025-05-07-p1 April 2025 TB Desktop Query and JSON and CSV File
-* [Link to BQ Query](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/README.md)
+* [Link to BQ Query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3sf194fd5b-1efd-4f28-9f97-4a6419e92694!2e1)
 * Query results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/april-2025-tb-desktop-questions.json), [CSV](https://drive.google.com/file/d/1FAcgpYGyl9DTQxqOn1bUZZXliUgdJ0AJ/view?usp=sharing)
 
 <details>
