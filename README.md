@@ -16,7 +16,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 >Please repeat the previous analysis and provide the links for the following categories: Feature Requests / UI Feedback (20 posts), Sending/Receiving Problems (non-auth related) (10 posts), Sync & Integration Issues (6 posts), Sync & Integration Issues (6 posts), Installation / Migration Issues (3 posts), Theming / Visual Bugs or Styling (4 posts), Attachments / File Handling Problems (3 posts), Configuration Help / Settings (7 posts), Other / Unclear / Miscellaneous (3 posts)
 >
 
-* Report:
+* Report: [Thunderbird Android Forum Post Categorization (April 2025)](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/with-count-Thunderbird_Android_Posts_April2025_WithCounts.md)
 
 # 2025-05-07-p5 April 2025 Just gmail and microsoft email prompt and report
 
