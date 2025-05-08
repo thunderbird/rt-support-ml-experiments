@@ -3,6 +3,8 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 # 2025-05-07-p1 April 2025 TB Desktop Query and JSON and CSV File
 * [Link to BQ Query](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/README.md)
+* Query results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/april-2025-tb-desktop-questions.json), [CSV](https://drive.google.com/file/d/1FAcgpYGyl9DTQxqOn1bUZZXliUgdJ0AJ/view?usp=sharing)
+
 <details>
 <summary>April 2025 TB Desktop BQ query:</summary>
   
