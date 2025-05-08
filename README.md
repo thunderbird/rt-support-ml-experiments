@@ -7,9 +7,17 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 >You are a Mozilla Thunderbird for Android email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a Thunderbird Android support forum for April  2025.
 
-* Prompt:
+* Prompt 1:
   
 >Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field. Finally, please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
+
+* Prompt 2: Because the report for Prompt 1 was missing links for several categories, i added a prompt that asked for links for the missing categories
+
+>Please repeat the previous analysis and provide the links for the following categories: Feature Requests / UI Feedback (20 posts), Sending/Receiving Problems (non-auth related) (10 posts), Sync & Integration Issues (6 posts), Sync & Integration Issues (6 posts), Installation / Migration Issues (3 posts), Theming / Visual Bugs or Styling (4 posts), Attachments / File Handling Problems (3 posts), Configuration Help / Settings (7 posts), Other / Unclear / Miscellaneous (3 posts)
+>
+
+* Report:
+
 # 2025-05-07-p5 April 2025 Just gmail and microsoft email prompt and report
 
 > Please post links for the following two categories: 1. all google or gmail specific posts 2. all microsoft or hotmail or exchange or office365 or microsoft office specific posts
