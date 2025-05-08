@@ -1,6 +1,38 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+# 2025-05-07-p1 April 2025 TB Desktop Query and JSON and CSV File
+* [Link to BQ Query](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/README.md)
+<details>
+<summary>April 2025 TB Desktop BQ query:</summary>
+  
+```sqlite
+SELECT
+  question_id,
+  question_link,
+  title,
+  question_content,
+  created_date
+FROM
+  moz-fx-data-sumo-prod.mzla.metrics_thunderbird_questions
+WHERE
+  product LIKE 'thunderbird'
+  AND is_spam = FALSE
+  AND EXTRACT(YEAR
+  FROM
+    DATETIME(created_utc)) = 2025
+  AND EXTRACT(MONTH
+  FROM
+    DATETIME(created_utc)) = 4
+ORDER BY
+  question_id ASC
+LIMIT
+  500000;
+```
+
+</details>
+
+
 ## 2025-05-16-p7 March 2025 March 2025 TB Desktop Report for all google/gmail and exchange/hotmail/office365/microsoft office specific posts from the p6 prompt
 
 Here are the support forum posts categorized by your two requested groups:
