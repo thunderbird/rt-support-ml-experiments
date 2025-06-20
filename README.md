@@ -11,7 +11,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 3\. May 2025 TB Android GPT with JSON file uploaded to '`Knowledge`: TBAndroid-sumo-forum-may-2025 
 
 # 2025-05-07-p8 April 2025 TB Android Prompt and Report
-* April 2025 TB Android GPT with JSON file uploaded to 'Knowledge': [2025-04-android-gpt](https://chatgpt.com/g/g-681c42ce0fe88191a19cef72d5b2a825-2025-04-android-forum)
+* April 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [2025-04-android-gpt](https://chatgpt.com/g/g-681c42ce0fe88191a19cef72d5b2a825-2025-04-android-forum)
 * Instructions:
 
 >You are a Mozilla Thunderbird for Android email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a Thunderbird Android support forum for April  2025.
