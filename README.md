@@ -3,7 +3,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 # 2025-06-19-p1 May 2025 TB Android Desktop and Android Report
 1\. BQ Query for Desktop: [May2025-thunderbird-desktop-questions-query
-](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s596604a0-7aef-4dfa-b268-8fd38137e749!2e1); Results in JSON and [CSV](https://docs.google.com/spreadsheets/d/1ooZDkmhlNTYiinK1XoZr3s_0XGe91Omjcf468QYIcuc/edit?usp=sharing)
+](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s596604a0-7aef-4dfa-b268-8fd38137e749!2e1); Results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/Thunderbird_Desktop_forum_may2025_bquxjob_38b40299_1978b36e789.json) and [CSV](https://docs.google.com/spreadsheets/d/1ooZDkmhlNTYiinK1XoZr3s_0XGe91Omjcf468QYIcuc/edit?usp=sharing)
 # 2025-05-07-p8 April 2025 TB Android Prompt and Report
 * April 2025 TB Android GPT with JSON file uploaded to 'Knowledge': [2025-04-android-gpt](https://chatgpt.com/g/g-681c42ce0fe88191a19cef72d5b2a825-2025-04-android-forum)
 * Instructions:
