@@ -6,7 +6,10 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 2\. BQ Query for Android: [May2025-thunderbird-android-questions-query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3sd6f52811-0d7a-4e30-8c2c-76df6a368eeb!2e1); Results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/MAY_2025/Thunderbird_android-forum_may2025_bquxjob_16210210_1978b495931.json) and [CSV](https://docs.google.com/spreadsheets/d/1aCDiyzxgnetP4jQQwOglj1d9kogsClut25sRyv3raQI/edit?usp=sharing)
 
-3\. May 2025 TB Desktop GPT with JSON file uploaded to 'Knowledge`: TBDesktop-sumo-forum-may-2025 
+3\. May 2025 TB Desktop GPT with JSON file uploaded to 'Knowledge`: TBDesktop-sumo-forum-may-2025
+**PROMPT**:
+>You are a Thunderbird email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for May 2025. Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end. Please link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
+
 
 4\. May 2025 TB Android GPT with JSON file uploaded to '`Knowledge`: TBAndroid-sumo-forum-may-2025 
 
