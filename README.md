@@ -12,7 +12,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 4\. [Summary TB Android May 2025 report]()
 * [Detailed with all nnn links TB Android May 2025 Report]()
-* May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025]()
+* May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025](https://chatgpt.com/g/g-6854f6067d148191aff63f237bca1a57)
 
 ## 2025-06-19-p1 May 2025 TB Android GPT CONFIG and prompts
 
