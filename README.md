@@ -6,7 +6,9 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 2\. BQ Query for Android: [May2025-thunderbird-android-questions-query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3sd6f52811-0d7a-4e30-8c2c-76df6a368eeb!2e1); Results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/MAY_2025/Thunderbird_android-forum_may2025_bquxjob_16210210_1978b495931.json) and [CSV](https://docs.google.com/spreadsheets/d/1aCDiyzxgnetP4jQQwOglj1d9kogsClut25sRyv3raQI/edit?usp=sharing)
 
-3\. May 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-may-2025](https://chatgpt.com/g/g-6854dfbfbf00819183f7de0505ab3127-may-2025-tb-desktop-gpt)
+3\. [Summary TB Desktop May 2025 report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_english_top10_links_with_counts.md)
+* [Detailed with all 1209 links TB Desktop May 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_categorized_links.md)
+* May 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-may-2025](https://chatgpt.com/g/g-6854dfbfbf00819183f7de0505ab3127-may-2025-tb-desktop-gpt)
 
 ## 2025-06-19-p1 May 2025 TB Android Desktop GPT CONFIG and prompts
 
