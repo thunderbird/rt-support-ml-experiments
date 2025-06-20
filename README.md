@@ -10,6 +10,10 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 * [Detailed with all 1209 links TB Desktop May 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_categorized_links.md)
 * May 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-may-2025](https://chatgpt.com/g/g-6854dfbfbf00819183f7de0505ab3127-may-2025-tb-desktop-gpt)
 
+4\. [Summary TB Android May 2025 report]()
+* [Detailed with all nnn links TB Android May 2025 Report]()
+* May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025]()
+
 ## 2025-06-19-p1 May 2025 TB Android Desktop GPT CONFIG and prompts
 
 **DESCRIPTION**
