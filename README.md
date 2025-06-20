@@ -10,8 +10,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 * [Detailed with all 1209 links TB Desktop May 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_categorized_links.md)
 * May 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-may-2025](https://chatgpt.com/g/g-6854dfbfbf00819183f7de0505ab3127-may-2025-tb-desktop-gpt)
 
-4\. [Summary TB Android May 2025 report]()
-* [Detailed with all nnn links TB Android May 2025 Report]()
+4\. [Detailed with all 89 links TB Android May 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/MAY_2025/may2025-android-detaile-list-all-links-categorized.md)
 * May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025](https://chatgpt.com/g/g-6854f6067d148191aff63f237bca1a57)
 
 ## 2025-06-19-p1 May 2025 TB Android GPT CONFIG and prompts
@@ -55,22 +54,8 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 **PROMPT**:
 > Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.
 > 
-> please link all the posts for all categories and Brand Mentions\
-> 
-...generates thunderbird_may2025_categorized_links.md
-
-> Please repeat the previous analysis but only link to the 10 most common questions for each complaint type and brand mention.
-> 
-> Please repeat the above analysis but only include posts that are in English.
-> 
-> chatgpt: Would you like me to link the top 10 English posts per category into the collaborative document?
-> 
-> yes
-> 
->repeat the previous analysis but add the number of posts per group to the report
->
-... generates thunderbird_may2025_english_top10_links_with_counts.md
-
+> please link all the posts for all categories and Brand Mentions
+> ># copy and paste to clipboard and create 
 
 4\. May 2025 TB Android GPT with JSON file uploaded to '`Knowledge`: TBAndroid-sumo-forum-may-2025 
 
