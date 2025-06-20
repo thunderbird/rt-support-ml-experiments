@@ -14,7 +14,35 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 * [Detailed with all nnn links TB Android May 2025 Report]()
 * May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025]()
 
-## 2025-06-19-p1 May 2025 TB Android Desktop GPT CONFIG and prompts
+## 2025-06-19-p1 May 2025 TB Android GPT CONFIG and prompts
+
+**DESCRIPTION**
+
+> queries SUMO Forum Questions for May 2025 that are uploaded to 'Knowledge'
+
+**Instructions**
+
+>You are a Thunderbird for Android email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for May 2025. Please always link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
+>
+**PROMPT**:
+> Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make sure one of the groups is "authentication issues" and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.
+> 
+> please link all the posts for all categories and Brand Mentions\
+> 
+...generates thunderbird_may2025_categorized_links.md
+
+> Please repeat the previous analysis but only link to the 10 most common questions for each complaint type and brand mention.
+> 
+> Please repeat the above analysis but only include posts that are in English.
+> 
+> chatgpt: Would you like me to link the top 10 English posts per category into the collaborative document?
+> 
+> yes
+> 
+>repeat the previous analysis but add the number of posts per group to the report
+>
+... generates thunderbird_may2025_english_top10_links_with_counts.md
+## 2025-06-19-p1 May 2025 TB Desktop GPT CONFIG and prompts
 
 **DESCRIPTION**
 
