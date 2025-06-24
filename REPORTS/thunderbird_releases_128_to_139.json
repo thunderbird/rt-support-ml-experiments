@@ -1,0 +1,484 @@
+[
+  {
+    "release_name": "128.0esr",
+    "release_date": "July 11, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.0.1esr",
+    "release_date": "July 18, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Opening profile import tab then restarting Thunderbird caused import tab to malfunction",
+      "\"Total\" column did not display message count when using \"Grouped by\" sorting",
+      "Could not add events to CalDAV calendar when UID contained special characters"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.4.2esr",
+    "release_date": "November 6, 2024",
+    "whats_new": [],
+    "whats_changed": [
+      "Increased the auto-compaction threshold to reduce frequency of compaction"
+    ],
+    "whats_fixed": [
+      "New profile creation caused console errors",
+      "Repair folder could result in older messages showing wrong date and time",
+      "Recently deleted messages could become undeleted if message compaction failed",
+      "Clicking on an HTML button could cause Thunderbird to freeze",
+      "Messages could not be selected for dragging",
+      "Account creation 'Setup Documentation' link was broken",
+      "Unable to generate QR codes when exporting to mobile in some cases",
+      "Operating system reauthentication was missing when exporting QR codes for mobile",
+      "Could not drag all-day events from one day to another in week view"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.4.3esr",
+    "release_date": "November 12, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Folder corruption could cause Thunderbird to freeze and become unusable",
+      "Message corruption could be propagated when reading mbox",
+      "Folder compaction was not abandoned on shutdown",
+      "Folder compaction did not clean up on failure",
+      "Navigating to next unread message did not wait for all messages to be loaded",
+      "Applying column view to folder and children could break if folder error occurred",
+      "Updating criteria of a saved search resulted in poor search performance",
+      "Drop-downs may not work in some places"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.4.4esr",
+    "release_date": "November 19, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "QR codes were not scannable by Android app when using most high-contrast themes",
+      "Primary password prompt cancellation during mobile export was confusing"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.5.0esr",
+    "release_date": "November 27, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "IMAP could crash when reading cached messages",
+      "Enabling 'Show Folder Size' on Maildir profile could render Thunderbird unusable",
+      "Messages corrupted by folder compaction were only fixed by user intervention",
+      "Reading a message from past the end of an mbox file did not cause an error",
+      "View -> Folders had duplicate F access keys",
+      "Add-ons adding columns to the message list could fail and cause display issue",
+      "'Empty trash on exit' and 'Expunge inbox on exit' did not always work",
+      "Selecting a display option in View -> Tasks did not apply in the Task interface"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.5.1esr",
+    "release_date": "December 5, 2024",
+    "whats_new": [
+      "Add end of year donation appeal"
+    ],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Total message count for favorite folders did not work consistently"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.5.2esr",
+    "release_date": "December 11, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Large virtual folders could be very slow",
+      "Message could disappear after moving from IMAP folder followed by Undo and Redo",
+      "Selected calendar day did not move forward at midnight",
+      "Today pane agenda sometimes scrolled for no apparent reason",
+      "CalDAV calendars without offline support could degrade start-up performance"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.6.0esr",
+    "release_date": "December 18, 2024",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "New mail notification was not hidden after reading the new message",
+      "New mail notification could show for the wrong folder, causing repeated alerts",
+      "macOS shortcut CMD+1 did not restore the main window when it was minimized",
+      "Clicking the context menu 'Reply' button resulted in 'Reply-All'",
+      "Switching from 'All', 'Unread', and 'Threads with unread' did not work",
+      "Message list performance slow when many updates happened at once",
+      "'mailto:' links did not apply the compose format of the current identity",
+      "Authentication failure of AUTH PLAIN or AUTH LOGIN did not fall back to USERPASS"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.7.0esr",
+    "release_date": "January 3, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Images inside links could zoom when clicked instead of opening the link",
+      "Compacting an empty folder failed with write error",
+      "Compacting of IMAP folder with corrupted local storage failed with write error",
+      "After restart, all restored tabs with opened PDFs showed the same attachment",
+      "Exceptions during CalDAV item processing would halt subsequent item handling",
+      "Context menu was unable to move email address to a different field"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.7.1esr",
+    "release_date": "January 10, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Users may not have been notified if messages arrived in multiple folders at once",
+      "Message list scrolled to the wrong place on start-up",
+      "Unified folders could become unusable instead of being automatically rebuilt",
+      "Some messages may have been threaded incorrectly in unified folders",
+      "Middle-click autoscroll cursor appeared without arrows instead of expected design"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.8.0esr",
+    "release_date": "January 24, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Opening an .EML file in profiles with many folders could take a long time",
+      "Users with many folders experienced poor performance when resizing message panes",
+      "'Replace' button in compose window was overwritten when the window was narrow",
+      "Export to mobile did not work when 'Use default server' was selected",
+      "'Save Link As' was not working in feed web content"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.8.1esr",
+    "release_date": "January 30, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Some emails forwarded as attachments used the wrong MIME type"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.9.0esr",
+    "release_date": "February 7, 2025",
+    "whats_new": [
+      "Thunderbird now has a notification system for real-time desktop alerts (IAN)"
+    ],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Data corruption occurred when compacting IMAP Drafts folder after saving a message",
+      "Right-clicking 'Decrypt and Save As...' on an attachment file failed",
+      "Thunderbird could crash when importing mail",
+      "Sort indicators were missing on the calendar events list"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.9.1esr",
+    "release_date": "February 14, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Added delay to built-in notifications when new profile is created in offline mode"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.9.2esr",
+    "release_date": "February 20, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Two-factor auth via text or email did not work with Office 365 using Oauth2",
+      "Global indexing failed when processing email with invalid calendar data"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.10.0esr",
+    "release_date": "February 27, 2025",
+    "whats_new": [],
+    "whats_changed": [
+      "Changed color override defaults with high contrast mode on macOS and Linux"
+    ],
+    "whats_fixed": [
+      "Using Delete column in 'Search Messages...' window could delete other messages"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.10.2esr",
+    "release_date": "March 4, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Messages could not be viewed if the profile used a UNC path",
+      "Access was not allowed to attachments at specific UNC hosts"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.11.0esr",
+    "release_date": "March 12, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Thunderbird could crash if message copying to Sent folder was interrupted"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "128.11.1esr",
+    "release_date": "March 19, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Security fixes only"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "136.0",
+    "release_date": "March 26, 2025",
+    "whats_new": [
+      "Messages are automatically adapted to dark mode with a quick toggle in the header",
+      "New 'Appearance' Settings UI to globally control message threading/sorting order"
+    ],
+    "whats_changed": [
+      "Criteria for closing idle message databases"
+    ],
+    "whats_fixed": [
+      "Thunderbird Release channel was not displayed in 'About Thunderbird'",
+      "Crash could occur when shutting down during MAPI send",
+      "The error message for compacting a corrupted local folder was not useful",
+      "Deleting or detaching attachments in a saved .eml file appeared to work but failed",
+      "On HiDPI screens, clicking addresses in the header could show popup off-screen",
+      "Opening an .EML file in profiles with many folders could take a long time",
+      "Some messages may have been threaded incorrectly in unified folders",
+      "Unified folders could become unusable instead of being automatically rebuilt",
+      "Folders at level 3+ were not auto-discovered when IMAP subscriptions were ignored",
+      "New subfolder did not inherit parent view, sort order, sort type, or columns",
+      "With 'Fetch headers only' enabled, messages could not be sorted by size",
+      "Selecting starred messages did not update immediately",
+      "Marking a unified folder as favorite did not show it in favorite folders",
+      "Users with many folders experienced poor performance when resizing message panes",
+      "Search messages dialog list could not be sorted by clicking the header icon",
+      "Sending to multiple SMTPs could fail silently due to missing address book",
+      "'Replace' button in compose window was overwritten when the window was narrow",
+      "Changing the UI font size did not apply to some dialogs",
+      "Deleted Gmail messages stayed visible until compact/expunge, despite settings",
+      "Export to mobile did not work when 'Use default server' was selected",
+      "Account settings menu could be loaded twice",
+      "Account Settings updated font size were not reflected in the content frame",
+      "Add-ons: Context menu entries were incorrectly aligned",
+      "Middle-click autoscroll cursor appeared without arrows instead of expected design",
+      "Notifications for new mail were not showing for IMAP",
+      "Message and folder lists could display incorrect line spacing after restart",
+      "Clicking a 'mid:' link could clear the thread pane and cause errors",
+      "Release channel incorrectly showed What's New page after update",
+      "'Save Link As' was not working in feed web content",
+      "Sort indicators were missing on the calendar events list"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "136.0.1",
+    "release_date": "March 28, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Thunderbird could crash during shutdown if a search was still active"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "137.0",
+    "release_date": "April 9, 2025",
+    "whats_new": [],
+    "whats_changed": [
+      "File names are now used when storing mail folders (Windows only)",
+      "Disable Linux system tray icon until it gains functionality"
+    ],
+    "whats_fixed": [
+      "In-app notifications did not display correctly in high contrast mode",
+      "Repair folder did not fix mbox files produced on MacOS before Thunderbird 1.0",
+      "Edit menu entries missing when group header selected in 'Grouped by sort' view",
+      "IMAP folder 'Undelete' performed 'Delete' when mixed messages were selected",
+      "Slow performance opening an .eml file in a profile with many folders",
+      "Threaded search view was not updated correctly when sorted by date received",
+      "Line spacing changed unexpectedly in the message list with the default font size",
+      "Saved message list selection was discarded when user made a new selection",
+      "Replying from local or unified folders failed when the message pane was hidden",
+      "Message security panel strings were used in the wrong places",
+      "Searching during shutdown could cause crash",
+      "Having a corrupt address book database prevented sending mail",
+      "Forwarding messages as attachments could use the wrong MIME type",
+      "Two-factor auth via text or email did not work with Office 365 using Oauth2",
+      "Account settings menu could be loaded twice",
+      "Thunderbird could crash when importing mail",
+      "Unable to auto-discover Address Book on Radicale server",
+      "Mark-Of-The-Web was not applied to attachments saved via drag and drop",
+      "Some messages could not be scrolled due to hidden overflows in inline styles",
+      "Clicking a 'mid:' link could clear the thread pane and cause errors",
+      "Performance regressed when moving/copying messages on Windows",
+      "Automatic compact did not attempt to compact all folders when error encountered",
+      "Slow performance when moving bulk messages from IMAP to local"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "137.0.1",
+    "release_date": "April 15, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Added delay to built-in notifications when new profile is created in offline mode"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "137.0.2",
+    "release_date": "April 18, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Thunderbird could crash on startup when creating Linux system tray icon"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "138.0",
+    "release_date": "May 1, 2025",
+    "whats_new": [
+      "New mail alert now includes message disposition buttons",
+      "New mail notification customization added to macOS Settings"
+    ],
+    "whats_changed": [
+      "Changed color override defaults with high contrast mode on macOS and Linux"
+    ],
+    "whats_fixed": [
+      "macOS notifications displayed two logos",
+      "Message preview truncation in notifications improved",
+      "Wrong day of week displayed for some emails",
+      "In dark mode with light theme, message reader still displayed in dark mode",
+      "Message link and text colors were incorrect when using Dark Reader",
+      "Unchecking 'Show all headers' in Message Header Settings closed dialog",
+      "Address book did not match users when case differed in some instances",
+      "Menu items to manage folders were not disabled in offline mode",
+      "Using Delete column in 'Search Messages...' window could delete other messages",
+      "Ctrl or Shift selecting multiple messages reset when dragging across a message",
+      "Windows users with non-ASCII folder names and profile paths could not view emails",
+      "Notification duration preference enabled when system notifications were enabled",
+      "Thunderbird could crash when adaptive message filtering was enabled",
+      "CardDAV synchronization to Zimbra server failed",
+      "Keyboard navigation was not possible when first header button was disabled",
+      "Folders missing from view when 'Show only subscribed folders' was not selected",
+      "Global indexing failed when processing email with invalid calendar data",
+      "Clicking a mid: link in Calendar opened two copies of the message",
+      "Some calendar requests were blocked due to opaque response blocking"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "138.0.1",
+    "release_date": "May 6, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Thunderbird could crash when importing Outlook messages",
+      "Messages were permanently deleted if Trash folder had non-ASCII Unicode characters"
+    ],
+    "known_issues": [
+      "Messages cannot be viewed if the profile uses a UNC path (fixed in 138.0.2)"
+    ]
+  },
+  {
+    "release_name": "138.0.2",
+    "release_date": "May 13, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Messages could not be viewed if the profile used a UNC path",
+      "Standalone message windows/tabs no longer responded after folder compaction",
+      "Compacting folders with certain pending operations caused unnecessary warnings"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "139.0",
+    "release_date": "June 4, 2025",
+    "whats_new": [
+      "Implemented enterprise policy to allow granular in-app notification control",
+      "Added 'Mark as Read' and 'Delete' actions to mail notifications",
+      "Implemented customizable row count for Cards View in 'Appearance' settings",
+      "Implemented ability to manually sort folders in the folder pane"
+    ],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Thunderbird could crash when setting message compose headers",
+      "Links in the OAuth authentication window did not open when clicked",
+      "Access was not allowed to attachments at specific UNC hosts",
+      "Mail window could stop functioning during and after folder compaction",
+      "Full folder sorting logic was not used when inserting folders after move",
+      "mail.compose.other.header headers were not shown in Show All Headers mode",
+      "Folder was hidden from Favorite when a subfolder was removed",
+      "Folder tree message counts displayed incorrectly under certain conditions",
+      "Selection was not restored after manual folder sorting",
+      "Dragging a folder to a new parent did not insert it correctly for IMAP folders",
+      "Compact View users had all folders expanded after restart",
+      "Invite attachments without a name were forwarded as 'Attached Message Part'",
+      "Selected folder was not refreshed when applying 'Appearance' Threading settings",
+      "'Grouped by Sort' for all folders in 'Appearance' settings did not work properly",
+      "Thunderbird could crash if message copying to Sent folder was interrupted",
+      "System search toggle did not properly reflect and control integration state",
+      "Dragging attachments to desktop from Thunderbird did not work on macOS",
+      "Dark mode messages displayed in light mode due to preference setting conflict",
+      "Reminders missed for all-day events when calendar.alarms.showmissed was false",
+      "Access to multiple CalDAV calendars was not possible"
+    ],
+    "known_issues": [
+      "Message list switched to Cards View instead of keeping Table View preference"
+    ]
+  },
+  {
+    "release_name": "139.0.1",
+    "release_date": "June 11, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [
+      "Thunderbird could crash when copying a local folder to IMAP",
+      "Upgrade to 139.0 incorrectly switched Table View to Cards View"
+    ],
+    "known_issues": []
+  },
+  {
+    "release_name": "139.0.2",
+    "release_date": "June 18, 2025",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [],
+    "known_issues": []
+  }
+]
