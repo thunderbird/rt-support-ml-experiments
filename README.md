@@ -1,6 +1,8 @@
 # rt-support-ml-experiments
 adventures in ml :-) All data used in my experiments is publicly available data.
 
+# 2025-07-24-p1 June 2025 TB Android Desktop and Android Report
+
 # 2025-06-19-p1 May 2025 TB Android Desktop and Android Report
 1\. BQ Query for Desktop: [May2025-thunderbird-desktop-questions-query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s596604a0-7aef-4dfa-b268-8fd38137e749!2e1); Results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/Thunderbird_Desktop_forum_may2025_bquxjob_38b40299_1978b36e789.json) and [CSV](https://docs.google.com/spreadsheets/d/1ooZDkmhlNTYiinK1XoZr3s_0XGe91Omjcf468QYIcuc/edit?usp=sharing)
 
