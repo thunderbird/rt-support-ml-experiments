@@ -2,48 +2,43 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
+from urllib.parse import urlparse
 
-# List of release note URLs
-release_urls = [
+# List of Thunderbird release note URLs
+urls = [
     "https://www.thunderbird.net/en-US/thunderbird/128.0esr/releasenotes/",
     "https://www.thunderbird.net/en-US/thunderbird/128.0.1esr/releasenotes/",
-    # Add all other URLs here
+    "https://www.thunderbird.net/en-US/thunderbird/128.1.0esr/releasenotes/",
+    # Add all remaining URLs here
 ]
 
-releases = []
+def extract_section(soup, section_id):
+    section = soup.find('h3', id=section_id)
+    if not section:
+        return []
+    notes = []
+    for sibling in section.find_next_siblings():
+        if sibling.name == 'h3':
+            break
+        if sibling.name == 'div' and 'note-text' in sibling.get('class', []):
+            notes.append(sibling.get_text(strip=True))
+    return notes
 
-for url in release_urls:
+def parse_release_page(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Extract release name
-    release_name = soup.find('h1').text.strip() if soup.find('h1') else None
+    release_name = url.strip('/').split('/')[-2]
 
-    # Extract release date
-    release_date = None
-    for p in soup.find_all('p'):
-        if 'Released' in p.text:
-            release_date = p.text.strip()
-            break
+    date_div = soup.select_one('div.release-text-container > h4')
+    release_date = date_div.get_text(strip=True).replace("Released ", "") if date_div else ""
 
-    # Extract sections
-    def extract_section(header_text):
-        header = soup.find(lambda tag: tag.name.startswith('h') and header_text.lower() in tag.text.lower())
-        if header:
-            content = []
-            for sibling in header.find_next_siblings():
-                if sibling.name and sibling.name.startswith('h'):
-                    break
-                content.append(sibling.text.strip())
-            return content
-        return []
+    whats_new = extract_section(soup, 'whatsnew')
+    whats_changed = extract_section(soup, 'changed')
+    whats_fixed = extract_section(soup, 'fixes')
+    known_issues = extract_section(soup, 'known-issues')
 
-    whats_new = extract_section("What's New")
-    whats_changed = extract_section("What's Changed")
-    whats_fixed = extract_section("What's Fixed")
-    known_issues = extract_section("Known Issues")
-
-    release_info = {
+    return {
         "link": url,
         "release_name": release_name,
         "release_date": release_date,
@@ -53,12 +48,16 @@ for url in release_urls:
         "known_issues": known_issues
     }
 
-    releases.append(release_info)
+results = []
+for url in urls:
+    try:
+        results.append(parse_release_page(url))
+        print(f"Processed {url}")
+        time.sleep(60)  # Wait 1 minute between requests
+    except Exception as e:
+        print(f"Failed to process {url}: {e}")
 
-    # Wait for 60 seconds before the next request
-    time.sleep(60)
+with open('thunderbird_releases.json', 'w') as f:
+    json.dump(results, f, indent=2)
 
-# Save to JSON file
-with open('thunderbird_releases.json', 'w', encoding='utf-8') as f:
-    json.dump(releases, f, ensure_ascii=False, indent=4)
-
+print("Scraping completed.")

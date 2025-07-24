@@ -1,20 +1,29 @@
 [
-    {
-        "link": "https://www.thunderbird.net/en-US/thunderbird/128.0esr/releasenotes/",
-        "release_name": null,
-        "release_date": null,
-        "whats_new": [],
-        "whats_changed": [],
-        "whats_fixed": [],
-        "known_issues": []
-    },
-    {
-        "link": "https://www.thunderbird.net/en-US/thunderbird/128.0.1esr/releasenotes/",
-        "release_name": null,
-        "release_date": null,
-        "whats_new": [],
-        "whats_changed": [],
-        "whats_fixed": [],
-        "known_issues": []
-    }
+  {
+    "link": "https://www.thunderbird.net/en-US/thunderbird/128.0esr/releasenotes/",
+    "release_name": "128.0esr",
+    "release_date": "",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [],
+    "known_issues": []
+  },
+  {
+    "link": "https://www.thunderbird.net/en-US/thunderbird/128.0.1esr/releasenotes/",
+    "release_name": "128.0.1esr",
+    "release_date": "",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [],
+    "known_issues": []
+  },
+  {
+    "link": "https://www.thunderbird.net/en-US/thunderbird/128.1.0esr/releasenotes/",
+    "release_name": "128.1.0esr",
+    "release_date": "",
+    "whats_new": [],
+    "whats_changed": [],
+    "whats_fixed": [],
+    "known_issues": []
+  }
 ]
