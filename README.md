@@ -23,11 +23,15 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 
 >You are a Thunderbird for macOS, Windows and Linux email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for June 2025. Please always link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
 >
-**PROMPT**:
-> Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make there is a separate group for each of the following types of issues: IMAP, POP3, "authentication issues", sending email,receiving email, calendar, and contacts as well as include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.
-> 
-> please link all the posts for all categories and Brand Mentions
-> 
+**PROMPTs**:
+
+1. Using the JSON file uploaded to 'Knowledge', please count how many posts there are in the JSON file, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make there is a separate group for each of the following types of issues: IMAP, POP3, "authentication issues", sending email,receiving email, calendar, and contacts as well as include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.
+1. The previous analysis is incorrect. Please repeat but read all 1053 posts in the 'Knowledge' file.
+1. Please repeat the previous analysis and add an other category as well as provide links for all categories.
+1. Please repeat the previous and add a markdown table of all post with links to every post in each category.
+2. please repeat analysis and provide links to mentions by provider
+3. Please repeat and add provider-specific analysis for OAuth2 issues.
+4. Please repeat and add links to the "OAuth2 Issues Summary" section.
 > ># copy and paste to clipboard and create 
 
 # 2025-06-19-p1 May 2025 TB Android Desktop and Android Report
