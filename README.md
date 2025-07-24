@@ -7,11 +7,27 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 2\. BQ Query for Android: [May2025-thunderbird-android-questions-query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3sd6f52811-0d7a-4e30-8c2c-76df6a368eeb!2e1); Results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/MAY_2025/Thunderbird_android-forum_may2025_bquxjob_16210210_1978b495931.json) and [CSV](https://docs.google.com/spreadsheets/d/1aCDiyzxgnetP4jQQwOglj1d9kogsClut25sRyv3raQI/edit?usp=sharing)
 
 3\. [Summary TB Desktop June 2025 report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_english_top10_links_with_counts.md)
-* [Detailed with all 1209 links TB June May 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_categorized_links.md)
-* May 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-may-2025](https://chatgpt.com/g/g-6854dfbfbf00819183f7de0505ab3127-may-2025-tb-desktop-gpt)
+* [Detailed with all 1053 links TB June 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/thunderbird_may2025_categorized_links.md)
+* June 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-june-2025]()
 
 4\. [Detailed with all 89 links TB June May 2025 Report](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_FOR_ANDROID/MAY_2025/may2025-android-detaile-list-all-links-categorized.md)
 * May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025](https://chatgpt.com/g/g-6854f6067d148191aff63f237bca1a57)
+
+## 2025-07-24-p1 June 2025 TB Desktop GPT CONFIG and prompts
+
+**DESCRIPTION**
+
+> queries SUMO Forum Questions for June 2025 that are uploaded to 'Knowledge'
+
+**Instructions**
+
+>You are a Thunderbird for macOS, Windows and Linux email client expert, in particular an expert on IMAP, POP, gmail and microsoft/office 365 and hotmail and exchange email. The file uploaded to Knowledge is a JSON file of posts on a support forum for June 2025. Please always link to the posts using the "question_link" field in the JSON file using the following format for the link text: the integer part of "question_link" followed by a colon followed by the "title" field.
+>
+**PROMPT**:
+> Tell me how many posts there are, and group them by what their complaint is about, roughly speaking. Tell me how many posts are in each group. Make there is a separate group for "authentication issues", a separate group for issues with email and a separate group for receiving email and and include anything that talks about being unable to get into their email account, a password issue, or some sort of connection error to a server that is likely to be authentication-related. Also, call out the total number of posts that mention "Microsoft" or "Google" at the end.
+> 
+> please link all the posts for all categories and Brand Mentions
+> ># copy and paste to clipboard and create 
 
 # 2025-06-19-p1 May 2025 TB Android Desktop and Android Report
 1\. BQ Query for Desktop: [May2025-thunderbird-desktop-questions-query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smoz-fx-data-sumo-prod!2snorthamerica-northeast1!3s596604a0-7aef-4dfa-b268-8fd38137e749!2e1); Results in [JSON](https://github.com/thunderbird/rt-support-ml-experiments/blob/main/REPORTS/SUMO_FORUMS/THUNDERBIRD_DESKTOP/MAY_2025/Thunderbird_Desktop_forum_may2025_bquxjob_38b40299_1978b36e789.json) and [CSV](https://docs.google.com/spreadsheets/d/1ooZDkmhlNTYiinK1XoZr3s_0XGe91Omjcf468QYIcuc/edit?usp=sharing)
