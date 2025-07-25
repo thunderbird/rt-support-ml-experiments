@@ -1,4 +1,4 @@
-## Thunderbird Support Forum Summary (June 2025)
+## Thunderbird Desktop Support Forum Summary (June 2025)
 
 This summary categorizes all **1,053 posts** from the Thunderbird support forum for June 2025. Each post is listed in the table under its relevant category, including direct links to each question.
 
