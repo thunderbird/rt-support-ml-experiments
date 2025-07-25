@@ -1,5 +1,4 @@
-Here are the grouped posts with links included for each, based on the categories you requested:
-
+There were 55 Thunderbird for Android questions in June 2025
 ---
 
 ### 📧 **IMAP-related issues** – 4 posts
