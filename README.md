@@ -11,7 +11,7 @@ adventures in ml :-) All data used in my experiments is publicly available data.
 * June 2025 TB Desktop GPT with JSON file uploaded to `Knowledge`: [TBDesktop-sumo-forum-june-2025](https://chatgpt.com/g/g-688259a6ad2481919a7e1f74c6bf3b96-june-2025-sumo-tb-sumo-desktop-questions)
 
 4\. [Detailed with all 89 links TB Android 2025 Report]()
-* May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-may-2025](https://chatgpt.com/g/g-6854f6067d148191aff63f237bca1a57)
+* May 2025 TB Android GPT with JSON file uploaded to `Knowledge`: [TBAndroid-sumo-forum-june-2025](https://chatgpt.com/g/g-6883be77dc0c8191ac85306159e2474b-june-2025-tb-android-sumo-forum-questions)
 
 ## 2025-07-24-p1 June 2025 TB Desktop GPT CONFIG and prompts
 
